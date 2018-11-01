@@ -1,33 +1,64 @@
 \babel@toc {english}{}
-\contentsline {chapter}{\numberline {1}Game Overview}{2}
-\contentsline {section}{\numberline {1.1}Game Concept}{2}
-\contentsline {section}{\numberline {1.2}Setting}{2}
-\contentsline {section}{\numberline {1.3}Feature Set}{2}
-\contentsline {section}{\numberline {1.4}Genre}{3}
-\contentsline {section}{\numberline {1.5}Target Audience}{3}
-\contentsline {section}{\numberline {1.6}Game Flow Summary}{3}
-\contentsline {section}{\numberline {1.7}Look and Feel}{3}
-\contentsline {section}{\numberline {1.8}Project Scope}{3}
-\contentsline {chapter}{\numberline {2}Gameplay and Mechanics}{4}
-\contentsline {section}{\numberline {2.1}Game Progression}{4}
-\contentsline {subsection}{\numberline {2.1.1}Infiltration}{4}
-\contentsline {subsection}{\numberline {2.1.2}Scavenging}{4}
-\contentsline {subsection}{\numberline {2.1.3}Lockdown}{4}
-\contentsline {section}{\numberline {2.2}Objectives}{5}
-\contentsline {subsection}{\numberline {2.2.1}Main Objectives}{5}
-\contentsline {subsection}{\numberline {2.2.2}Secondary Objectives}{5}
-\contentsline {section}{\numberline {2.3}Challenges}{5}
-\contentsline {subsection}{\numberline {2.3.1}Level Layout}{5}
-\contentsline {subsection}{\numberline {2.3.2}Security Drones}{5}
-\contentsline {subsection}{\numberline {2.3.3}Combat}{5}
-\contentsline {section}{\numberline {2.4}Play Flow}{5}
-\contentsline {section}{\numberline {2.5}Mechanics}{5}
-\contentsline {subsection}{\numberline {2.5.1}Physics}{5}
-\contentsline {subsection}{\numberline {2.5.2}Movement}{5}
-\contentsline {subsection}{\numberline {2.5.3}Score}{5}
-\contentsline {subsection}{\numberline {2.5.4}Objects}{5}
-\contentsline {subsubsection}{Traps}{5}
-\contentsline {subsubsection}{Items}{5}
-\contentsline {subsubsection}{Gold}{5}
-\contentsline {subsection}{\numberline {2.5.5}Actions}{5}
-\contentsline {section}{\numberline {2.6}Combat}{5}
+\contentsline {chapter}{\numberline {1}Game Overview}{3}
+\contentsline {section}{\numberline {1.1}Game Concept}{3}
+\contentsline {section}{\numberline {1.2}Setting}{3}
+\contentsline {section}{\numberline {1.3}Feature Set}{3}
+\contentsline {section}{\numberline {1.4}Genre}{4}
+\contentsline {section}{\numberline {1.5}Target Audience}{4}
+\contentsline {section}{\numberline {1.6}Game Flow Summary}{4}
+\contentsline {section}{\numberline {1.7}Look and Feel}{4}
+\contentsline {section}{\numberline {1.8}Project Scope}{4}
+\contentsline {chapter}{\numberline {2}Gameplay and Mechanics}{6}
+\contentsline {section}{\numberline {2.1}Game Progression}{6}
+\contentsline {subsection}{\numberline {2.1.1}Infiltration}{6}
+\contentsline {subsection}{\numberline {2.1.2}Scavenging}{6}
+\contentsline {subsection}{\numberline {2.1.3}Lockdown}{6}
+\contentsline {section}{\numberline {2.2}Objectives}{7}
+\contentsline {subsection}{\numberline {2.2.1}Main Objectives}{7}
+\contentsline {subsection}{\numberline {2.2.2}Secondary Objectives}{7}
+\contentsline {section}{\numberline {2.3}Challenges}{7}
+\contentsline {subsection}{\numberline {2.3.1}Level Layout}{7}
+\contentsline {subsection}{\numberline {2.3.2}Security Drones}{7}
+\contentsline {subsection}{\numberline {2.3.3}Combat}{8}
+\contentsline {section}{\numberline {2.4}Play Flow}{8}
+\contentsline {section}{\numberline {2.5}Mechanics}{8}
+\contentsline {subsection}{\numberline {2.5.1}Physics}{8}
+\contentsline {subsection}{\numberline {2.5.2}Movement}{8}
+\contentsline {subsection}{\numberline {2.5.3}Score}{8}
+\contentsline {subsection}{\numberline {2.5.4}Objects}{8}
+\contentsline {subsubsection}{Traps}{8}
+\contentsline {subsubsection}{Items}{8}
+\contentsline {subsubsection}{Gold}{8}
+\contentsline {subsection}{\numberline {2.5.5}Actions}{9}
+\contentsline {section}{\numberline {2.6}Combat}{9}
+\contentsline {subsection}{\numberline {2.6.1}Inventory System}{10}
+\contentsline {subsection}{\numberline {2.6.2}Economy}{10}
+\contentsline {subsubsection}{Scoring System}{10}
+\contentsline {subsubsection}{Health System}{10}
+\contentsline {section}{\numberline {2.7}Screen Flow}{10}
+\contentsline {subsection}{\numberline {2.7.1}Screen Flow Chart}{10}
+\contentsline {subsection}{\numberline {2.7.2}Screen Descriptions}{10}
+\contentsline {subsubsection}{Main Menu Screen}{10}
+\contentsline {subsubsection}{Options Screen}{10}
+\contentsline {subsection}{\numberline {2.7.3}Game Options}{10}
+\contentsline {chapter}{\numberline {3}Story, Setting and Character}{11}
+\contentsline {section}{\numberline {3.1}Story and Narrative}{11}
+\contentsline {subsection}{\numberline {3.1.1}Back Story}{11}
+\contentsline {subsection}{\numberline {3.1.2}Plot Elements}{11}
+\contentsline {subsection}{\numberline {3.1.3}Game Progression}{11}
+\contentsline {section}{\numberline {3.2}Cut Scenes}{11}
+\contentsline {subsection}{\numberline {3.2.1}Cut Scene (Introduction)}{11}
+\contentsline {subsubsection}{Description}{11}
+\contentsline {subsubsection}{Storyboard}{11}
+\contentsline {section}{\numberline {3.3}Game World}{11}
+\contentsline {section}{\numberline {3.4}Characters}{11}
+\contentsline {chapter}{\numberline {4}Levels}{12}
+\contentsline {chapter}{\numberline {5}Interface}{13}
+\contentsline {section}{\numberline {5.1}Visual System}{13}
+\contentsline {section}{\numberline {5.2}Control System}{13}
+\contentsline {chapter}{\numberline {6}Artificial Intelligence}{14}
+\contentsline {chapter}{\numberline {7}Technical}{15}
+\contentsline {chapter}{\numberline {8}Game Art}{16}
+\contentsline {chapter}{\numberline {9}Secondary Software}{17}
+\contentsline {chapter}{\numberline {10}Management}{18}
+\contentsline {chapter}{\numberline {11}Appendices}{19}
