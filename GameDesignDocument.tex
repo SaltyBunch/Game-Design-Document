@@ -1,4 +1,4 @@
-\documentclass[14pts]{report}
+\documentclass[14pt]{report}
 
 \usepackage[english]{babel}
 
@@ -279,7 +279,7 @@ There are multiple challenges for the player
             \begin{itemize}
                 \item Does 1 DMG/2 seconds
                 \item Slows player movement speed by 40\%
-                \item Takes over $3\times2$ tiles
+                \item Takes over \(3\times2\) tiles
                 \item lasts for 2 minutes if untriggered
                 \item Lasts for 30 seconds if triggered
             \end{itemize}
@@ -300,9 +300,46 @@ There are multiple challenges for the player
 \end{itemize}
 
 \subsection{Inventory System}
+\begin{itemize}
+    \item An inventory system will be in place for weapons and traps pickups
+    \item Pickups will be available across the map 
+    \begin{itemize}
+        \item Players will need to be in range to pick up a weapon or trap
+        \item A button prompt will appear when player in range
+        \item Player can press button to pick up weapon/trap
+    \end{itemize}
+    \item Picking up a weapon that the player already has refreshes the ammo
+    \item Picking up a trap that the player already has adds to the ammo (Max 4)
+    \item Players presses button to cycle between items
+\end{itemize}
 \subsection{Economy}
 \subsubsection{Scoring System}
+\begin{itemize}
+    \item Score will be calculated according to how much gold is collected
+    \item Player with the highest score (that manages to escape) will win
+    \item 1 Gold = 1 Score
+    \item When players get damaged/stunned and drop gold, they will lose score
+    \item Each drone will drop X amount of gold only
+\end{itemize}
 \subsubsection{Health System}
+\begin{itemize}
+    \item Players and drones will share the same health system
+    \item Health system will be a 4-Stack system
+    \begin{itemize}
+        \item 1 Damage point will add a DMG stack on the player/drone
+        \item Stack will last 5 secs, and will disappear if the player/drone was not damaged again within that 5 secs
+        \item If player/drone manages to get 4 stacks, they will be stunned for 5 secs
+        \item If player is attacked while stunned or up to 3 seconds after stun, no stacks will be applied
+    \end{itemize}
+    \item Player/drones will drop X amount of gold when damaged
+    \item Player/drones will drop Y amount of gold when stunned
+\end{itemize}
+\subsubsection{Pick-up System}
+\begin{itemize}
+    \item Pickups are available in designated areas in the map
+    \item Pickups respawn every 45 secs
+    \item There is a minimum and maximum number of pickups available at all times
+\end{itemize}
 \section{Screen Flow}
 \subsection{Screen Flow Chart}
 \subsection{Screen Descriptions}
