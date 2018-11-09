@@ -1,4 +1,4 @@
-\documentclass[14pt]{report}
+\documentclass[11pt]{report}
 
 \usepackage[english]{babel}
 
@@ -7,7 +7,7 @@
 \usepackage{float}
 \usepackage{subcaption}
 
-\usepackage[letterpaper]{geometry}
+\usepackage[letterpaper,margin=2.54cm]{geometry}
 
 \pagestyle{headings}
 
@@ -18,13 +18,8 @@
 
 \begin{document}
 
-
-
 \maketitle
-
-
 \tableofcontents
-
 
 \chapter{Game Overview}
 
@@ -750,9 +745,8 @@ As seen in Figure~\ref{fig:uilayout}, the UI elements will appear on the corner 
 \begin{figure}[H]
 	\includegraphics[width=\linewidth]{images/uiLayout.jpg}
     \caption{UI Layout}
-    \label{fig:uilayout}
+\label{fig:uilayout}
 \end{figure}
-%%HERE
 
 \section{Menus}
 
@@ -986,6 +980,7 @@ All scripts are written in C\# following the guidelines that are outlined on Mic
 \end{figure}
 
 \begin{figure}[H]
+    \centering
 	\includegraphics[width=.4\linewidth]{images/TheBig.jpg}
 	\includegraphics[width=.4\linewidth]{images/TheShadow.jpg}
 	\includegraphics[width=.4\linewidth]{images/TheJailbird.jpg}
@@ -996,12 +991,14 @@ All scripts are written in C\# following the guidelines that are outlined on Mic
 \section{Environments}
 
 \begin{figure}[H]
-	\includegraphics[width=\linewidth]{images/cinquebank.jpg}
+    \centering
+	\includegraphics[width=.8\linewidth]{images/cinquebank.jpg}
     \caption{Heist Portraits}
 \end{figure}
 
 \begin{figure}[H]
-	\includegraphics[width=\linewidth]{images/insidebank.jpg}
+    \centering
+	\includegraphics[width=.8\linewidth]{images/insidebank.jpg}
     \caption{Heist Portraits}
 \end{figure}
 
@@ -1015,7 +1012,7 @@ All scripts are written in C\# following the guidelines that are outlined on Mic
 \subsubsection{Playable Characters}
 
 
-\begin{tabular}{| p{.5\linewidth} | p{.5\linewidth}|} 
+\begin{tabular}{| p{.45\linewidth} | p{.45\linewidth}|} 
     \hline
     Playable Characters & Description \\ \hline
     Marshal\_`King'  &   Male, athletically built, African American, brown eyes, black hair, primarily long sleeves (top color variations for how many players choose King) dark bottoms and heavy boots/shoes.  \\ \hline
@@ -1027,7 +1024,7 @@ All scripts are written in C\# following the guidelines that are outlined on Mic
 
 \subsubsection{Non-Playable Characters}
 
-\begin{tabular}{| p{.5\linewidth} | p{.5\linewidth} |}
+\begin{tabular}{| p{.45\linewidth} | p{.45\linewidth} |}
     \hline    
     Non-Playable Characters &   Description  \\ \hline
     Security\_Drone &    Follows set path to stop players from getting away with gold.  \\ \hline
@@ -1037,7 +1034,7 @@ All scripts are written in C\# following the guidelines that are outlined on Mic
 
 \subsubsection{Model and Texture List}
 
-\begin{tabular}{| p{.5\linewidth} | p{.5\linewidth} |}
+\begin{tabular}{| p{.45\linewidth} | p{.45\linewidth} |}
     \hline    
     3D Models   & Description  \\ \hline
     Plants (5)  &   Potted plants to fill the environment \\ \hline
@@ -1072,7 +1069,7 @@ All scripts are written in C\# following the guidelines that are outlined on Mic
 
 \subsubsection{Sprites}
 
-\begin{tabular}{| p{.5\linewidth} | p{.5\linewidth} |}
+\begin{tabular}{| p{.45\linewidth} | p{.45\linewidth} |}
     \hline 
     Sprites     &   Description  \\ \hline
     Stun\_Sprite     &   Stars spinning around character. Disappears after stun is over.  \\ \hline
@@ -1088,7 +1085,7 @@ All scripts are written in C\# following the guidelines that are outlined on Mic
 
 \subsubsection{Animation List}
 
-\begin{tabular}{| p{.5\linewidth} | p{.5\linewidth} |}
+\begin{tabular}{| p{.45\linewidth} | p{.45\linewidth} |}
     \hline
     Animation List      &   Description     \\ \hline
     King\_Walk\_Animation &   King walks with a heavier gait, lumbering around the bank due to his larger build and being able to carry more gold than other characters.  \\ \hline
@@ -1113,7 +1110,7 @@ All scripts are written in C\# following the guidelines that are outlined on Mic
 
 \subsubsection{Effects List}
 
-\begin{tabular}{| p{.5\linewidth} | p{.5\linewidth} |}
+\begin{tabular}{| p{.45\linewidth} | p{.45\linewidth} |}
     \hline
     User-Interface List     &   Description  \\ \hline
     Controls\_UI     &   Display of controller/keyboard to show players the controls of the game.  \\ \hline
@@ -1134,7 +1131,7 @@ All scripts are written in C\# following the guidelines that are outlined on Mic
 
 \subsubsection{Music}
 
-\begin{tabular}{| p{.5\linewidth} | p{.5\linewidth} |}
+\begin{tabular}{| p{.45\linewidth} | p{.45\linewidth} |}
     \hline
     Sound & Description \\  \hline
     Infiltration Theme  &     Quiet, tension raising jazz piece, lots of swagger and focus on drums and upright bass \\ \hline
@@ -1169,7 +1166,7 @@ All scripts are written in C\# following the guidelines that are outlined on Mic
 
 \subsubsection{Weapon Sounds}
 
-\begin{tabular}{| p{.5\linewidth} | p{.5\linewidth} |}
+\begin{tabular}{| p{.45\linewidth} | p{.45\linewidth} |}
     \hline
     Sound & Description \\  \hline
     Stun Gun Pickup     & Click \\ \hline
@@ -1186,7 +1183,7 @@ All scripts are written in C\# following the guidelines that are outlined on Mic
 
 \subsubsection{Interface Sounds}
 
-\begin{tabular}{| p{.5\linewidth} | p{.5\linewidth} |}
+\begin{tabular}{| p{.45\linewidth} | p{.45\linewidth} |}
     \hline
     Sound & Description \\  \hline
     Quicktime Event Success &     Electric device being powered down \\ \hline
@@ -1197,7 +1194,7 @@ All scripts are written in C\# following the guidelines that are outlined on Mic
 
 \subsubsection{Voice}
 
-\begin{tabular}{| p{.5\linewidth} | p{.5\linewidth} |}
+\begin{tabular}{| p{.45\linewidth} | p{.45\linewidth} |}
     \hline
     Sound & Description \\  \hline
     Enter Bank(4)   &   \\ \hline

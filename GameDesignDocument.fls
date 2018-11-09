@@ -6,8 +6,10 @@ INPUT c:/Users/hiros/Game-Design-Document/GameDesignDocument.tex
 OUTPUT GameDesignDocument.log
 INPUT c:/texlive/2018/texmf-dist/tex/latex/base/report.cls
 INPUT c:/texlive/2018/texmf-dist/tex/latex/base/report.cls
-INPUT c:/texlive/2018/texmf-dist/tex/latex/base/size10.clo
-INPUT c:/texlive/2018/texmf-dist/tex/latex/base/size10.clo
+INPUT c:/texlive/2018/texmf-dist/tex/latex/base/size11.clo
+INPUT c:/texlive/2018/texmf-dist/tex/latex/base/size11.clo
+INPUT c:/texlive/2018/texmf-dist/fonts/map/fontname/texfonts.map
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
 INPUT c:/texlive/2018/texmf-dist/tex/generic/babel/babel.sty
 INPUT c:/texlive/2018/texmf-dist/tex/generic/babel/babel.sty
 INPUT c:/texlive/2018/texmf-dist/tex/generic/babel/switch.def
@@ -80,7 +82,6 @@ INPUT c:/texlive/2018/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 INPUT c:/texlive/2018/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 INPUT c:/texlive/2018/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT c:/texlive/2018/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-INPUT c:/texlive/2018/texmf-dist/fonts/map/fontname/texfonts.map
 INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
 INPUT images/logo.jpg
 INPUT ./images/logo.jpg
@@ -104,8 +105,9 @@ INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT GameDesignDocument.toc
 INPUT GameDesignDocument.toc
 INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
-INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
-INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
 INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmsl10.tfm
 OUTPUT GameDesignDocument.toc
 INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
@@ -236,7 +238,6 @@ INPUT ./images/raccoonui_sarah.jpg
 INPUT images/lasertripwire.jpg
 INPUT ./images/lasertripwire.jpg
 INPUT ./images/lasertripwire.jpg
-INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr9.tfm
 INPUT images/electricfield.jpg
 INPUT ./images/electricfield.jpg
 INPUT ./images/electricfield.jpg
@@ -281,7 +282,6 @@ INPUT c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 INPUT c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 INPUT c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
 INPUT c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb
-INPUT c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb
 INPUT c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb
 INPUT c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
 INPUT c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb
