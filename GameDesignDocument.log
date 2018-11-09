@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2018.9.5)  9 NOV 2018 03:58
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2018.11.1)  9 NOV 2018 11:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**d:/source/Game-Design-Document/GameDesignDocument.tex
-(d:/source/Game-Design-Document/GameDesignDocument.tex
+**c:/Users/hiros/Game-Design-Document/GameDesignDocument.tex
+(c:/Users/hiros/Game-Design-Document/GameDesignDocument.tex
 LaTeX2e <2018-04-01> patch level 5
 (c:/texlive/2018/texmf-dist/tex/latex/base/report.cls
 Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
@@ -24,13 +24,13 @@ File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 ) (c:/texlive/2018/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2018/09/02 3.23 The Babel package
+Package: babel 2018/10/16 3.26 The Babel package
  (c:/texlive/2018/texmf-dist/tex/generic/babel/switch.def
-File: switch.def 2018/09/02 3.23 Babel switching mechanism
+File: switch.def 2018/10/16 3.26 Babel switching mechanism
 ) (c:/texlive/2018/texmf-dist/tex/generic/babel-english/english.ldf
 Language: english 2017/06/06 v3.3r English support from the babel system
  (c:/texlive/2018/texmf-dist/tex/generic/babel/babel.def
-File: babel.def 2018/09/02 3.23 Babel common definitions
+File: babel.def 2018/10/16 3.26 Babel common definitions
 \babel@savecnt=\count89
 \U@D=\dimen103
  (c:/texlive/2018/texmf-dist/tex/generic/babel/txtbabel.def)
@@ -121,9 +121,9 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 ) (c:/texlive/2018/texmf-dist/tex/latex/caption/subcaption.sty
 Package: subcaption 2018/05/01 v1.1-162 Sub-captions (AR)
  (c:/texlive/2018/texmf-dist/tex/latex/caption/caption.sty
-Package: caption 2018/05/01 v3.3-147 Customizing captions (AR)
+Package: caption 2018/10/06 v3.3-154 Customizing captions (AR)
  (c:/texlive/2018/texmf-dist/tex/latex/caption/caption3.sty
-Package: caption3 2018/05/27 v1.8a caption3 kernel (AR)
+Package: caption3 2018/09/12 v1.8c caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 64.
 \captionmargin=\dimen115
 \captionmargin@=\dimen116
@@ -133,24 +133,25 @@ Package caption3 Info: TeX engine: e-TeX on input line 64.
 \caption@parindent=\dimen120
 \caption@hangindent=\dimen121
 )
-\c@ContinuedFloat=\count104
+\c@caption@flags=\count104
+\c@ContinuedFloat=\count105
 Package caption Info: float package is loaded.
 )
-\c@subfigure=\count105
-\c@subtable=\count106
+\c@subfigure=\count106
+\c@subtable=\count107
 ) (c:/texlive/2018/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2018/04/16 v5.8 Page Geometry
  (c:/texlive/2018/texmf-dist/tex/generic/oberdiek/ifpdf.sty
-Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
 ) (c:/texlive/2018/texmf-dist/tex/generic/oberdiek/ifvtex.sty
 Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 ) (c:/texlive/2018/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-\Gm@cnth=\count107
-\Gm@cntv=\count108
-\c@Gm@tempcnt=\count109
+\Gm@cnth=\count108
+\Gm@cntv=\count109
+\c@Gm@tempcnt=\count110
 \Gm@bindingoffset=\dimen122
 \Gm@wd@mp=\dimen123
 \Gm@odd@mp=\dimen124
@@ -168,30 +169,30 @@ LaTeX Warning: Unused global option(s):
 (./GameDesignDocument.aux)
 \openout1 = `GameDesignDocument.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
  (c:/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count110
+\scratchcounter=\count111
 \scratchdimen=\dimen130
 \scratchbox=\box30
-\nofMPsegments=\count111
-\nofMParguments=\count112
+\nofMPsegments=\count112
+\nofMParguments=\count113
 \everyMPshowfont=\toks23
-\MPscratchCnt=\count113
+\MPscratchCnt=\count114
 \MPscratchDim=\dimen131
-\MPnumerator=\count114
-\makeMPintoPDFobject=\count115
+\MPnumerator=\count115
+\makeMPintoPDFobject=\count116
 \everyMPtoPDFconversion=\toks24
 ) (c:/texlive/2018/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
@@ -218,7 +219,7 @@ Package etexcmds Info: Could not find \expanded.
 (etexcmds)             that some package has redefined \expanded.
 (etexcmds)             In the latter case, load this package earlier.
 ))) (c:/texlive/2018/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
-Package: pdftexcmds 2018/01/30 v0.27 Utility functions of pdfTeX for LuaTeX (HO)
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO)
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
@@ -268,9 +269,14 @@ Package caption Info: End \AtBeginDocument code.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
+<images/logo.jpg, id=1, 1003.75pt x 1003.75pt>
+File: images/logo.jpg Graphic file (type jpg)
+<use images/logo.jpg>
+Package pdftex.def Info: images/logo.jpg  used on input line 22.
+(pdftex.def)             Requested size: 281.8561pt x 281.85983pt.
 [1
 
-{c:/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./GameDesignDocument.toc [1
+{c:/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./images/logo.jpg>] (./GameDesignDocument.toc [1
 
 ] [2])
 \tf@toc=\write3
@@ -278,25 +284,25 @@ Package caption Info: End \AtBeginDocument code.
 
  [3]
 Chapter 1.
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 32.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 33.
 (c:/texlive/2018/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 32.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 33.
  [4
 
 ]
-<images/gameflowsummary.jpg, id=24, 1204.5pt x 903.375pt>
+<images/gameflowsummary.jpg, id=26, 1204.5pt x 903.375pt>
 File: images/gameflowsummary.jpg Graphic file (type jpg)
 <use images/gameflowsummary.jpg>
-Package pdftex.def Info: images/gameflowsummary.jpg  used on input line 71.
+Package pdftex.def Info: images/gameflowsummary.jpg  used on input line 72.
 (pdftex.def)             Requested size: 469.75539pt x 352.31483pt.
  [5 <./images/gameflowsummary.jpg>]
-<images/lookandfeel.jpg, id=28, 515.9275pt x 290.58563pt>
+<images/lookandfeel.jpg, id=30, 515.9275pt x 290.58563pt>
 File: images/lookandfeel.jpg Graphic file (type jpg)
 <use images/lookandfeel.jpg>
-Package pdftex.def Info: images/lookandfeel.jpg  used on input line 80.
+Package pdftex.def Info: images/lookandfeel.jpg  used on input line 81.
 (pdftex.def)             Requested size: 469.75539pt x 264.58852pt.
  [6 <./images/lookandfeel.jpg>]
 Chapter 2.
@@ -316,31 +322,31 @@ Chapter 5.
 
 ] [20]
 Chapter 6.
-<images/uiLayout.jpg, id=78, 3854.4pt x 2168.1pt>
+<images/uiLayout.jpg, id=80, 3854.4pt x 2168.1pt>
 File: images/uiLayout.jpg Graphic file (type jpg)
 <use images/uiLayout.jpg>
-Package pdftex.def Info: images/uiLayout.jpg  used on input line 639.
+Package pdftex.def Info: images/uiLayout.jpg  used on input line 640.
 (pdftex.def)             Requested size: 469.75539pt x 264.22992pt.
 [21
 
 ]
-<images/keyboardlayout.jpg, id=82, 1927.2pt x 1084.05pt>
+<images/keyboardlayout.jpg, id=84, 1927.2pt x 1084.05pt>
 File: images/keyboardlayout.jpg Graphic file (type jpg)
 <use images/keyboardlayout.jpg>
-Package pdftex.def Info: images/keyboardlayout.jpg  used on input line 669.
+Package pdftex.def Info: images/keyboardlayout.jpg  used on input line 670.
 (pdftex.def)             Requested size: 469.75539pt x 264.22992pt.
  [22 <./images/uiLayout.jpg>]
-<images/controllerlayout.jpg, id=86, 1027.84pt x 770.88pt>
+<images/controllerlayout.jpg, id=88, 1027.84pt x 770.88pt>
 File: images/controllerlayout.jpg Graphic file (type jpg)
 <use images/controllerlayout.jpg>
-Package pdftex.def Info: images/controllerlayout.jpg  used on input line 674.
+Package pdftex.def Info: images/controllerlayout.jpg  used on input line 675.
 (pdftex.def)             Requested size: 469.75539pt x 352.31538pt.
  [23 <./images/keyboardlayout.jpg>] [24 <./images/controllerlayout.jpg>] [25]
 Chapter 7.
-<images/fsm-ai.jpg, id=97, 661.97313pt x 540.0175pt>
+<images/fsm-ai.jpg, id=99, 661.97313pt x 540.0175pt>
 File: images/fsm-ai.jpg Graphic file (type jpg)
 <use images/fsm-ai.jpg>
-Package pdftex.def Info: images/fsm-ai.jpg  used on input line 757.
+Package pdftex.def Info: images/fsm-ai.jpg  used on input line 758.
 (pdftex.def)             Requested size: 469.75539pt x 383.2091pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -353,105 +359,149 @@ Chapter 8.
 
 ]
 Chapter 9.
-<images/bankconcept.jpg, id=107, 1927.2pt x 1084.05pt>
+<images/bankconcept.jpg, id=109, 1927.2pt x 1084.05pt>
 File: images/bankconcept.jpg Graphic file (type jpg)
 <use images/bankconcept.jpg>
-Package pdftex.def Info: images/bankconcept.jpg  used on input line 790.
+Package pdftex.def Info: images/bankconcept.jpg  used on input line 791.
 (pdftex.def)             Requested size: 469.75539pt x 264.22992pt.
-<images/floortile.jpg, id=108, 96.36pt x 96.36pt>
+<images/floortile.jpg, id=110, 96.36pt x 96.36pt>
 File: images/floortile.jpg Graphic file (type jpg)
 <use images/floortile.jpg>
-Package pdftex.def Info: images/floortile.jpg  used on input line 796.
+Package pdftex.def Info: images/floortile.jpg  used on input line 797.
 (pdftex.def)             Requested size: 187.89928pt x 187.89972pt.
-<images/painting.jpg, id=109, 150.5625pt x 135.50626pt>
+<images/painting.jpg, id=111, 150.5625pt x 135.50626pt>
 File: images/painting.jpg Graphic file (type jpg)
 <use images/painting.jpg>
-Package pdftex.def Info: images/painting.jpg  used on input line 797.
+Package pdftex.def Info: images/painting.jpg  used on input line 798.
 (pdftex.def)             Requested size: 187.89928pt x 169.12599pt.
 [29
 
  <./images/bankconcept.jpg>]
-<images/options.jpg, id=114, 3011.25pt x 1003.75pt>
+<images/options.jpg, id=115, 3011.25pt x 1003.75pt>
 File: images/options.jpg Graphic file (type jpg)
 <use images/options.jpg>
-Package pdftex.def Info: images/options.jpg  used on input line 802.
+Package pdftex.def Info: images/options.jpg  used on input line 803.
 (pdftex.def)             Requested size: 469.75539pt x 156.57518pt.
-<images/menu.jpg, id=115, 1927.2pt x 1084.05pt>
+<images/menu.jpg, id=116, 1927.2pt x 1084.05pt>
 File: images/menu.jpg Graphic file (type jpg)
 <use images/menu.jpg>
-Package pdftex.def Info: images/menu.jpg  used on input line 807.
+Package pdftex.def Info: images/menu.jpg  used on input line 808.
 (pdftex.def)             Requested size: 469.75539pt x 264.22992pt.
  [30 <./images/floortile.jpg> <./images/painting.jpg> <./images/options.jpg>]
-<images/ingameui.jpg, id=121, 1927.2pt x 1084.05pt>
+<images/ingameui.jpg, id=122, 1927.2pt x 1084.05pt>
 File: images/ingameui.jpg Graphic file (type jpg)
 <use images/ingameui.jpg>
-Package pdftex.def Info: images/ingameui.jpg  used on input line 812.
+Package pdftex.def Info: images/ingameui.jpg  used on input line 813.
 (pdftex.def)             Requested size: 469.75539pt x 264.22992pt.
  [31 <./images/menu.jpg>]
-<images/ingameuifinal.jpg, id=125, 3854.4pt x 2168.1pt>
+<images/ingameuifinal.jpg, id=126, 3854.4pt x 2168.1pt>
 File: images/ingameuifinal.jpg Graphic file (type jpg)
 <use images/ingameuifinal.jpg>
-Package pdftex.def Info: images/ingameuifinal.jpg  used on input line 817.
+Package pdftex.def Info: images/ingameuifinal.jpg  used on input line 818.
 (pdftex.def)             Requested size: 469.75539pt x 264.22992pt.
  [32 <./images/ingameui.jpg>]
-<images/kingui_sarah.jpg, id=129, 796.9775pt x 233.87375pt>
+<images/kingui_sarah.jpg, id=130, 796.9775pt x 233.87375pt>
 File: images/kingui_sarah.jpg Graphic file (type jpg)
 <use images/kingui_sarah.jpg>
-Package pdftex.def Info: images/kingui_sarah.jpg  used on input line 823.
+Package pdftex.def Info: images/kingui_sarah.jpg  used on input line 824.
 (pdftex.def)             Requested size: 187.89928pt x 55.13876pt.
-<images/shadowui_sarah.jpg, id=130, 797.98125pt x 233.87375pt>
+<images/shadowui_sarah.jpg, id=131, 797.98125pt x 233.87375pt>
 File: images/shadowui_sarah.jpg Graphic file (type jpg)
 <use images/shadowui_sarah.jpg>
-Package pdftex.def Info: images/shadowui_sarah.jpg  used on input line 824.
+Package pdftex.def Info: images/shadowui_sarah.jpg  used on input line 825.
 (pdftex.def)             Requested size: 187.89928pt x 55.06738pt.
-<images/jailbirdui_sarah.jpg, id=131, 796.9775pt x 233.87375pt>
+<images/jailbirdui_sarah.jpg, id=132, 796.9775pt x 233.87375pt>
 File: images/jailbirdui_sarah.jpg Graphic file (type jpg)
 <use images/jailbirdui_sarah.jpg>
-Package pdftex.def Info: images/jailbirdui_sarah.jpg  used on input line 825.
+Package pdftex.def Info: images/jailbirdui_sarah.jpg  used on input line 826.
 (pdftex.def)             Requested size: 187.89928pt x 55.13876pt.
-<images/raccoonui_sarah.jpg, id=132, 797.98125pt x 233.87375pt>
+<images/raccoonui_sarah.jpg, id=133, 797.98125pt x 233.87375pt>
 File: images/raccoonui_sarah.jpg Graphic file (type jpg)
 <use images/raccoonui_sarah.jpg>
-Package pdftex.def Info: images/raccoonui_sarah.jpg  used on input line 826.
+Package pdftex.def Info: images/raccoonui_sarah.jpg  used on input line 827.
 (pdftex.def)             Requested size: 187.89928pt x 55.06738pt.
-<images/lasertripwire.jpg, id=133, 653.44125pt x 588.1975pt>
+<images/lasertripwire.jpg, id=134, 653.44125pt x 588.1975pt>
 File: images/lasertripwire.jpg Graphic file (type jpg)
 <use images/lasertripwire.jpg>
-Package pdftex.def Info: images/lasertripwire.jpg  used on input line 833.
+Package pdftex.def Info: images/lasertripwire.jpg  used on input line 834.
 (pdftex.def)             Requested size: 187.89928pt x 169.13687pt.
-<images/electricfield.jpg, id=134, 759.83875pt x 757.83125pt>
+<images/electricfield.jpg, id=135, 759.83875pt x 757.83125pt>
 File: images/electricfield.jpg Graphic file (type jpg)
 <use images/electricfield.jpg>
-Package pdftex.def Info: images/electricfield.jpg  used on input line 837.
+Package pdftex.def Info: images/electricfield.jpg  used on input line 838.
 (pdftex.def)             Requested size: 187.89928pt x 187.39903pt.
-<images/pixil.jpg, id=135, 127.22531pt x 121.20282pt>
+<images/pixil.jpg, id=136, 127.22531pt x 121.20282pt>
 File: images/pixil.jpg Graphic file (type jpg)
 <use images/pixil.jpg>
-Package pdftex.def Info: images/pixil.jpg  used on input line 842.
+Package pdftex.def Info: images/pixil.jpg  used on input line 843.
 (pdftex.def)             Requested size: 187.89928pt x 179.01302pt.
-<images/camera.jpg, id=136, 526.09451pt x 493.45645pt>
+<images/camera.jpg, id=137, 526.09451pt x 493.45645pt>
 File: images/camera.jpg Graphic file (type jpg)
 <use images/camera.jpg>
-Package pdftex.def Info: images/camera.jpg  used on input line 843.
+Package pdftex.def Info: images/camera.jpg  used on input line 844.
 (pdftex.def)             Requested size: 187.89928pt x 176.24368pt.
- [33 <./images/ingameuifinal.jpg> <./images/kingui_sarah.jpg> <./images/shadowui_sarah.jpg> <./images/jailbirdui_sarah.jpg> <./images/raccoonui_sarah.jpg>] [34 <./images/lasertripwire.jpg> <./images/electricfield.jpg> <./images/pixil.jpg> <./images/camera.jpg>]
+ [33 <./images/ingameuifinal.jpg> <./images/kingui_sarah.jpg> <./images/shadowui_sarah.jpg> <./images/jailbirdui_sarah.jpg> <./images/raccoonui_sarah.jpg>]
+<images/electricfield1.jpg, id=145, 1272.755pt x 909.3975pt>
+File: images/electricfield1.jpg Graphic file (type jpg)
+<use images/electricfield1.jpg>
+Package pdftex.def Info: images/electricfield1.jpg  used on input line 851.
+(pdftex.def)             Requested size: 469.75539pt x 335.63924pt.
+ [34 <./images/lasertripwire.jpg> <./images/electricfield.jpg> <./images/pixil.jpg> <./images/camera.jpg>]
+<images/taser.jpg, id=150, 250.9375pt x 261.47687pt>
+File: images/taser.jpg Graphic file (type jpg)
+<use images/taser.jpg>
+Package pdftex.def Info: images/taser.jpg  used on input line 857.
+(pdftex.def)             Requested size: 140.92804pt x 146.85295pt.
+<images/zappy_gun.jpg, id=151, 225.35806pt x 194.2742pt>
+File: images/zappy_gun.jpg Graphic file (type jpg)
+<use images/zappy_gun.jpg>
+Package pdftex.def Info: images/zappy_gun.jpg  used on input line 858.
+(pdftex.def)             Requested size: 140.92804pt x 121.49518pt.
+<images/zappy_stick.jpg, id=152, 202.04517pt x 205.93065pt>
+File: images/zappy_stick.jpg Graphic file (type jpg)
+<use images/zappy_stick.jpg>
+Package pdftex.def Info: images/zappy_stick.jpg  used on input line 859.
+(pdftex.def)             Requested size: 140.92804pt x 143.64769pt.
+<images/drone_face.jpg, id=153, 136.5903pt x 70.3428pt>
+File: images/drone_face.jpg Graphic file (type jpg)
+<use images/drone_face.jpg>
+Package pdftex.def Info: images/drone_face.jpg  used on input line 865.
+(pdftex.def)             Requested size: 187.89928pt x 96.77477pt.
+<images/drone_fac2e.jpg, id=154, 135.1449pt x 70.3428pt>
+File: images/drone_fac2e.jpg Graphic file (type jpg)
+<use images/drone_fac2e.jpg>
+Package pdftex.def Info: images/drone_fac2e.jpg  used on input line 866.
+(pdftex.def)             Requested size: 187.89928pt x 97.8041pt.
+ [35 <./images/electricfield1.jpg> <./images/taser.jpg> <./images/zappy_gun.jpg> <./images/zappy_stick.jpg>] [36 <./images/drone_face.jpg> <./images/drone_fac2e.jpg>]
 Chapter 10.
-[35
+[37
 
-] (./GameDesignDocument.aux) ) 
+] (./GameDesignDocument.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
 Here is how much of TeX's memory you used:
- 4403 strings out of 492642
- 66083 string characters out of 6133178
- 151404 words of memory out of 5000000
- 8209 multiletter control sequences out of 15000+600000
+ 4459 strings out of 494085
+ 67117 string characters out of 6165697
+ 148440 words of memory out of 5000000
+ 8051 multiletter control sequences out of 15000+600000
  10880 words of font info for 39 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 42i,7n,40p,808b,447s stack positions out of 5000i,500n,10000p,200000b,80000s
-<c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on GameDesignDocument.pdf (36 pages, 11257318 bytes).
+ 319 hyphenation exceptions out of 8191
+ 42i,7n,40p,813b,449s stack positions out of 5000i,500n,10000p,200000b,80000s
+<c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on GameDesignDocument.pdf (38 pages, 11592129 bytes).
 PDF statistics:
- 179 PDF objects out of 1000 (max. 8388607)
- 105 compressed objects within 2 object streams
+ 194 PDF objects out of 1000 (max. 8388607)
+ 109 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 106 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 141 words of extra memory for PDF output out of 10000 (max. 10000000)
+
+sfonts/cm/cmr12.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on GameDesignDocument.pdf (36 pages, 11585749 bytes).
+PDF statistics:
+ 185 PDF objects out of 1000 (max. 8388607)
+ 102 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 141 words of extra memory for PDF output out of 10000 (max. 10000000)
 

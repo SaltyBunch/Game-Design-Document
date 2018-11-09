@@ -114,4 +114,5 @@
 \contentsline {section}{\numberline {8.3}Scripting Language}{28}
 \contentsline {chapter}{\numberline {9}Game Art}{29}
 \contentsline {section}{\numberline {9.1}Concept Art}{29}
-\contentsline {chapter}{\numberline {10}Appendices}{35}
+\contentsline {section}{\numberline {9.2}Characters}{36}
+\contentsline {chapter}{\numberline {10}Appendices}{37}
