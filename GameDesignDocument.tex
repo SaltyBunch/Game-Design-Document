@@ -42,6 +42,12 @@
 
 The game is set in the near future at the Cinque National Bank. The CNB is the biggest and most prestigious bank in the world, equipped with high-level defense mechanisms due to its reputation and several failed attempts at a heist. Four of the best thieves in the world are attempting to successfully pull of the biggest heist in history. Unknown to them, they are not alone.
 
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=\linewidth]{images/cinquebank.jpg}
+    \caption{Cinque National Bank}
+\end{figure}
+
 \section{Feature Set}
 
 \begin{itemize}
@@ -68,7 +74,7 @@ Heist is a multiplayer action party game, targeted at players ages 13 and above.
 
 \section{Game Flow Summary}
 
-\begin{figure}[h!]
+\begin{figure}[H]
 	\includegraphics[width=\linewidth]{images/gameflowsummary.jpg}
 	\caption{Game Flow Summary}
 \end{figure}
@@ -77,7 +83,7 @@ Heist is a multiplayer action party game, targeted at players ages 13 and above.
 
 Heist will have a fun, arcadey, but still have a competitive side to it. It will be easy to pickup, with not much complexity to it, and a lot of intuitive mechanics. We will use a pixel low poly art style to represent the environment and the characters in the game.
 
-\begin{figure}[h!]
+\begin{figure}[H]
 	\includegraphics[width=\linewidth]{images/lookandfeel.jpg}
 	\caption{Look and Feel}
 \end{figure}
@@ -135,7 +141,12 @@ The basement contains the vault.
 \chapter{Characters}
 
 \section{Marshal``King''}
-%%TODO: Add character art
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=.5\linewidth]{images/TheBig.jpg}
+    \caption{Marshal ``King''}
+\end{figure}
 
 \subsection{Back Story}
 
@@ -159,16 +170,24 @@ Because of Marshal’s athletic ability, he has has one extra health stack which
 
 \subsection{Statistics}
 
-%%TODO: Add hit bar
-
 \begin{itemize}
     \item Slower (2/4)
     \item Health (5/4)
     \item Lower Dexterity (2/4)
 \end{itemize}
 
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=.5\linewidth]{images/kingui_sarah.jpg}
+    \caption{}
+\end{figure}
+
 \section{Anna ``Jailbird''}
-%%TODO: Add character art
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=.5\linewidth]{images/TheJailbird.jpg}
+    \caption{Anna ``Jailbird''}
+\end{figure}
 
 \subsection{Back Story}
 
@@ -198,11 +217,19 @@ Because of Ana’s criminal background, police are always in pursuit of her, bui
     \item Dexterity (3/4)
 \end{itemize}
 
-%%TODO: Add UI section
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=.5\linewidth]{images/jailbirdui_sarah.jpg}
+    \caption{}
+\end{figure}
 
 \section{Olivia ``Shadow''}
 
-%%TODO: Add character portrait
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=.5\linewidth]{images/TheShadow.jpg}
+    \caption{Olivia ``Shadow''}
+\end{figure}
 
 \subsection{Back Story}
 
@@ -232,7 +259,19 @@ Because of her long history of being a spy-for-hire, she has required a real kna
     \item Dexterity (5/4)
 \end{itemize}
 
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=.5\linewidth]{images/shadowui_sarah.jpg}
+    \caption{}
+\end{figure}
+
 \section{Rocco ``Racoon''}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=.5\linewidth]{images/TheRaccoon.jpg}
+    \caption{Rocco ``Racoon''}
+\end{figure}
 
 \subsection{Back Story}
 
@@ -261,11 +300,20 @@ Because of his long history of stealing, Rocco has the ability to obtain loot fa
     \item Dexterity (4/4)
 \end{itemize}
 
-%%TODO: Add statistic pic
+\begin{figure}
+    \centering
+    \includegraphics[width=.5\linewidth]{images/raccoonui_sarah.jpg}
+    \caption{}
+\end{figure}
 
 \section{A.S.I.A (NPC)}
 
-%%TODO: Add A.S.I.A Pictures
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=.3\linewidth]{images/drone_face.jpg}
+    \includegraphics[width=.3\linewidth]{images/drone_face.jpg}
+    \caption{A.S.I.A}
+\end{figure}
 
 \subsection{Back Story}
 
@@ -305,7 +353,11 @@ Game Progression split into 3 parts
     \item Drones will be more aggressive
 \end{itemize}
 
-%%TODO: Add Game progression pic
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=\linewidth]{images/progPic.jpg}
+    \caption{Game Progression}
+\end{figure}
 
 \section{Objectives}
 \subsection{Main Objectives}
@@ -313,7 +365,12 @@ Game Progression split into 3 parts
     \item Achieve the highest score possible by collecting gold from the vault
     \item Escape before lockdown
 \end{itemize}
-%%TODO: Add Vault pic
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=\linewidth]{images/insidebank.jpg}
+    \caption{}
+\end{figure}
 
 \subsection{Secondary Objectives}
 \begin{itemize}
@@ -375,7 +432,6 @@ Game Progression split into 3 parts
     \end{itemize}
 \end{itemize}
 
-%%HERE
 
 \section{Mechanics}
 \subsection{Physics}
@@ -442,8 +498,9 @@ The player can move in all directions along the xz plane, and can also use a das
 
 \subsection{Player Weapons}
 
+
 \begin{itemize}
-    \item \emph{Stun Gun}:
+    \item \textbf{Stun Gun}:
     \begin{itemize}
         \item Shoots a projectile in a straight line.
         \item Projectile will do 1 DMG when enemy is hit 
@@ -451,7 +508,16 @@ The player can move in all directions along the xz plane, and can also use a das
         \item Player gets 5 shots (ammo) per Stun Gun pickup
         \item After 5 shots, Stun Gun will disappear from inventory
     \end{itemize}
-    \item \emph{Electric Baton}
+\end{itemize}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=.2\linewidth]{images/zappy_gun.jpg}
+    \caption{}
+\end{figure}
+
+\begin{itemize}
+    \item \textbf{Electric Baton}
     \begin{itemize}
         \item Activatable weapon, does AoE DMG around character
         \item Does 1 DMG per hit
@@ -461,10 +527,16 @@ The player can move in all directions along the xz plane, and can also use a das
     \end{itemize}
 \end{itemize}
 
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=.2\linewidth]{images/zappy_stick.jpg}
+    \caption{}
+\end{figure}
+    
 \subsection{Player Traps}
 
 \begin{itemize}
-    \item \emph{Electric Field}:
+    \item \textbf{Electric Field}:
     \begin{itemize}
         \item Pick up
         \item Can be deployed on any tile (if the tile has no traps already)
@@ -476,7 +548,7 @@ The player can move in all directions along the xz plane, and can also use a das
             \item Lasts for 30 secs after triggered
         \end{itemize}
     \end{itemize}
-    \item \emph{Lethal Lasers}:
+    \item \textbf{Lethal Lasers}:
     \begin{itemize}
         \item Pick up
         \item Can be deployed on any tile (if the tile has no traps already)
@@ -522,13 +594,21 @@ The player can move in all directions along the xz plane, and can also use a das
 \section{Screen Flow}
 \subsection{Screen Flow Chart}
 
-%%TODO: Add Screen Flow Chart
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=\linewidth]{images/screenFlow.jpg}
+    \caption{Screen Flow Chart}
+\end{figure}
 
 \subsubsection{Main Menu Screen}
 
 First Screen that the player has access to. Contains Start Game, Options, and Exit Game buttons.
 
-%%TODO: Add Main menu screen
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=\linewidth]{images/menu.jpg}
+    \caption{}
+\end{figure}
 
 \subsection{Game Screen}
 
@@ -566,9 +646,17 @@ The map contains many shades of grey and dark colours such as azure blue and sea
 
 \subsection{Map}
 
-%%TODO: Add Map
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=.8\linewidth]{images/Ground.png}
+    \caption{Ground Floor Map}
+\end{figure}
 
-%%TODO: Add Legend
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=.8\linewidth]{images/Legend.png}
+    \caption{Legend}
+\end{figure}
 
 \subsubsection{Primary Path}
 
@@ -578,13 +666,21 @@ The map contains many shades of grey and dark colours such as azure blue and sea
 
 (Shown in Magenta) The player spawns and looks around the bank for pickups. This way they gain an advantage against other players and drones, but it is not as fast as just going to the ground floor.
 
-%%TODO: Add Map
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=.8\linewidth]{images/GroundPathing.png}
+    \caption{Player Pathing on Ground Floor}
+\end{figure}
 
 \subsection{Encounters}
 
 The player will encounter various challenges. The drones will attempt to stun them, and other players will be trying to prevent them from making it to the vault. There will also be various types of hazards that will slow the player down. The multiple Drones follow the yellow paths in opposite directions.
 
-%%TODO: Add Map
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=.8\linewidth]{images/GroundDrone.png}
+    \caption{Drone Pathing on Ground Floor}
+\end{figure}
 
 \subsection{Closing Material}
 
@@ -602,7 +698,11 @@ The map contains many shades of grey and dark colours such as azure blue and sea
 
 \subsection{Map}
 
-%%TODO: Add map picture
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=.8\linewidth]{images/Basement.png}
+    \caption{Basement Floor Map}
+\end{figure}
 
 \subsubsection{Primary Path}
 
@@ -612,19 +712,29 @@ The map contains many shades of grey and dark colours such as azure blue and sea
 
 (Shown in Magenta) The player gets down the stairs and looks around the basement for pickups. This way they gain an advantage against other players and drones, but it is not as fast as just going to the vault.
 
-%%TODO: Add map with paths
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=.8\linewidth]{images/BasementPathing.png}
+    \caption{Player Paths on Basement}
+\end{figure}
 
 \subsection{Encounters}
 
 The player will encounter various challenges. The drones will attempt to stun them, and other players will be trying to prevent them from making it to the vault. There will also be various types of hazards that will slow the player down. There will be far more hazards and drones in the basement. The multiple Drones follow the yellow path in opposite directions.
 
-%%TODO: Add drone path map
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=.8\linewidth]{images/BasementDrone.png}
+    \caption{Drone Pathing on Basement}
+\end{figure}
 
 \chapter{User Interface}
 
 \section{UI Layout}
 
-As seen in Figure \ref{fig:uilayout}, the UI elements will appear on the corner of each respective player's screen. The elements shown in the UI are going to be:
+As seen in Figure~\ref{fig:uilayout}, the UI elements will appear on the corner of each respective player's screen. The elements shown in the UI are going to be:
 
 \begin{itemize}
 \item \textbf{Player Health}: Health is represented using the red bars
@@ -904,7 +1014,7 @@ All scripts are written in C\# following the guidelines that are outlined on Mic
 \subsubsection{Playable Characters}
 
 
-\begin{tabular}{| p{.4\linewidth} | p{.4\linewidth}|} 
+\begin{tabular}{| p{.5\linewidth} | p{.5\linewidth}|} 
     \hline
     Playable Characters & Description \\ \hline
     Marshal\_`King'  &   Male, athletically built, African American, brown eyes, black hair, primarily long sleeves (top color variations for how many players choose King) dark bottoms and heavy boots/shoes.  \\ \hline
@@ -916,7 +1026,7 @@ All scripts are written in C\# following the guidelines that are outlined on Mic
 
 \subsubsection{Non-Playable Characters}
 
-\begin{tabular}{| p{.4\linewidth} | p{.4\linewidth} |}
+\begin{tabular}{| p{.5\linewidth} | p{.5\linewidth} |}
     \hline    
     Non-Playable Characters &   Description  \\ \hline
     Security\_Drone &    Follows set path to stop players from getting away with gold.  \\ \hline
@@ -926,7 +1036,7 @@ All scripts are written in C\# following the guidelines that are outlined on Mic
 
 \subsubsection{Model and Texture List}
 
-\begin{tabular}{| p{.4\linewidth} | p{.4\linewidth} |}
+\begin{tabular}{| p{.5\linewidth} | p{.5\linewidth} |}
     \hline    
     3D Models   & Description  \\ \hline
     Plants (5)  &   Potted plants to fill the environment \\ \hline
@@ -946,7 +1056,7 @@ All scripts are written in C\# following the guidelines that are outlined on Mic
     Laptops (3) &  \\ \hline
     Papers (3)  &  \\ \hline
     Books (4)   &  \\ \hline
-    Couchs (3)  &  \\ \hline
+    Couches (3)  &  \\ \hline
     Loveseat    &  \\ \hline
     Desk Chair  &  \\ \hline
     Chairs (4)  &  \\ \hline
@@ -961,7 +1071,7 @@ All scripts are written in C\# following the guidelines that are outlined on Mic
 
 \subsubsection{Sprites}
 
-\begin{tabular}{| p{.4\linewidth} | p{.4\linewidth} |}
+\begin{tabular}{| p{.5\linewidth} | p{.5\linewidth} |}
     \hline 
     Sprites     &   Description  \\ \hline
     Stun\_Sprite     &   Stars spinning around character. Disappears after stun is over.  \\ \hline
@@ -977,7 +1087,7 @@ All scripts are written in C\# following the guidelines that are outlined on Mic
 
 \subsubsection{Animation List}
 
-\begin{tabular}{| p{.4\linewidth} | p{.4\linewidth} |}
+\begin{tabular}{| p{.5\linewidth} | p{.5\linewidth} |}
     \hline
     Animation List      &   Description     \\ \hline
     King\_Walk\_Animation &   King walks with a heavier gait, lumbering around the bank due to his larger build and being able to carry more gold than other characters.  \\ \hline
@@ -1002,7 +1112,7 @@ All scripts are written in C\# following the guidelines that are outlined on Mic
 
 \subsubsection{Effects List}
 
-\begin{tabular}{| p{.4\linewidth} | p{.4\linewidth} |}
+\begin{tabular}{| p{.5\linewidth} | p{.5\linewidth} |}
     \hline
     User-Interface List     &   Description  \\ \hline
     Controls\_UI     &   Display of controller/keyboard to show players the controls of the game.  \\ \hline
@@ -1023,7 +1133,7 @@ All scripts are written in C\# following the guidelines that are outlined on Mic
 
 \subsubsection{Music}
 
-\begin{tabular}{| p{.4\linewidth} | p{.4\linewidth} |}
+\begin{tabular}{| p{.5\linewidth} | p{.5\linewidth} |}
     \hline
     Sound & Description \\  \hline
     Infiltration Theme  &     Quiet, tension raising jazz piece, lots of swagger and focus on drums and upright bass \\ \hline
@@ -1036,7 +1146,7 @@ All scripts are written in C\# following the guidelines that are outlined on Mic
 
 \subsubsection{Environmental Sounds}
 
-\begin{tabular}{| p{.4\linewidth} | p{.4\linewidth} |}
+\begin{tabular}{| p{.5\linewidth} | p{.5\linewidth} |}
     \hline
     Sound & Description \\  \hline
     Bank Door Open  &  \\   \hline
@@ -1058,7 +1168,7 @@ All scripts are written in C\# following the guidelines that are outlined on Mic
 
 \subsubsection{Weapon Sounds}
 
-\begin{tabular}{| p{.4\linewidth} | p{.4\linewidth} |}
+\begin{tabular}{| p{.5\linewidth} | p{.5\linewidth} |}
     \hline
     Sound & Description \\  \hline
     Stun Gun Pickup     & Click \\ \hline
@@ -1075,7 +1185,7 @@ All scripts are written in C\# following the guidelines that are outlined on Mic
 
 \subsubsection{Interface Sounds}
 
-\begin{tabular}{| p{.4\linewidth} | p{.4\linewidth} |}
+\begin{tabular}{| p{.5\linewidth} | p{.5\linewidth} |}
     \hline
     Sound & Description \\  \hline
     Quicktime Event Success &     Electric device being powered down \\ \hline
@@ -1086,7 +1196,7 @@ All scripts are written in C\# following the guidelines that are outlined on Mic
 
 \subsubsection{Voice}
 
-\begin{tabular}{| p{.4\linewidth} | p{.4\linewidth} |}
+\begin{tabular}{| p{.5\linewidth} | p{.5\linewidth} |}
     \hline
     Sound & Description \\  \hline
     Enter Bank(4)   &   \\ \hline

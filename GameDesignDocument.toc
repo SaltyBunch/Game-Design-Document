@@ -2,133 +2,133 @@
 \contentsline {chapter}{\numberline {1}Game Overview}{4}
 \contentsline {section}{\numberline {1.1}Game Concept}{4}
 \contentsline {section}{\numberline {1.2}Setting}{4}
-\contentsline {section}{\numberline {1.3}Feature Set}{4}
+\contentsline {section}{\numberline {1.3}Feature Set}{5}
 \contentsline {section}{\numberline {1.4}Genre \& Target Audience}{5}
-\contentsline {section}{\numberline {1.5}Game Flow Summary}{5}
+\contentsline {section}{\numberline {1.5}Game Flow Summary}{6}
 \contentsline {section}{\numberline {1.6}Look and Feel}{6}
-\contentsline {chapter}{\numberline {2}Story and Setting}{7}
-\contentsline {section}{\numberline {2.1}Story and Narrative}{7}
-\contentsline {subsection}{\numberline {2.1.1}Game Progression Summary}{7}
-\contentsline {section}{\numberline {2.2}Cut Scenes}{7}
-\contentsline {subsection}{\numberline {2.2.1}(Introduction)}{7}
-\contentsline {subsubsection}{Description}{7}
-\contentsline {subsubsection}{Storyboard}{8}
-\contentsline {subsection}{\numberline {2.2.2}Victory Screen}{8}
-\contentsline {section}{\numberline {2.3}Game World}{8}
-\contentsline {subsection}{\numberline {2.3.1}General Look and Feel of the World}{8}
-\contentsline {subsubsection}{Ground Floor}{8}
-\contentsline {subsubsection}{Basement}{8}
-\contentsline {chapter}{\numberline {3}Characters}{9}
-\contentsline {section}{\numberline {3.1}Marshal``King''}{9}
-\contentsline {subsection}{\numberline {3.1.1}Back Story}{9}
-\contentsline {subsection}{\numberline {3.1.2}Personality}{9}
-\contentsline {subsection}{\numberline {3.1.3}Physical Characteristics}{9}
-\contentsline {subsection}{\numberline {3.1.4}Animations}{9}
-\contentsline {subsection}{\numberline {3.1.5}Special Abilities}{9}
-\contentsline {subsection}{\numberline {3.1.6}Statistics}{9}
-\contentsline {section}{\numberline {3.2}Anna ``Jailbird''}{10}
-\contentsline {subsection}{\numberline {3.2.1}Back Story}{10}
-\contentsline {subsection}{\numberline {3.2.2}Personality}{10}
-\contentsline {subsection}{\numberline {3.2.3}Physical Characteristics}{10}
-\contentsline {subsection}{\numberline {3.2.4}Animations}{10}
-\contentsline {subsection}{\numberline {3.2.5}Special Abilities}{10}
-\contentsline {subsection}{\numberline {3.2.6}Statistics}{10}
-\contentsline {section}{\numberline {3.3}Olivia ``Shadow''}{10}
-\contentsline {subsection}{\numberline {3.3.1}Back Story}{10}
-\contentsline {subsection}{\numberline {3.3.2}Personality}{11}
-\contentsline {subsection}{\numberline {3.3.3}Physical Characteristics}{11}
-\contentsline {subsection}{\numberline {3.3.4}Animations}{11}
-\contentsline {subsection}{\numberline {3.3.5}Special Abilities}{11}
-\contentsline {subsection}{\numberline {3.3.6}Statistics}{11}
-\contentsline {section}{\numberline {3.4}Rocco ``Racoon''}{11}
-\contentsline {subsection}{\numberline {3.4.1}Back Story}{11}
-\contentsline {subsection}{\numberline {3.4.2}Personality}{11}
-\contentsline {subsection}{\numberline {3.4.3}Physical Characteristics}{11}
-\contentsline {subsection}{\numberline {3.4.4}Animations}{12}
-\contentsline {subsection}{\numberline {3.4.5}Special Abilities}{12}
-\contentsline {subsection}{\numberline {3.4.6}Statistics}{12}
-\contentsline {section}{\numberline {3.5}A.S.I.A (NPC)}{12}
-\contentsline {subsection}{\numberline {3.5.1}Back Story}{12}
-\contentsline {subsection}{\numberline {3.5.2}Personality}{12}
-\contentsline {chapter}{\numberline {4}Gameplay and Mechanics}{13}
-\contentsline {section}{\numberline {4.1}Game Progression}{13}
-\contentsline {subsection}{\numberline {4.1.1}Infiltration}{13}
-\contentsline {subsection}{\numberline {4.1.2}Scavenging}{13}
-\contentsline {subsection}{\numberline {4.1.3}Lockdown}{13}
-\contentsline {section}{\numberline {4.2}Objectives}{14}
-\contentsline {subsection}{\numberline {4.2.1}Main Objectives}{14}
-\contentsline {subsection}{\numberline {4.2.2}Secondary Objectives}{14}
-\contentsline {section}{\numberline {4.3}Challenges}{14}
-\contentsline {subsection}{\numberline {4.3.1}Level Layout}{14}
-\contentsline {subsection}{\numberline {4.3.2}Security Drones}{14}
-\contentsline {subsection}{\numberline {4.3.3}Combat}{15}
-\contentsline {section}{\numberline {4.4}Mechanics}{15}
-\contentsline {subsection}{\numberline {4.4.1}Physics}{15}
-\contentsline {subsection}{\numberline {4.4.2}Movement}{15}
-\contentsline {subsection}{\numberline {4.4.3}Scoring System}{15}
-\contentsline {subsection}{\numberline {4.4.4}Health System}{16}
-\contentsline {subsection}{\numberline {4.4.5}Pick Up System}{16}
-\contentsline {subsection}{\numberline {4.4.6}Interactions}{16}
-\contentsline {section}{\numberline {4.5}Combat}{16}
-\contentsline {subsection}{\numberline {4.5.1}Player Weapons}{17}
-\contentsline {subsection}{\numberline {4.5.2}Player Traps}{17}
-\contentsline {subsection}{\numberline {4.5.3}Inventory System}{17}
-\contentsline {subsection}{\numberline {4.5.4}Inventory System}{18}
-\contentsline {section}{\numberline {4.6}Screen Flow}{18}
-\contentsline {subsection}{\numberline {4.6.1}Screen Flow Chart}{18}
-\contentsline {subsubsection}{Main Menu Screen}{18}
-\contentsline {subsection}{\numberline {4.6.2}Game Screen}{18}
-\contentsline {subsection}{\numberline {4.6.3}Options Menu Screen}{18}
-\contentsline {chapter}{\numberline {5}Levels}{19}
-\contentsline {section}{\numberline {5.1}Floor \#1}{19}
-\contentsline {subsection}{\numberline {5.1.1}Synopsis}{19}
-\contentsline {subsection}{\numberline {5.1.2}Physical Description}{19}
-\contentsline {subsection}{\numberline {5.1.3}Map}{19}
-\contentsline {subsubsection}{Primary Path}{19}
-\contentsline {subsubsection}{Secondary Path}{19}
-\contentsline {subsection}{\numberline {5.1.4}Encounters}{19}
-\contentsline {subsection}{\numberline {5.1.5}Closing Material}{20}
-\contentsline {section}{\numberline {5.2}Floor \#2}{20}
-\contentsline {subsection}{\numberline {5.2.1}Synopsis}{20}
-\contentsline {subsection}{\numberline {5.2.2}Physical Description}{20}
-\contentsline {subsection}{\numberline {5.2.3}Map}{20}
-\contentsline {subsubsection}{Primary Path}{20}
-\contentsline {subsubsection}{Secondary Path}{20}
-\contentsline {subsection}{\numberline {5.2.4}Encounters}{20}
-\contentsline {chapter}{\numberline {6}User Interface}{21}
-\contentsline {section}{\numberline {6.1}UI Layout}{21}
-\contentsline {section}{\numberline {6.2}Menus}{22}
-\contentsline {section}{\numberline {6.3}Camera}{22}
-\contentsline {section}{\numberline {6.4}Control Scheme}{22}
-\contentsline {section}{\numberline {6.5}Audio}{24}
-\contentsline {section}{\numberline {6.6}Music}{24}
-\contentsline {section}{\numberline {6.7}Sound Effects}{25}
-\contentsline {section}{\numberline {6.8}Help System}{25}
-\contentsline {chapter}{\numberline {7}Artificial Intelligence}{26}
-\contentsline {section}{\numberline {7.1}Enemy AI}{26}
-\contentsline {section}{\numberline {7.2}Pathfinding}{26}
-\contentsline {section}{\numberline {7.3}Drone Finite State Machine}{26}
-\contentsline {chapter}{\numberline {8}Technical}{28}
-\contentsline {section}{\numberline {8.1}Target Hardware}{28}
-\contentsline {section}{\numberline {8.2}Game Engine}{28}
-\contentsline {section}{\numberline {8.3}Scripting Language}{28}
-\contentsline {chapter}{\numberline {9}Game Art}{29}
-\contentsline {section}{\numberline {9.1}Concept Art}{29}
-\contentsline {section}{\numberline {9.2}Characters}{37}
-\contentsline {section}{\numberline {9.3}Environments}{39}
-\contentsline {chapter}{\numberline {10}Appendices}{41}
-\contentsline {section}{\numberline {10.1}Asset List}{41}
-\contentsline {subsection}{\numberline {10.1.1}Art}{41}
-\contentsline {subsubsection}{Playable Characters}{41}
-\contentsline {subsubsection}{Non-Playable Characters}{41}
-\contentsline {subsubsection}{Model and Texture List}{42}
-\contentsline {subsubsection}{Sprites}{43}
-\contentsline {subsubsection}{Animation List}{44}
-\contentsline {subsubsection}{Effects List}{45}
-\contentsline {subsubsection}{Cut Scene List}{45}
-\contentsline {subsection}{\numberline {10.1.2}Audio}{45}
-\contentsline {subsubsection}{Music}{45}
-\contentsline {subsubsection}{Environmental Sounds}{46}
-\contentsline {subsubsection}{Weapon Sounds}{46}
-\contentsline {subsubsection}{Interface Sounds}{46}
-\contentsline {subsubsection}{Voice}{47}
+\contentsline {chapter}{\numberline {2}Story and Setting}{8}
+\contentsline {section}{\numberline {2.1}Story and Narrative}{8}
+\contentsline {subsection}{\numberline {2.1.1}Game Progression Summary}{8}
+\contentsline {section}{\numberline {2.2}Cut Scenes}{8}
+\contentsline {subsection}{\numberline {2.2.1}(Introduction)}{8}
+\contentsline {subsubsection}{Description}{8}
+\contentsline {subsubsection}{Storyboard}{9}
+\contentsline {subsection}{\numberline {2.2.2}Victory Screen}{9}
+\contentsline {section}{\numberline {2.3}Game World}{9}
+\contentsline {subsection}{\numberline {2.3.1}General Look and Feel of the World}{9}
+\contentsline {subsubsection}{Ground Floor}{9}
+\contentsline {subsubsection}{Basement}{9}
+\contentsline {chapter}{\numberline {3}Characters}{10}
+\contentsline {section}{\numberline {3.1}Marshal``King''}{10}
+\contentsline {subsection}{\numberline {3.1.1}Back Story}{11}
+\contentsline {subsection}{\numberline {3.1.2}Personality}{11}
+\contentsline {subsection}{\numberline {3.1.3}Physical Characteristics}{11}
+\contentsline {subsection}{\numberline {3.1.4}Animations}{11}
+\contentsline {subsection}{\numberline {3.1.5}Special Abilities}{11}
+\contentsline {subsection}{\numberline {3.1.6}Statistics}{11}
+\contentsline {section}{\numberline {3.2}Anna ``Jailbird''}{12}
+\contentsline {subsection}{\numberline {3.2.1}Back Story}{12}
+\contentsline {subsection}{\numberline {3.2.2}Personality}{12}
+\contentsline {subsection}{\numberline {3.2.3}Physical Characteristics}{12}
+\contentsline {subsection}{\numberline {3.2.4}Animations}{13}
+\contentsline {subsection}{\numberline {3.2.5}Special Abilities}{13}
+\contentsline {subsection}{\numberline {3.2.6}Statistics}{13}
+\contentsline {section}{\numberline {3.3}Olivia ``Shadow''}{14}
+\contentsline {subsection}{\numberline {3.3.1}Back Story}{14}
+\contentsline {subsection}{\numberline {3.3.2}Personality}{14}
+\contentsline {subsection}{\numberline {3.3.3}Physical Characteristics}{15}
+\contentsline {subsection}{\numberline {3.3.4}Animations}{15}
+\contentsline {subsection}{\numberline {3.3.5}Special Abilities}{15}
+\contentsline {subsection}{\numberline {3.3.6}Statistics}{15}
+\contentsline {section}{\numberline {3.4}Rocco ``Racoon''}{16}
+\contentsline {subsection}{\numberline {3.4.1}Back Story}{16}
+\contentsline {subsection}{\numberline {3.4.2}Personality}{16}
+\contentsline {subsection}{\numberline {3.4.3}Physical Characteristics}{17}
+\contentsline {subsection}{\numberline {3.4.4}Animations}{17}
+\contentsline {subsection}{\numberline {3.4.5}Special Abilities}{17}
+\contentsline {subsection}{\numberline {3.4.6}Statistics}{17}
+\contentsline {section}{\numberline {3.5}A.S.I.A (NPC)}{17}
+\contentsline {subsection}{\numberline {3.5.1}Back Story}{17}
+\contentsline {subsection}{\numberline {3.5.2}Personality}{18}
+\contentsline {chapter}{\numberline {4}Gameplay and Mechanics}{19}
+\contentsline {section}{\numberline {4.1}Game Progression}{19}
+\contentsline {subsection}{\numberline {4.1.1}Infiltration}{19}
+\contentsline {subsection}{\numberline {4.1.2}Scavenging}{19}
+\contentsline {subsection}{\numberline {4.1.3}Lockdown}{19}
+\contentsline {section}{\numberline {4.2}Objectives}{20}
+\contentsline {subsection}{\numberline {4.2.1}Main Objectives}{20}
+\contentsline {subsection}{\numberline {4.2.2}Secondary Objectives}{21}
+\contentsline {section}{\numberline {4.3}Challenges}{21}
+\contentsline {subsection}{\numberline {4.3.1}Level Layout}{21}
+\contentsline {subsection}{\numberline {4.3.2}Security Drones}{22}
+\contentsline {subsection}{\numberline {4.3.3}Combat}{22}
+\contentsline {section}{\numberline {4.4}Mechanics}{22}
+\contentsline {subsection}{\numberline {4.4.1}Physics}{22}
+\contentsline {subsection}{\numberline {4.4.2}Movement}{22}
+\contentsline {subsection}{\numberline {4.4.3}Scoring System}{23}
+\contentsline {subsection}{\numberline {4.4.4}Health System}{23}
+\contentsline {subsection}{\numberline {4.4.5}Pick Up System}{23}
+\contentsline {subsection}{\numberline {4.4.6}Interactions}{23}
+\contentsline {section}{\numberline {4.5}Combat}{24}
+\contentsline {subsection}{\numberline {4.5.1}Player Weapons}{24}
+\contentsline {subsection}{\numberline {4.5.2}Player Traps}{25}
+\contentsline {subsection}{\numberline {4.5.3}Inventory System}{25}
+\contentsline {subsection}{\numberline {4.5.4}Inventory System}{26}
+\contentsline {section}{\numberline {4.6}Screen Flow}{27}
+\contentsline {subsection}{\numberline {4.6.1}Screen Flow Chart}{27}
+\contentsline {subsubsection}{Main Menu Screen}{27}
+\contentsline {subsection}{\numberline {4.6.2}Game Screen}{28}
+\contentsline {subsection}{\numberline {4.6.3}Options Menu Screen}{28}
+\contentsline {chapter}{\numberline {5}Levels}{29}
+\contentsline {section}{\numberline {5.1}Floor \#1}{29}
+\contentsline {subsection}{\numberline {5.1.1}Synopsis}{29}
+\contentsline {subsection}{\numberline {5.1.2}Physical Description}{29}
+\contentsline {subsection}{\numberline {5.1.3}Map}{30}
+\contentsline {subsubsection}{Primary Path}{31}
+\contentsline {subsubsection}{Secondary Path}{31}
+\contentsline {subsection}{\numberline {5.1.4}Encounters}{32}
+\contentsline {subsection}{\numberline {5.1.5}Closing Material}{33}
+\contentsline {section}{\numberline {5.2}Floor \#2}{33}
+\contentsline {subsection}{\numberline {5.2.1}Synopsis}{33}
+\contentsline {subsection}{\numberline {5.2.2}Physical Description}{33}
+\contentsline {subsection}{\numberline {5.2.3}Map}{34}
+\contentsline {subsubsection}{Primary Path}{34}
+\contentsline {subsubsection}{Secondary Path}{34}
+\contentsline {subsection}{\numberline {5.2.4}Encounters}{35}
+\contentsline {chapter}{\numberline {6}User Interface}{37}
+\contentsline {section}{\numberline {6.1}UI Layout}{37}
+\contentsline {section}{\numberline {6.2}Menus}{38}
+\contentsline {section}{\numberline {6.3}Camera}{38}
+\contentsline {section}{\numberline {6.4}Control Scheme}{38}
+\contentsline {section}{\numberline {6.5}Audio}{40}
+\contentsline {section}{\numberline {6.6}Music}{40}
+\contentsline {section}{\numberline {6.7}Sound Effects}{41}
+\contentsline {section}{\numberline {6.8}Help System}{41}
+\contentsline {chapter}{\numberline {7}Artificial Intelligence}{42}
+\contentsline {section}{\numberline {7.1}Enemy AI}{42}
+\contentsline {section}{\numberline {7.2}Pathfinding}{42}
+\contentsline {section}{\numberline {7.3}Drone Finite State Machine}{42}
+\contentsline {chapter}{\numberline {8}Technical}{44}
+\contentsline {section}{\numberline {8.1}Target Hardware}{44}
+\contentsline {section}{\numberline {8.2}Game Engine}{44}
+\contentsline {section}{\numberline {8.3}Scripting Language}{44}
+\contentsline {chapter}{\numberline {9}Game Art}{45}
+\contentsline {section}{\numberline {9.1}Concept Art}{45}
+\contentsline {section}{\numberline {9.2}Characters}{53}
+\contentsline {section}{\numberline {9.3}Environments}{55}
+\contentsline {chapter}{\numberline {10}Appendices}{57}
+\contentsline {section}{\numberline {10.1}Asset List}{57}
+\contentsline {subsection}{\numberline {10.1.1}Art}{57}
+\contentsline {subsubsection}{Playable Characters}{57}
+\contentsline {subsubsection}{Non-Playable Characters}{57}
+\contentsline {subsubsection}{Model and Texture List}{58}
+\contentsline {subsubsection}{Sprites}{58}
+\contentsline {subsubsection}{Animation List}{59}
+\contentsline {subsubsection}{Effects List}{60}
+\contentsline {subsubsection}{Cut Scene List}{60}
+\contentsline {subsection}{\numberline {10.1.2}Audio}{60}
+\contentsline {subsubsection}{Music}{60}
+\contentsline {subsubsection}{Environmental Sounds}{61}
+\contentsline {subsubsection}{Weapon Sounds}{61}
+\contentsline {subsubsection}{Interface Sounds}{61}
+\contentsline {subsubsection}{Voice}{62}
