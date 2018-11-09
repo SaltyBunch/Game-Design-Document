@@ -870,7 +870,7 @@ All scripts are written in C\# following the guidelines that are outlined on Mic
 \section{Characters}
 
 \begin{figure}[H]
-	\includegraphics[width=\linewidth]{images/characters.jpg}
+	\includegraphics[width=\linewidth]{images/charactes.jpg}
     \caption{Heist Characters}
 \end{figure}
 
@@ -903,32 +903,30 @@ All scripts are written in C\# following the guidelines that are outlined on Mic
 
 \subsubsection{Playable Characters}
 
-\begin{tabular}{| l | p .5\linewidth |}
-    \centering
+
+\begin{tabular}{| p{.4\linewidth} | p{.4\linewidth}|} 
     \hline
     Playable Characters & Description \\ \hline
-    Marshal_‘King’  &   Male, athletically built, African American, brown eyes, black hair, primarily long sleeves (top color variations for how many players choose King) dark bottoms and heavy boots/shoes.  \\ \hline
-    Olivia_‘Shadow’ &   Female, slender built, middle eastern ancestry, brown eyes, black hair, full body catsuit (top color variations for how many players choose King) and knee high black boots.  \\ \hline
-    Ana_‘Jailbird’  &   Female, slender, Caucasian, brown eyes, blond hair, wears a mask, and dressed in prison attire from being a consistent escapee.  \\ \hline
-    Rocco_‘Racoon’  &   Male, medium built, Caucasian, blue eyes, tattered clothing, hair is disordered with two bunches are pointed up that resembles ears and wears a mask.  \\
+    Marshal\_`King'  &   Male, athletically built, African American, brown eyes, black hair, primarily long sleeves (top color variations for how many players choose King) dark bottoms and heavy boots/shoes.  \\ \hline
+    Olivia\_`Shadow' &   Female, slender built, middle eastern ancestry, brown eyes, black hair, full body catsuit (top color variations for how many players choose King) and knee high black boots.  \\ \hline
+    Ana\_`Jailbird'  &   Female, slender, Caucasian, brown eyes, blond hair, wears a mask, and dressed in prison attire from being a consistent escapee.  \\ \hline
+    Rocco\_`Racoon'  &   Male, medium built, Caucasian, blue eyes, tattered clothing, hair is disordered with two bunches are pointed up that resembles ears and wears a mask.  \\
     \hline
 \end{tabular}
 
 \subsubsection{Non-Playable Characters}
 
-\begin{tabular}{| l | p .5\linewidth |}
-    \centering
+\begin{tabular}{| p{.4\linewidth} | p{.4\linewidth} |}
     \hline    
     Non-Playable Characters &   Description  \\ \hline
-    Security_Drone &    Follows set path to stop players from getting away with gold.  \\ \hline
+    Security\_Drone &    Follows set path to stop players from getting away with gold.  \\ \hline
     A.S.I.A. (Artificial, Security,Intelligence,Administrator) this &   A.S.I.A. controls all of the bank’s security systems that including the drones who will interact with the player through voice lines.  \\
     \hline
 \end{tabular}
 
 \subsubsection{Model and Texture List}
 
-\begin{tabular}{| l | p .5\linewidth |}
-    \centering
+\begin{tabular}{| p{.4\linewidth} | p{.4\linewidth} |}
     \hline    
     3D Models   & Description  \\ \hline
     Plants (5)  &   Potted plants to fill the environment \\ \hline
@@ -963,61 +961,59 @@ All scripts are written in C\# following the guidelines that are outlined on Mic
 
 \subsubsection{Sprites}
 
-\begin{tabular}{| l | p .5\linewidth |}
-    \centering
+\begin{tabular}{| p{.4\linewidth} | p{.4\linewidth} |}
     \hline 
     Sprites     &   Description  \\ \hline
-    Stun_Sprite     &   Stars spinning around character. Disappears after stun is over.  \\ \hline
-    Punch_Sprite    &   Energy burst from punch animation. Disappears after impact.   \\ \hline
-    Stun_Timer  &   Intuitive circle that hovers above the player’s head to signify how long they are stunned for.   \\ \hline
-    Gold_Channelling_Sprite**   &   QuickTimeEvent_Sprite   &     Displays the sprite object for when the Quick time event happens for players to interact with.  \\ \hline
-    Security_Door_Lights_Sprite(optional)   &   Simple triangular sprite that rotates around the alarm lights at the vault to security points.  \\ \hline
-    InGame_Timer_Sprite(optional)   &   Timer is displayed for when the vault has been infiltrated.   \\ \hline
-    LockDown_Icon_Sprite    &       \\
+    Stun\_Sprite     &   Stars spinning around character. Disappears after stun is over.  \\ \hline
+    Punch\_Sprite    &   Energy burst from punch animation. Disappears after impact.   \\ \hline
+    Stun\_Timer  &   Intuitive circle that hovers above the player’s head to signify how long they are stunned for.   \\ \hline
+    Gold\_Channelling\_Sprite   &  \\ \hline
+    QuickTimeEvent\_Sprite   &     Displays the sprite object for when the Quick time event happens for players to interact with.  \\ \hline
+    Security\_Door\_Lights\_Sprite(optional)   &   Simple triangular sprite that rotates around the alarm lights at the vault to security points.  \\ \hline
+    InGame\_Timer\_Sprite(optional)   &   Timer is displayed for when the vault has been infiltrated.   \\ \hline
+    LockDown\_Icon\_Sprite    &       \\
     \hline
 \end{tabular}
 
 \subsubsection{Animation List}
 
-\begin{tabular}{| l | p .5\linewidth |}
-    \centering
+\begin{tabular}{| p{.4\linewidth} | p{.4\linewidth} |}
     \hline
     Animation List      &   Description     \\ \hline
-    King_Walk_Animation &   King walks with a heavier gait, lumbering around the bank due to his larger build and being able to carry more gold than other characters.  \\ \hline
-    Shadow_Walk_Animation   &   Shadow walks with longer and faster gait. Skulking around the bank, with hers swift movements.  \\ \hline
-    Jailbird_Walk_Animation &   Jailbird walks carefree with looser gait.   \\ \hline
-    Raccoon_Walk_Animation  &   Raccoon walks with a slight stagger due to his jerky nature.    \\ \hline
-    VaultDoor_Animation &   Vault door opens when player(s) reach the vault and the ‘gear’ spins as a separate object.  \\ \hline
-    RoomDoor_Animation  &   Door to rooms will open when characters enter a room. (physics based when character hits door it moves on a pivot)  \\ \hline
-    SecurityDrone_Attack_Animation  &   Security drone can engage or retract arm to attack/stun players.    \\ \hline
-    SpotLight_Animation &   Spotlight moves left to right repeatedly.   \\ \hline
-    Combat_Punch    &   All characters have the same general punch animation.   \\ \hline
-    Combat_Weapon_Shoot     &   All characters have the same general shoot animation. Weapon spawns into character hand.    \\ \hline
-    Combat_Weapon_BatonSwing    &   All characters have the same general baton hit animation.  Weapon spawns into character hand.   \\ \hline
-    Character_Slow_Movement     &   Character moves half a speed slower when holding gold.  \\ \hline
-    Character_Menu_Chosen   &   Character throws fist in air when chosen.   \\ \hline
-    Character_Endgame   &   Character does victory cheer for 1st,2nd,3rd,4th    \\ \hline
-    Security_Drone_Default  &   Drone moves along the set path normally.    \\ \hline
-    Security_Drone_Caution  &   Drone moves along the set path slightly faster and LED’s change to orange.  \\ \hline
-    Security_Drone_HighAlert    &   Drone moves along the set path faster and LED’s change to red.          \\
+    King\_Walk\_Animation &   King walks with a heavier gait, lumbering around the bank due to his larger build and being able to carry more gold than other characters.  \\ \hline
+    Shadow\_Walk\_Animation   &   Shadow walks with longer and faster gait. Skulking around the bank, with hers swift movements.  \\ \hline
+    Jailbird\_Walk\_Animation &   Jailbird walks carefree with looser gait.   \\ \hline
+    Raccoon\_Walk\_Animation  &   Raccoon walks with a slight stagger due to his jerky nature.    \\ \hline
+    VaultDoor\_Animation &   Vault door opens when player(s) reach the vault and the ‘gear’ spins as a separate object.  \\ \hline
+    RoomDoor\_Animation  &   Door to rooms will open when characters enter a room. (physics based when character hits door it moves on a pivot)  \\ \hline
+    SecurityDrone\_Attack\_Animation  &   Security drone can engage or retract arm to attack/stun players.    \\ \hline
+    SpotLight\_Animation &   Spotlight moves left to right repeatedly.   \\ \hline
+    Combat\_Punch    &   All characters have the same general punch animation.   \\ \hline
+    Combat\_Weapon\_Shoot     &   All characters have the same general shoot animation. Weapon spawns into character hand.    \\ \hline
+    Combat\_Weapon\_BatonSwing    &   All characters have the same general baton hit animation.  Weapon spawns into character hand.   \\ \hline
+    Character\_Slow\_Movement     &   Character moves half a speed slower when holding gold.  \\ \hline
+    Character\_Menu\_Chosen   &   Character throws fist in air when chosen.   \\ \hline
+    Character\_Endgame   &   Character does victory cheer for 1st,2nd,3rd,4th    \\ \hline
+    Security\_Drone\_Default  &   Drone moves along the set path normally.    \\ \hline
+    Security\_Drone\_Caution  &   Drone moves along the set path slightly faster and LED’s change to orange.  \\ \hline
+    Security\_Drone\_HighAlert    &   Drone moves along the set path faster and LED’s change to red.          \\
     \hline
 \end{tabular}
 
 \subsubsection{Effects List}
 
-\begin{tabular}{| l | p .5\linewidth |}
-    \centering
+\begin{tabular}{| p{.4\linewidth} | p{.4\linewidth} |}
     \hline
     User-Interface List     &   Description  \\ \hline
-    Controls_UI     &   Display of controller/keyboard to show players the controls of the game.  \\ \hline
-    Player_InGame_HUD   &   Displays player stats, gold, health, player icon, weapon selected.  \\ \hline
-    Menu_Start_Screen_GUI   &   Menu options are displayed (start, characters select,   \\ \hline
-    Character_Selection_GUI     &   Characters are displayed for players to select between the four characters.   \\ \hline
-    Menu_Pause_Screen_GUI   &   Pause options (resume, settings, extras)  \\ \hline
-    Player_Scoreboard_GUI   &   Displays how many gold that has been obtained to the player throughout/endgame.  \\ \hline
-    EndGame_Victory_Screen_GUI  &   Displays the winner with the most gold, second most, third most and lowest at endgame.   \\ \hline
-    LowdownTimer_UI &   Displays timer during lockdown. \\ \hline
-    Introduction_CutScene   &   Comic Book style how the characters get into the bank.  \\
+    Controls\_UI     &   Display of controller/keyboard to show players the controls of the game.  \\ \hline
+    Player\_InGame\_HUD   &   Displays player stats, gold, health, player icon, weapon selected.  \\ \hline
+    Menu\_Start\_Screen\_GUI   &   Menu options are displayed (start, characters select,   \\ \hline
+    Character\_Selection\_GUI     &   Characters are displayed for players to select between the four characters.   \\ \hline
+    Menu\_Pause\_Screen\_GUI   &   Pause options (resume, settings, extras)  \\ \hline
+    Player\_Scoreboard\_GUI   &   Displays how many gold that has been obtained to the player throughout/endgame.  \\ \hline
+    EndGame\_Victory\_Screen\_GUI  &   Displays the winner with the most gold, second most, third most and lowest at endgame.   \\ \hline
+    LowdownTimer\_UI &   Displays timer during lockdown. \\ \hline
+    Introduction\_CutScene   &   Comic Book style how the characters get into the bank.  \\
     \hline
 \end{tabular}
  
@@ -1027,8 +1023,7 @@ All scripts are written in C\# following the guidelines that are outlined on Mic
 
 \subsubsection{Music}
 
-\begin{tabular}{| l | p .5\linewidth |}
-    \centering
+\begin{tabular}{| p{.4\linewidth} | p{.4\linewidth} |}
     \hline
     Sound & Description \\  \hline
     Infiltration Theme  &     Quiet, tension raising jazz piece, lots of swagger and focus on drums and upright bass \\ \hline
@@ -1041,8 +1036,7 @@ All scripts are written in C\# following the guidelines that are outlined on Mic
 
 \subsubsection{Environmental Sounds}
 
-\begin{tabular}{| l | p .5\linewidth |}
-    \centering
+\begin{tabular}{| p{.4\linewidth} | p{.4\linewidth} |}
     \hline
     Sound & Description \\  \hline
     Bank Door Open  &  \\   \hline
@@ -1064,8 +1058,7 @@ All scripts are written in C\# following the guidelines that are outlined on Mic
 
 \subsubsection{Weapon Sounds}
 
-\begin{tabular}{| l | p .5\linewidth |}
-    \centering
+\begin{tabular}{| p{.4\linewidth} | p{.4\linewidth} |}
     \hline
     Sound & Description \\  \hline
     Stun Gun Pickup     & Click \\ \hline
@@ -1082,8 +1075,7 @@ All scripts are written in C\# following the guidelines that are outlined on Mic
 
 \subsubsection{Interface Sounds}
 
-\begin{tabular}{| l | p .5\linewidth |}
-    \centering
+\begin{tabular}{| p{.4\linewidth} | p{.4\linewidth} |}
     \hline
     Sound & Description \\  \hline
     Quicktime Event Success &     Electric device being powered down \\ \hline
@@ -1094,8 +1086,7 @@ All scripts are written in C\# following the guidelines that are outlined on Mic
 
 \subsubsection{Voice}
 
-\begin{tabular}{| l | p .5\linewidth |}
-    \centering
+\begin{tabular}{| p{.4\linewidth} | p{.4\linewidth} |}
     \hline
     Sound & Description \\  \hline
     Enter Bank(4)   &   \\ \hline

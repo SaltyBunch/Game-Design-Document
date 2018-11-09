@@ -114,5 +114,21 @@
 \contentsline {section}{\numberline {8.3}Scripting Language}{28}
 \contentsline {chapter}{\numberline {9}Game Art}{29}
 \contentsline {section}{\numberline {9.1}Concept Art}{29}
-\contentsline {section}{\numberline {9.2}Characters}{36}
-\contentsline {chapter}{\numberline {10}Appendices}{37}
+\contentsline {section}{\numberline {9.2}Characters}{37}
+\contentsline {section}{\numberline {9.3}Environments}{39}
+\contentsline {chapter}{\numberline {10}Appendices}{41}
+\contentsline {section}{\numberline {10.1}Asset List}{41}
+\contentsline {subsection}{\numberline {10.1.1}Art}{41}
+\contentsline {subsubsection}{Playable Characters}{41}
+\contentsline {subsubsection}{Non-Playable Characters}{41}
+\contentsline {subsubsection}{Model and Texture List}{42}
+\contentsline {subsubsection}{Sprites}{43}
+\contentsline {subsubsection}{Animation List}{44}
+\contentsline {subsubsection}{Effects List}{45}
+\contentsline {subsubsection}{Cut Scene List}{45}
+\contentsline {subsection}{\numberline {10.1.2}Audio}{45}
+\contentsline {subsubsection}{Music}{45}
+\contentsline {subsubsection}{Environmental Sounds}{46}
+\contentsline {subsubsection}{Weapon Sounds}{46}
+\contentsline {subsubsection}{Interface Sounds}{46}
+\contentsline {subsubsection}{Voice}{47}

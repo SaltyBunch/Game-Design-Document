@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2018.11.1)  9 NOV 2018 11:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2018.11.1)  9 NOV 2018 12:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -472,36 +472,95 @@ File: images/drone_fac2e.jpg Graphic file (type jpg)
 <use images/drone_fac2e.jpg>
 Package pdftex.def Info: images/drone_fac2e.jpg  used on input line 866.
 (pdftex.def)             Requested size: 187.89928pt x 97.8041pt.
- [35 <./images/electricfield1.jpg> <./images/taser.jpg> <./images/zappy_gun.jpg> <./images/zappy_stick.jpg>] [36 <./images/drone_face.jpg> <./images/drone_fac2e.jpg>]
+ [35 <./images/electricfield1.jpg> <./images/taser.jpg> <./images/zappy_gun.jpg> <./images/zappy_stick.jpg>]
+<images/charactes.jpg, id=158, 698.61pt x 977.6525pt>
+File: images/charactes.jpg Graphic file (type jpg)
+<use images/charactes.jpg>
+Package pdftex.def Info: images/charactes.jpg  used on input line 873.
+(pdftex.def)             Requested size: 469.75539pt x 657.3957pt.
+ [36 <./images/drone_face.jpg> <./images/drone_fac2e.jpg>]
+Overfull \vbox (126.86809pt too high) has occurred while \output is active []
+
+ [37 <./images/charactes.jpg>]
+<images/TheBig.jpg, id=169, 361.35pt x 505.89pt>
+File: images/TheBig.jpg Graphic file (type jpg)
+<use images/TheBig.jpg>
+Package pdftex.def Info: images/TheBig.jpg  used on input line 878.
+(pdftex.def)             Requested size: 187.89928pt x 263.05658pt.
+<images/TheShadow.jpg, id=170, 361.35pt x 505.89pt>
+File: images/TheShadow.jpg Graphic file (type jpg)
+<use images/TheShadow.jpg>
+Package pdftex.def Info: images/TheShadow.jpg  used on input line 879.
+(pdftex.def)             Requested size: 187.89928pt x 263.05658pt.
+<images/TheJailbird.jpg, id=171, 361.35pt x 505.89pt>
+File: images/TheJailbird.jpg Graphic file (type jpg)
+<use images/TheJailbird.jpg>
+Package pdftex.def Info: images/TheJailbird.jpg  used on input line 880.
+(pdftex.def)             Requested size: 187.89928pt x 263.05658pt.
+<images/TheRaccoon.jpg, id=172, 361.35pt x 505.89pt>
+File: images/TheRaccoon.jpg Graphic file (type jpg)
+<use images/TheRaccoon.jpg>
+Package pdftex.def Info: images/TheRaccoon.jpg  used on input line 881.
+(pdftex.def)             Requested size: 187.89928pt x 263.05658pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 878--882
+[][] []
+ []
+
+<images/cinquebank.jpg, id=173, 1927.2pt x 1084.05pt>
+File: images/cinquebank.jpg Graphic file (type jpg)
+<use images/cinquebank.jpg>
+Package pdftex.def Info: images/cinquebank.jpg  used on input line 888.
+(pdftex.def)             Requested size: 469.75539pt x 264.22992pt.
+[38 <./images/TheBig.jpg (PNG copy)> <./images/TheShadow.jpg (PNG copy)> <./images/TheJailbird.jpg (PNG copy)> <./images/TheRaccoon.jpg (PNG copy)>]
+<images/insidebank.jpg, id=177, 1927.2pt x 1084.05pt>
+File: images/insidebank.jpg Graphic file (type jpg)
+<use images/insidebank.jpg>
+Package pdftex.def Info: images/insidebank.jpg  used on input line 893.
+(pdftex.def)             Requested size: 469.75539pt x 264.22992pt.
+ [39 <./images/cinquebank.jpg>] [40 <./images/insidebank.jpg>]
 Chapter 10.
-[37
 
-] (./GameDesignDocument.aux)
+Underfull \hbox (badness 10000) in paragraph at lines 923--923
+[]\OT1/cmr/m/n/10 A.S.I.A. (Ar-ti-fi-cial, Se-cu-
+ []
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
- ) 
+Underfull \hbox (badness 10000) in paragraph at lines 958--959
+[]\OT1/cmr/m/n/10 Assorted styles of wall.
+ []
+
+[41
+
+]
+Underfull \hbox (badness 3168) in paragraph at lines 969--969
+[]\OT1/cmr/m/n/10 Intuitive cir-cle that hov-ers above the
+ []
+
+[42]
+Underfull \hbox (badness 10000) in paragraph at lines 996--996
+[]\OT1/cmr/m/n/10 Character does vic-tory cheer for
+ []
+
+[43]
+Underfull \hbox (badness 1655) in paragraph at lines 1008--1008
+[]\OT1/cmr/m/n/10 Display of con-troller/keyboard to show
+ []
+
+[44] [45] [46] [47] (./GameDesignDocument.aux) ) 
 Here is how much of TeX's memory you used:
- 4459 strings out of 494085
- 67117 string characters out of 6165697
- 148440 words of memory out of 5000000
- 8051 multiletter control sequences out of 15000+600000
+ 4495 strings out of 494085
+ 67929 string characters out of 6165697
+ 152440 words of memory out of 5000000
+ 8080 multiletter control sequences out of 15000+600000
  10880 words of font info for 39 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
- 42i,7n,40p,813b,449s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 42i,9n,40p,813b,449s stack positions out of 5000i,500n,10000p,200000b,80000s
 <c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on GameDesignDocument.pdf (38 pages, 11592129 bytes).
+Output written on GameDesignDocument.pdf (48 pages, 25627412 bytes).
 PDF statistics:
- 194 PDF objects out of 1000 (max. 8388607)
- 109 compressed objects within 2 object streams
+ 233 PDF objects out of 1000 (max. 8388607)
+ 130 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 141 words of extra memory for PDF output out of 10000 (max. 10000000)
-
-sfonts/cm/cmr12.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on GameDesignDocument.pdf (36 pages, 11585749 bytes).
-PDF statistics:
- 185 PDF objects out of 1000 (max. 8388607)
- 102 compressed objects within 2 object streams
- 0 named destinations out of 1000 (max. 500000)
- 141 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 176 words of extra memory for PDF output out of 10000 (max. 10000000)
 
