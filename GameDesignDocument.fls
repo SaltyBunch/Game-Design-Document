@@ -102,6 +102,12 @@ INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
 INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT c:/texlive/2018/texmf-dist/tex/latex/base/omscmr.fd
 INPUT c:/texlive/2018/texmf-dist/tex/latex/base/omscmr.fd
+INPUT images/gameflowsummary.jpg
+INPUT ./images/gameflowsummary.jpg
+INPUT ./images/gameflowsummary.jpg
+INPUT images/lookandfeel.jpg
+INPUT ./images/lookandfeel.jpg
+INPUT ./images/lookandfeel.jpg
 INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmti10.tfm
 INPUT GameDesignDocument.aux
