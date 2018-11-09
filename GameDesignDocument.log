@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2018.11.1)  9 NOV 2018 13:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2018.11.1)  9 NOV 2018 14:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -169,18 +169,18 @@ LaTeX Warning: Unused global option(s):
 (./GameDesignDocument.aux)
 \openout1 = `GameDesignDocument.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
  (c:/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count111
@@ -242,16 +242,16 @@ Package caption Info: End \AtBeginDocument code.
 * paper: letterpaper
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: includehead includefoot 
-* h-part:(L,W,R)=(72.2698pt, 469.75539pt, 72.2698pt)
-* v-part:(T,H,B)=(72.2698pt, 650.43037pt, 72.2698pt)
+* modes: 
+* h-part:(L,W,R)=(92.14519pt, 430.00462pt, 92.14519pt)
+* v-part:(T,H,B)=(95.39737pt, 556.47656pt, 143.09605pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
-* \textwidth=469.75539pt
-* \textheight=583.43037pt
-* \oddsidemargin=-0.00018pt
-* \evensidemargin=-0.00018pt
-* \topmargin=-0.00018pt
+* \textwidth=430.00462pt
+* \textheight=556.47656pt
+* \oddsidemargin=19.8752pt
+* \evensidemargin=19.8752pt
+* \topmargin=-13.87262pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=10.0pt
@@ -272,8 +272,8 @@ Package caption Info: End \AtBeginDocument code.
 <images/logo.jpg, id=1, 1003.75pt x 1003.75pt>
 File: images/logo.jpg Graphic file (type jpg)
 <use images/logo.jpg>
-Package pdftex.def Info: images/logo.jpg  used on input line 22.
-(pdftex.def)             Requested size: 281.8561pt x 281.85983pt.
+Package pdftex.def Info: images/logo.jpg  used on input line 23.
+(pdftex.def)             Requested size: 258.00539pt x 257.99754pt.
 [1
 
 {c:/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./images/logo.jpg>] (./GameDesignDocument.toc [1
@@ -284,437 +284,433 @@ Package pdftex.def Info: images/logo.jpg  used on input line 22.
 
  [3]
 Chapter 1.
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 33.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 34.
 (c:/texlive/2018/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 33.
-<images/cinquebank.jpg, id=22, 1927.2pt x 1084.05pt>
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 34.
+<images/cinquebank.jpg, id=23, 1927.2pt x 1084.05pt>
 File: images/cinquebank.jpg Graphic file (type jpg)
 <use images/cinquebank.jpg>
-Package pdftex.def Info: images/cinquebank.jpg  used on input line 47.
-(pdftex.def)             Requested size: 469.75539pt x 264.22992pt.
+Package pdftex.def Info: images/cinquebank.jpg  used on input line 48.
+(pdftex.def)             Requested size: 430.00462pt x 241.86615pt.
  [4
 
 ]
-<images/gameflowsummary.jpg, id=27, 1204.5pt x 903.375pt>
+<images/gameflowsummary.jpg, id=28, 1204.5pt x 903.375pt>
 File: images/gameflowsummary.jpg Graphic file (type jpg)
 <use images/gameflowsummary.jpg>
-Package pdftex.def Info: images/gameflowsummary.jpg  used on input line 78.
-(pdftex.def)             Requested size: 469.75539pt x 352.31483pt.
+Package pdftex.def Info: images/gameflowsummary.jpg  used on input line 79.
+(pdftex.def)             Requested size: 430.00462pt x 322.49924pt.
  [5 <./images/cinquebank.jpg>]
-<images/lookandfeel.jpg, id=31, 515.9275pt x 290.58563pt>
+<images/lookandfeel.jpg, id=32, 515.9275pt x 290.58563pt>
 File: images/lookandfeel.jpg Graphic file (type jpg)
 <use images/lookandfeel.jpg>
-Package pdftex.def Info: images/lookandfeel.jpg  used on input line 87.
-(pdftex.def)             Requested size: 469.75539pt x 264.58852pt.
+Package pdftex.def Info: images/lookandfeel.jpg  used on input line 88.
+(pdftex.def)             Requested size: 430.00462pt x 242.19695pt.
  [6 <./images/gameflowsummary.jpg>] [7 <./images/lookandfeel.jpg>]
 Chapter 2.
 [8
 
 ] [9]
 Chapter 3.
-<images/TheBig.jpg, id=45, 361.35pt x 505.89pt>
+<images/TheBig.jpg, id=46, 361.35pt x 505.89pt>
 File: images/TheBig.jpg Graphic file (type jpg)
 <use images/TheBig.jpg>
-Package pdftex.def Info: images/TheBig.jpg  used on input line 147.
-(pdftex.def)             Requested size: 234.87769pt x 328.8323pt.
+Package pdftex.def Info: images/TheBig.jpg  used on input line 148.
+(pdftex.def)             Requested size: 215.0023pt x 301.00441pt.
 [10
 
  <./images/TheBig.jpg (PNG copy)>]
-<images/kingui_sarah.jpg, id=49, 796.9775pt x 233.87375pt>
+<images/kingui_sarah.jpg, id=50, 796.9775pt x 233.87375pt>
 File: images/kingui_sarah.jpg Graphic file (type jpg)
 <use images/kingui_sarah.jpg>
-Package pdftex.def Info: images/kingui_sarah.jpg  used on input line 181.
-(pdftex.def)             Requested size: 234.87769pt x 68.92435pt.
-<images/TheJailbird.jpg, id=50, 361.35pt x 505.89pt>
+Package pdftex.def Info: images/kingui_sarah.jpg  used on input line 182.
+(pdftex.def)             Requested size: 215.0023pt x 63.08965pt.
+<images/TheJailbird.jpg, id=51, 361.35pt x 505.89pt>
 File: images/TheJailbird.jpg Graphic file (type jpg)
 <use images/TheJailbird.jpg>
-Package pdftex.def Info: images/TheJailbird.jpg  used on input line 188.
-(pdftex.def)             Requested size: 234.87769pt x 328.8323pt.
+Package pdftex.def Info: images/TheJailbird.jpg  used on input line 189.
+(pdftex.def)             Requested size: 215.0023pt x 301.00441pt.
  [11 <./images/kingui_sarah.jpg>] [12 <./images/TheJailbird.jpg (PNG copy)>]
-<images/jailbirdui_sarah.jpg, id=59, 796.9775pt x 233.87375pt>
+<images/jailbirdui_sarah.jpg, id=60, 796.9775pt x 233.87375pt>
 File: images/jailbirdui_sarah.jpg Graphic file (type jpg)
 <use images/jailbirdui_sarah.jpg>
-Package pdftex.def Info: images/jailbirdui_sarah.jpg  used on input line 222.
-(pdftex.def)             Requested size: 234.87769pt x 68.92435pt.
-<images/TheShadow.jpg, id=60, 361.35pt x 505.89pt>
+Package pdftex.def Info: images/jailbirdui_sarah.jpg  used on input line 223.
+(pdftex.def)             Requested size: 215.0023pt x 63.08965pt.
+<images/TheShadow.jpg, id=61, 361.35pt x 505.89pt>
 File: images/TheShadow.jpg Graphic file (type jpg)
 <use images/TheShadow.jpg>
-Package pdftex.def Info: images/TheShadow.jpg  used on input line 230.
-(pdftex.def)             Requested size: 234.87769pt x 328.8323pt.
+Package pdftex.def Info: images/TheShadow.jpg  used on input line 231.
+(pdftex.def)             Requested size: 215.0023pt x 301.00441pt.
  [13 <./images/jailbirdui_sarah.jpg>] [14 <./images/TheShadow.jpg (PNG copy)>]
-<images/shadowui_sarah.jpg, id=68, 797.98125pt x 233.87375pt>
+<images/shadowui_sarah.jpg, id=69, 797.98125pt x 233.87375pt>
 File: images/shadowui_sarah.jpg Graphic file (type jpg)
 <use images/shadowui_sarah.jpg>
-Package pdftex.def Info: images/shadowui_sarah.jpg  used on input line 264.
-(pdftex.def)             Requested size: 234.87769pt x 68.8387pt.
-<images/TheRaccoon.jpg, id=69, 361.35pt x 505.89pt>
+Package pdftex.def Info: images/shadowui_sarah.jpg  used on input line 265.
+(pdftex.def)             Requested size: 215.0023pt x 63.01114pt.
+<images/TheRaccoon.jpg, id=70, 361.35pt x 505.89pt>
 File: images/TheRaccoon.jpg Graphic file (type jpg)
 <use images/TheRaccoon.jpg>
-Package pdftex.def Info: images/TheRaccoon.jpg  used on input line 272.
-(pdftex.def)             Requested size: 234.87769pt x 328.8323pt.
+Package pdftex.def Info: images/TheRaccoon.jpg  used on input line 273.
+(pdftex.def)             Requested size: 215.0023pt x 301.00441pt.
  [15 <./images/shadowui_sarah.jpg>] [16 <./images/TheRaccoon.jpg (PNG copy)>]
-<images/raccoonui_sarah.jpg, id=77, 797.98125pt x 233.87375pt>
+<images/raccoonui_sarah.jpg, id=78, 797.98125pt x 233.87375pt>
 File: images/raccoonui_sarah.jpg Graphic file (type jpg)
 <use images/raccoonui_sarah.jpg>
-Package pdftex.def Info: images/raccoonui_sarah.jpg  used on input line 305.
-(pdftex.def)             Requested size: 234.87769pt x 68.8387pt.
-<images/drone_face.jpg, id=78, 136.5903pt x 70.3428pt>
-File: images/drone_face.jpg Graphic file (type jpg)
-<use images/drone_face.jpg>
-Package pdftex.def Info: images/drone_face.jpg  used on input line 313.
-(pdftex.def)             Requested size: 140.92804pt x 72.58269pt.
+Package pdftex.def Info: images/raccoonui_sarah.jpg  used on input line 306.
+(pdftex.def)             Requested size: 215.0023pt x 63.01114pt.
+<images/drone_face.jpg, id=79, 136.5903pt x 70.3428pt>
 File: images/drone_face.jpg Graphic file (type jpg)
 <use images/drone_face.jpg>
 Package pdftex.def Info: images/drone_face.jpg  used on input line 314.
-(pdftex.def)             Requested size: 140.92804pt x 72.58269pt.
+(pdftex.def)             Requested size: 129.00269pt x 66.43994pt.
+File: images/drone_face.jpg Graphic file (type jpg)
+<use images/drone_face.jpg>
+Package pdftex.def Info: images/drone_face.jpg  used on input line 315.
+(pdftex.def)             Requested size: 129.00269pt x 66.43994pt.
  [17 <./images/raccoonui_sarah.jpg> <./images/drone_face.jpg>] [18]
 Chapter 4.
-<images/progPic.jpg, id=88, 1204.5pt x 903.375pt>
-File: images/progPic.jpg Graphic file (type jpg)
-<use images/progPic.jpg>
-Package pdftex.def Info: images/progPic.jpg  used on input line 358.
-(pdftex.def)             Requested size: 469.75539pt x 352.31483pt.
 [19
 
 ]
-<images/insidebank.jpg, id=92, 1927.2pt x 1084.05pt>
+<images/progPic.jpg, id=92, 1204.5pt x 903.375pt>
+File: images/progPic.jpg Graphic file (type jpg)
+<use images/progPic.jpg>
+Package pdftex.def Info: images/progPic.jpg  used on input line 359.
+(pdftex.def)             Requested size: 430.00462pt x 322.49924pt.
+<images/insidebank.jpg, id=93, 1927.2pt x 1084.05pt>
 File: images/insidebank.jpg Graphic file (type jpg)
 <use images/insidebank.jpg>
-Package pdftex.def Info: images/insidebank.jpg  used on input line 371.
-(pdftex.def)             Requested size: 469.75539pt x 264.22992pt.
+Package pdftex.def Info: images/insidebank.jpg  used on input line 372.
+(pdftex.def)             Requested size: 430.00462pt x 241.86615pt.
  [20 <./images/progPic.jpg>] [21 <./images/insidebank.jpg>] [22] [23]
-<images/zappy_gun.jpg, id=105, 225.35806pt x 194.2742pt>
+<images/zappy_gun.jpg, id=106, 225.35806pt x 194.2742pt>
 File: images/zappy_gun.jpg Graphic file (type jpg)
 <use images/zappy_gun.jpg>
-Package pdftex.def Info: images/zappy_gun.jpg  used on input line 515.
-(pdftex.def)             Requested size: 93.94963pt x 80.99283pt.
-<images/zappy_stick.jpg, id=106, 202.04517pt x 205.93065pt>
+Package pdftex.def Info: images/zappy_gun.jpg  used on input line 516.
+(pdftex.def)             Requested size: 85.9996pt x 74.13918pt.
+ [24 <./images/zappy_gun.jpg>]
+<images/zappy_stick.jpg, id=112, 202.04517pt x 205.93065pt>
 File: images/zappy_stick.jpg Graphic file (type jpg)
 <use images/zappy_stick.jpg>
-Package pdftex.def Info: images/zappy_stick.jpg  used on input line 532.
-(pdftex.def)             Requested size: 93.94963pt x 95.75674pt.
- [24 <./images/zappy_gun.jpg>] [25 <./images/zappy_stick.jpg>]
-<images/screenFlow.jpg, id=115, 1204.5pt x 903.375pt>
+Package pdftex.def Info: images/zappy_stick.jpg  used on input line 533.
+(pdftex.def)             Requested size: 85.9996pt x 87.6529pt.
+ [25 <./images/zappy_stick.jpg>]
+<images/screenFlow.jpg, id=116, 1204.5pt x 903.375pt>
 File: images/screenFlow.jpg Graphic file (type jpg)
 <use images/screenFlow.jpg>
-Package pdftex.def Info: images/screenFlow.jpg  used on input line 599.
-(pdftex.def)             Requested size: 469.75539pt x 352.31483pt.
+Package pdftex.def Info: images/screenFlow.jpg  used on input line 600.
+(pdftex.def)             Requested size: 430.00462pt x 322.49924pt.
  [26]
-<images/menu.jpg, id=119, 1927.2pt x 1084.05pt>
+<images/menu.jpg, id=120, 1927.2pt x 1084.05pt>
 File: images/menu.jpg Graphic file (type jpg)
 <use images/menu.jpg>
-Package pdftex.def Info: images/menu.jpg  used on input line 609.
-(pdftex.def)             Requested size: 469.75539pt x 264.22992pt.
+Package pdftex.def Info: images/menu.jpg  used on input line 610.
+(pdftex.def)             Requested size: 430.00462pt x 241.86615pt.
  [27 <./images/screenFlow.jpg>] [28 <./images/menu.jpg>]
 Chapter 5.
-<images/Ground.png, id=126, 1109.5854pt x 768.2301pt>
+<images/Ground.png, id=127, 1109.5854pt x 768.2301pt>
 File: images/Ground.png Graphic file (type png)
 <use images/Ground.png>
-Package pdftex.def Info: images/Ground.png  used on input line 651.
-(pdftex.def)             Requested size: 375.80574pt x 260.18666pt.
+Package pdftex.def Info: images/Ground.png  used on input line 652.
+(pdftex.def)             Requested size: 344.005pt x 238.17232pt.
 [29
 
 ]
-<images/Legend.png, id=130, 455.301pt x 341.3553pt>
+<images/Legend.png, id=131, 455.301pt x 341.3553pt>
 File: images/Legend.png Graphic file (type png)
 <use images/Legend.png>
-Package pdftex.def Info: images/Legend.png  used on input line 657.
-(pdftex.def)             Requested size: 375.80574pt x 281.7622pt.
- [30 <./images/Ground.png>]
-<images/GroundPathing.png, id=135, 1109.5854pt x 768.2301pt>
+Package pdftex.def Info: images/Legend.png  used on input line 658.
+(pdftex.def)             Requested size: 215.0023pt x 161.19226pt.
+ [30 <./images/Ground.png> <./images/Legend.png>]
+<images/GroundPathing.png, id=136, 1109.5854pt x 768.2301pt>
 File: images/GroundPathing.png Graphic file (type png)
 <use images/GroundPathing.png>
-Package pdftex.def Info: images/GroundPathing.png  used on input line 671.
-(pdftex.def)             Requested size: 375.80574pt x 260.18666pt.
- [31 <./images/Legend.png>]
-<images/GroundDrone.png, id=139, 1109.5854pt x 768.2301pt>
+Package pdftex.def Info: images/GroundPathing.png  used on input line 672.
+(pdftex.def)             Requested size: 344.005pt x 238.17232pt.
+<images/GroundDrone.png, id=137, 1109.5854pt x 768.2301pt>
 File: images/GroundDrone.png Graphic file (type png)
 <use images/GroundDrone.png>
-Package pdftex.def Info: images/GroundDrone.png  used on input line 681.
-(pdftex.def)             Requested size: 375.80574pt x 260.18666pt.
- [32 <./images/GroundPathing.png>]
-<images/Basement.png, id=143, 1109.5854pt x 768.2301pt>
+Package pdftex.def Info: images/GroundDrone.png  used on input line 682.
+(pdftex.def)             Requested size: 344.005pt x 238.17232pt.
+ [31 <./images/GroundPathing.png>]
+<images/Basement.png, id=141, 1109.5854pt x 768.2301pt>
 File: images/Basement.png Graphic file (type png)
 <use images/Basement.png>
-Package pdftex.def Info: images/Basement.png  used on input line 703.
-(pdftex.def)             Requested size: 375.80574pt x 260.18666pt.
- [33 <./images/GroundDrone.png>]
-<images/BasementPathing.png, id=147, 1109.5854pt x 768.2301pt>
+Package pdftex.def Info: images/Basement.png  used on input line 704.
+(pdftex.def)             Requested size: 344.005pt x 238.17232pt.
+ [32 <./images/GroundDrone.png>]
+<images/BasementPathing.png, id=145, 1109.5854pt x 768.2301pt>
 File: images/BasementPathing.png Graphic file (type png)
 <use images/BasementPathing.png>
-Package pdftex.def Info: images/BasementPathing.png  used on input line 718.
-(pdftex.def)             Requested size: 375.80574pt x 260.18666pt.
- [34 <./images/Basement.png>]
-<images/BasementDrone.png, id=151, 1109.5854pt x 768.2301pt>
+Package pdftex.def Info: images/BasementPathing.png  used on input line 719.
+(pdftex.def)             Requested size: 344.005pt x 238.17232pt.
+ [33 <./images/Basement.png>]
+<images/BasementDrone.png, id=149, 1109.5854pt x 768.2301pt>
 File: images/BasementDrone.png Graphic file (type png)
 <use images/BasementDrone.png>
-Package pdftex.def Info: images/BasementDrone.png  used on input line 729.
-(pdftex.def)             Requested size: 375.80574pt x 260.18666pt.
- [35 <./images/BasementPathing.png>] [36 <./images/BasementDrone.png>]
+Package pdftex.def Info: images/BasementDrone.png  used on input line 730.
+(pdftex.def)             Requested size: 344.005pt x 238.17232pt.
+ [34 <./images/BasementPathing.png>] [35 <./images/BasementDrone.png>]
 Chapter 6.
-<images/uiLayout.jpg, id=159, 3854.4pt x 2168.1pt>
+<images/uiLayout.jpg, id=156, 3854.4pt x 2168.1pt>
 File: images/uiLayout.jpg Graphic file (type jpg)
 <use images/uiLayout.jpg>
-Package pdftex.def Info: images/uiLayout.jpg  used on input line 750.
-(pdftex.def)             Requested size: 469.75539pt x 264.22992pt.
-[37
+Package pdftex.def Info: images/uiLayout.jpg  used on input line 751.
+(pdftex.def)             Requested size: 430.00462pt x 241.86615pt.
+[36
 
 ]
-<images/keyboardlayout.jpg, id=163, 1927.2pt x 1084.05pt>
+<images/keyboardlayout.jpg, id=161, 1927.2pt x 1084.05pt>
 File: images/keyboardlayout.jpg Graphic file (type jpg)
 <use images/keyboardlayout.jpg>
-Package pdftex.def Info: images/keyboardlayout.jpg  used on input line 780.
-(pdftex.def)             Requested size: 469.75539pt x 264.22992pt.
- [38 <./images/uiLayout.jpg>]
-<images/controllerlayout.jpg, id=167, 1027.84pt x 770.88pt>
+Package pdftex.def Info: images/keyboardlayout.jpg  used on input line 781.
+(pdftex.def)             Requested size: 430.00462pt x 241.86615pt.
+ [37 <./images/uiLayout.jpg>]
+<images/controllerlayout.jpg, id=165, 1027.84pt x 770.88pt>
 File: images/controllerlayout.jpg Graphic file (type jpg)
 <use images/controllerlayout.jpg>
-Package pdftex.def Info: images/controllerlayout.jpg  used on input line 785.
-(pdftex.def)             Requested size: 469.75539pt x 352.31538pt.
- [39 <./images/keyboardlayout.jpg>] [40 <./images/controllerlayout.jpg>] [41]
+Package pdftex.def Info: images/controllerlayout.jpg  used on input line 786.
+(pdftex.def)             Requested size: 430.00462pt x 322.50879pt.
+ [38 <./images/keyboardlayout.jpg>] [39 <./images/controllerlayout.jpg>] [40]
 Chapter 7.
-<images/fsm-ai.jpg, id=177, 661.97313pt x 540.0175pt>
+<images/fsm-ai.jpg, id=175, 661.97313pt x 540.0175pt>
 File: images/fsm-ai.jpg Graphic file (type jpg)
 <use images/fsm-ai.jpg>
-Package pdftex.def Info: images/fsm-ai.jpg  used on input line 868.
-(pdftex.def)             Requested size: 469.75539pt x 383.2091pt.
+Package pdftex.def Info: images/fsm-ai.jpg  used on input line 869.
+(pdftex.def)             Requested size: 430.00462pt x 350.78473pt.
+[41
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[42
-
-] [43 <./images/fsm-ai.jpg>]
+] [42 <./images/fsm-ai.jpg>]
 Chapter 8.
-[44
+[43
 
 ]
 Chapter 9.
-<images/bankconcept.jpg, id=188, 1927.2pt x 1084.05pt>
+<images/bankconcept.jpg, id=186, 1927.2pt x 1084.05pt>
 File: images/bankconcept.jpg Graphic file (type jpg)
 <use images/bankconcept.jpg>
-Package pdftex.def Info: images/bankconcept.jpg  used on input line 901.
-(pdftex.def)             Requested size: 469.75539pt x 264.22992pt.
-<images/floortile.jpg, id=189, 96.36pt x 96.36pt>
+Package pdftex.def Info: images/bankconcept.jpg  used on input line 902.
+(pdftex.def)             Requested size: 430.00462pt x 241.86615pt.
+<images/floortile.jpg, id=187, 96.36pt x 96.36pt>
 File: images/floortile.jpg Graphic file (type jpg)
 <use images/floortile.jpg>
-Package pdftex.def Info: images/floortile.jpg  used on input line 907.
-(pdftex.def)             Requested size: 187.89928pt x 187.89972pt.
-<images/painting.jpg, id=190, 150.5625pt x 135.50626pt>
+Package pdftex.def Info: images/floortile.jpg  used on input line 908.
+(pdftex.def)             Requested size: 171.99922pt x 171.99954pt.
+<images/painting.jpg, id=188, 150.5625pt x 135.50626pt>
 File: images/painting.jpg Graphic file (type jpg)
 <use images/painting.jpg>
-Package pdftex.def Info: images/painting.jpg  used on input line 908.
-(pdftex.def)             Requested size: 187.89928pt x 169.12599pt.
-[45
+Package pdftex.def Info: images/painting.jpg  used on input line 909.
+(pdftex.def)             Requested size: 171.99922pt x 154.81367pt.
+[44
 
  <./images/bankconcept.jpg>]
-<images/options.jpg, id=194, 3011.25pt x 1003.75pt>
+<images/options.jpg, id=192, 3011.25pt x 1003.75pt>
 File: images/options.jpg Graphic file (type jpg)
 <use images/options.jpg>
-Package pdftex.def Info: images/options.jpg  used on input line 913.
-(pdftex.def)             Requested size: 469.75539pt x 156.57518pt.
+Package pdftex.def Info: images/options.jpg  used on input line 914.
+(pdftex.def)             Requested size: 430.00462pt x 143.32686pt.
 File: images/menu.jpg Graphic file (type jpg)
 <use images/menu.jpg>
-Package pdftex.def Info: images/menu.jpg  used on input line 918.
-(pdftex.def)             Requested size: 469.75539pt x 264.22992pt.
- [46 <./images/floortile.jpg> <./images/painting.jpg> <./images/options.jpg>]
-<images/ingameui.jpg, id=199, 1927.2pt x 1084.05pt>
+Package pdftex.def Info: images/menu.jpg  used on input line 919.
+(pdftex.def)             Requested size: 430.00462pt x 241.86615pt.
+ [45 <./images/floortile.jpg> <./images/painting.jpg> <./images/options.jpg>]
+<images/ingameui.jpg, id=197, 1927.2pt x 1084.05pt>
 File: images/ingameui.jpg Graphic file (type jpg)
 <use images/ingameui.jpg>
-Package pdftex.def Info: images/ingameui.jpg  used on input line 923.
-(pdftex.def)             Requested size: 469.75539pt x 264.22992pt.
- [47]
-<images/ingameuifinal.jpg, id=203, 3854.4pt x 2168.1pt>
+Package pdftex.def Info: images/ingameui.jpg  used on input line 924.
+(pdftex.def)             Requested size: 430.00462pt x 241.86615pt.
+<images/ingameuifinal.jpg, id=198, 3854.4pt x 2168.1pt>
 File: images/ingameuifinal.jpg Graphic file (type jpg)
 <use images/ingameuifinal.jpg>
-Package pdftex.def Info: images/ingameuifinal.jpg  used on input line 928.
-(pdftex.def)             Requested size: 469.75539pt x 264.22992pt.
- [48 <./images/ingameui.jpg>]
+Package pdftex.def Info: images/ingameuifinal.jpg  used on input line 929.
+(pdftex.def)             Requested size: 430.00462pt x 241.86615pt.
+ [46 <./images/ingameui.jpg>]
 File: images/kingui_sarah.jpg Graphic file (type jpg)
 <use images/kingui_sarah.jpg>
-Package pdftex.def Info: images/kingui_sarah.jpg  used on input line 934.
-(pdftex.def)             Requested size: 187.89928pt x 55.13876pt.
+Package pdftex.def Info: images/kingui_sarah.jpg  used on input line 935.
+(pdftex.def)             Requested size: 171.99922pt x 50.47101pt.
 File: images/shadowui_sarah.jpg Graphic file (type jpg)
 <use images/shadowui_sarah.jpg>
-Package pdftex.def Info: images/shadowui_sarah.jpg  used on input line 935.
-(pdftex.def)             Requested size: 187.89928pt x 55.06738pt.
+Package pdftex.def Info: images/shadowui_sarah.jpg  used on input line 936.
+(pdftex.def)             Requested size: 171.99922pt x 50.41034pt.
 File: images/jailbirdui_sarah.jpg Graphic file (type jpg)
 <use images/jailbirdui_sarah.jpg>
-Package pdftex.def Info: images/jailbirdui_sarah.jpg  used on input line 936.
-(pdftex.def)             Requested size: 187.89928pt x 55.13876pt.
+Package pdftex.def Info: images/jailbirdui_sarah.jpg  used on input line 937.
+(pdftex.def)             Requested size: 171.99922pt x 50.47101pt.
 File: images/raccoonui_sarah.jpg Graphic file (type jpg)
 <use images/raccoonui_sarah.jpg>
-Package pdftex.def Info: images/raccoonui_sarah.jpg  used on input line 937.
-(pdftex.def)             Requested size: 187.89928pt x 55.06738pt.
-<images/lasertripwire.jpg, id=208, 653.44125pt x 588.1975pt>
+Package pdftex.def Info: images/raccoonui_sarah.jpg  used on input line 938.
+(pdftex.def)             Requested size: 171.99922pt x 50.41034pt.
+<images/lasertripwire.jpg, id=202, 653.44125pt x 588.1975pt>
 File: images/lasertripwire.jpg Graphic file (type jpg)
 <use images/lasertripwire.jpg>
-Package pdftex.def Info: images/lasertripwire.jpg  used on input line 944.
-(pdftex.def)             Requested size: 187.89928pt x 169.13687pt.
-<images/electricfield.jpg, id=209, 759.83875pt x 757.83125pt>
+Package pdftex.def Info: images/lasertripwire.jpg  used on input line 945.
+(pdftex.def)             Requested size: 171.99922pt x 154.8215pt.
+<images/electricfield.jpg, id=203, 759.83875pt x 757.83125pt>
 File: images/electricfield.jpg Graphic file (type jpg)
 <use images/electricfield.jpg>
-Package pdftex.def Info: images/electricfield.jpg  used on input line 948.
-(pdftex.def)             Requested size: 187.89928pt x 187.39903pt.
-<images/pixil.jpg, id=210, 127.22531pt x 121.20282pt>
+Package pdftex.def Info: images/electricfield.jpg  used on input line 949.
+(pdftex.def)             Requested size: 171.99922pt x 171.5454pt.
+<images/pixil.jpg, id=204, 127.22531pt x 121.20282pt>
 File: images/pixil.jpg Graphic file (type jpg)
 <use images/pixil.jpg>
-Package pdftex.def Info: images/pixil.jpg  used on input line 953.
-(pdftex.def)             Requested size: 187.89928pt x 179.01302pt.
-<images/camera.jpg, id=211, 526.09451pt x 493.45645pt>
+Package pdftex.def Info: images/pixil.jpg  used on input line 954.
+(pdftex.def)             Requested size: 171.99922pt x 163.86455pt.
+<images/camera.jpg, id=205, 526.09451pt x 493.45645pt>
 File: images/camera.jpg Graphic file (type jpg)
 <use images/camera.jpg>
-Package pdftex.def Info: images/camera.jpg  used on input line 954.
-(pdftex.def)             Requested size: 187.89928pt x 176.24368pt.
- [49 <./images/ingameuifinal.jpg>]
-<images/electricfield1.jpg, id=216, 1272.755pt x 909.3975pt>
+Package pdftex.def Info: images/camera.jpg  used on input line 955.
+(pdftex.def)             Requested size: 171.99922pt x 161.3277pt.
+ [47 <./images/ingameuifinal.jpg>]
+<images/electricfield1.jpg, id=209, 1272.755pt x 909.3975pt>
 File: images/electricfield1.jpg Graphic file (type jpg)
 <use images/electricfield1.jpg>
-Package pdftex.def Info: images/electricfield1.jpg  used on input line 961.
-(pdftex.def)             Requested size: 469.75539pt x 335.63924pt.
- [50 <./images/lasertripwire.jpg> <./images/electricfield.jpg> <./images/pixil.jpg> <./images/camera.jpg>]
-<images/taser.jpg, id=221, 250.9375pt x 261.47687pt>
+Package pdftex.def Info: images/electricfield1.jpg  used on input line 962.
+(pdftex.def)             Requested size: 430.00462pt x 307.23451pt.
+ [48 <./images/lasertripwire.jpg> <./images/electricfield.jpg> <./images/pixil.jpg> <./images/camera.jpg>]
+<images/taser.jpg, id=215, 250.9375pt x 261.47687pt>
 File: images/taser.jpg Graphic file (type jpg)
 <use images/taser.jpg>
-Package pdftex.def Info: images/taser.jpg  used on input line 967.
-(pdftex.def)             Requested size: 140.92804pt x 146.85295pt.
+Package pdftex.def Info: images/taser.jpg  used on input line 968.
+(pdftex.def)             Requested size: 129.00269pt x 134.42868pt.
 File: images/zappy_gun.jpg Graphic file (type jpg)
 <use images/zappy_gun.jpg>
-Package pdftex.def Info: images/zappy_gun.jpg  used on input line 968.
-(pdftex.def)             Requested size: 140.92804pt x 121.49518pt.
+Package pdftex.def Info: images/zappy_gun.jpg  used on input line 969.
+(pdftex.def)             Requested size: 129.00269pt x 111.21469pt.
 File: images/zappy_stick.jpg Graphic file (type jpg)
 <use images/zappy_stick.jpg>
-Package pdftex.def Info: images/zappy_stick.jpg  used on input line 969.
-(pdftex.def)             Requested size: 140.92804pt x 143.64769pt.
+Package pdftex.def Info: images/zappy_stick.jpg  used on input line 970.
+(pdftex.def)             Requested size: 129.00269pt x 131.49036pt.
 File: images/drone_face.jpg Graphic file (type jpg)
 <use images/drone_face.jpg>
-Package pdftex.def Info: images/drone_face.jpg  used on input line 975.
-(pdftex.def)             Requested size: 187.89928pt x 96.77477pt.
-<images/drone_fac2e.jpg, id=222, 135.1449pt x 70.3428pt>
+Package pdftex.def Info: images/drone_face.jpg  used on input line 976.
+(pdftex.def)             Requested size: 171.99922pt x 88.58516pt.
+<images/drone_fac2e.jpg, id=216, 135.1449pt x 70.3428pt>
 File: images/drone_fac2e.jpg Graphic file (type jpg)
 <use images/drone_fac2e.jpg>
-Package pdftex.def Info: images/drone_fac2e.jpg  used on input line 976.
-(pdftex.def)             Requested size: 187.89928pt x 97.8041pt.
- [51 <./images/electricfield1.jpg> <./images/taser.jpg>]
-<images/charactes.jpg, id=226, 698.61pt x 977.6525pt>
+Package pdftex.def Info: images/drone_fac2e.jpg  used on input line 977.
+(pdftex.def)             Requested size: 171.99922pt x 89.52756pt.
+ [49 <./images/electricfield1.jpg> <./images/taser.jpg>]
+<images/charactes.jpg, id=221, 698.61pt x 977.6525pt>
 File: images/charactes.jpg Graphic file (type jpg)
 <use images/charactes.jpg>
-Package pdftex.def Info: images/charactes.jpg  used on input line 983.
-(pdftex.def)             Requested size: 469.75539pt x 657.3957pt.
- [52 <./images/drone_fac2e.jpg>]
-Overfull \vbox (126.86809pt too high) has occurred while \output is active []
+Package pdftex.def Info: images/charactes.jpg  used on input line 984.
+(pdftex.def)             Requested size: 430.00462pt x 601.7674pt.
+ [50 <./images/drone_fac2e.jpg>]
+Overfull \vbox (98.19359pt too high) has occurred while \output is active []
 
- [53 <./images/charactes.jpg>]
+ [51 <./images/charactes.jpg>]
 File: images/TheBig.jpg Graphic file (type jpg)
 <use images/TheBig.jpg>
-Package pdftex.def Info: images/TheBig.jpg  used on input line 988.
-(pdftex.def)             Requested size: 187.89928pt x 263.05658pt.
+Package pdftex.def Info: images/TheBig.jpg  used on input line 989.
+(pdftex.def)             Requested size: 171.99922pt x 240.80199pt.
 File: images/TheShadow.jpg Graphic file (type jpg)
 <use images/TheShadow.jpg>
-Package pdftex.def Info: images/TheShadow.jpg  used on input line 989.
-(pdftex.def)             Requested size: 187.89928pt x 263.05658pt.
+Package pdftex.def Info: images/TheShadow.jpg  used on input line 990.
+(pdftex.def)             Requested size: 171.99922pt x 240.80199pt.
 File: images/TheJailbird.jpg Graphic file (type jpg)
 <use images/TheJailbird.jpg>
-Package pdftex.def Info: images/TheJailbird.jpg  used on input line 990.
-(pdftex.def)             Requested size: 187.89928pt x 263.05658pt.
+Package pdftex.def Info: images/TheJailbird.jpg  used on input line 991.
+(pdftex.def)             Requested size: 171.99922pt x 240.80199pt.
 File: images/TheRaccoon.jpg Graphic file (type jpg)
 <use images/TheRaccoon.jpg>
-Package pdftex.def Info: images/TheRaccoon.jpg  used on input line 991.
-(pdftex.def)             Requested size: 187.89928pt x 263.05658pt.
+Package pdftex.def Info: images/TheRaccoon.jpg  used on input line 992.
+(pdftex.def)             Requested size: 171.99922pt x 240.80199pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 988--992
+Underfull \hbox (badness 10000) in paragraph at lines 989--993
 [][] []
  []
 
 File: images/cinquebank.jpg Graphic file (type jpg)
 <use images/cinquebank.jpg>
-Package pdftex.def Info: images/cinquebank.jpg  used on input line 998.
-(pdftex.def)             Requested size: 469.75539pt x 264.22992pt.
-[54]
+Package pdftex.def Info: images/cinquebank.jpg  used on input line 999.
+(pdftex.def)             Requested size: 430.00462pt x 241.86615pt.
+[52]
 File: images/insidebank.jpg Graphic file (type jpg)
 <use images/insidebank.jpg>
-Package pdftex.def Info: images/insidebank.jpg  used on input line 1003.
-(pdftex.def)             Requested size: 469.75539pt x 264.22992pt.
- [55] [56]
+Package pdftex.def Info: images/insidebank.jpg  used on input line 1004.
+(pdftex.def)             Requested size: 430.00462pt x 241.86615pt.
+ [53] [54]
 Chapter 10.
 
-Overfull \hbox (23.99998pt too wide) in paragraph at lines 1017--1026
+Overfull \hbox (23.99998pt too wide) in paragraph at lines 1018--1027
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1033--1033
+Underfull \hbox (badness 10000) in paragraph at lines 1034--1034
 []\OT1/cmr/m/n/10 A.S.I.A. (Ar-ti-fi-cial, Se-cu-
  []
 
 
-Overfull \hbox (23.99998pt too wide) in paragraph at lines 1029--1036
+Overfull \hbox (23.99998pt too wide) in paragraph at lines 1030--1037
 [] 
  []
 
 
-Overfull \hbox (23.99998pt too wide) in paragraph at lines 1039--1071
+Overfull \hbox (23.99998pt too wide) in paragraph at lines 1040--1072
 [] 
  []
 
-[57
+[55
 
 ]
-Overfull \hbox (23.99998pt too wide) in paragraph at lines 1074--1087
+Overfull \hbox (23.99998pt too wide) in paragraph at lines 1075--1088
 [] 
  []
 
+[56]
+Overfull \hbox (23.99998pt too wide) in paragraph at lines 1091--1113
+[] 
+ []
 
-Overfull \hbox (23.99998pt too wide) in paragraph at lines 1090--1112
+[57]
+Overfull \hbox (23.99998pt too wide) in paragraph at lines 1116--1130
 [] 
  []
 
 [58]
-Overfull \hbox (23.99998pt too wide) in paragraph at lines 1115--1129
+Overfull \hbox (23.99998pt too wide) in paragraph at lines 1137--1147
+[] 
+ []
+
+
+Overfull \hbox (23.99998pt too wide) in paragraph at lines 1150--1168
 [] 
  []
 
 [59]
-Overfull \hbox (23.99998pt too wide) in paragraph at lines 1136--1146
+Overfull \hbox (23.99998pt too wide) in paragraph at lines 1172--1186
 [] 
  []
 
 
-Overfull \hbox (23.99998pt too wide) in paragraph at lines 1149--1167
-[] 
- []
-
-[60]
-Overfull \hbox (23.99998pt too wide) in paragraph at lines 1171--1185
+Overfull \hbox (23.99998pt too wide) in paragraph at lines 1189--1197
 [] 
  []
 
 
-Overfull \hbox (23.99998pt too wide) in paragraph at lines 1188--1196
+Overfull \hbox (23.99998pt too wide) in paragraph at lines 1200--1218
 [] 
  []
 
-
-Overfull \hbox (23.99998pt too wide) in paragraph at lines 1199--1217
-[] 
- []
-
-[61] [62] (./GameDesignDocument.aux) ) 
+[60] [61] (./GameDesignDocument.aux) ) 
 Here is how much of TeX's memory you used:
- 4545 strings out of 494085
- 69027 string characters out of 6165697
- 158440 words of memory out of 5000000
- 8120 multiletter control sequences out of 15000+600000
- 10880 words of font info for 39 fonts, out of 8000000 for 9000
+ 4548 strings out of 494085
+ 69062 string characters out of 6165697
+ 152428 words of memory out of 5000000
+ 8122 multiletter control sequences out of 15000+600000
+ 11233 words of font info for 40 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
  42i,9n,40p,813b,449s stack positions out of 5000i,500n,10000p,200000b,80000s
-<c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on GameDesignDocument.pdf (63 pages, 29853692 bytes).
+<c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on GameDesignDocument.pdf (62 pages, 29869022 bytes).
 PDF statistics:
- 290 PDF objects out of 1000 (max. 8388607)
- 163 compressed objects within 2 object streams
+ 291 PDF objects out of 1000 (max. 8388607)
+ 164 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  221 words of extra memory for PDF output out of 10000 (max. 10000000)
 
