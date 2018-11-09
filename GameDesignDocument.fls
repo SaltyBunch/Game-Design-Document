@@ -113,6 +113,8 @@ INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
 INPUT images/salty_bunch_logo.png
 INPUT ./images/salty_bunch_logo.png
 INPUT ./images/salty_bunch_logo.png
+INPUT images/salty_bunch_logo.png
+INPUT ./images/salty_bunch_logo.png
 OUTPUT GameDesignDocument.toc
 INPUT images/salty_bunch_logo.png
 INPUT ./images/salty_bunch_logo.png
@@ -125,6 +127,8 @@ INPUT c:/texlive/2018/texmf-dist/tex/latex/base/omscmr.fd
 INPUT images/cinquebank.jpg
 INPUT ./images/cinquebank.jpg
 INPUT ./images/cinquebank.jpg
+INPUT images/salty_bunch_logo.png
+INPUT ./images/salty_bunch_logo.png
 INPUT images/gameflowsummary.jpg
 INPUT ./images/gameflowsummary.jpg
 INPUT ./images/gameflowsummary.jpg
@@ -140,9 +144,13 @@ INPUT ./images/salty_bunch_logo.png
 INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT images/salty_bunch_logo.png
 INPUT ./images/salty_bunch_logo.png
+INPUT images/salty_bunch_logo.png
+INPUT ./images/salty_bunch_logo.png
 INPUT images/TheBig.jpg
 INPUT ./images/TheBig.jpg
 INPUT ./images/TheBig.jpg
+INPUT images/salty_bunch_logo.png
+INPUT ./images/salty_bunch_logo.png
 INPUT images/kingui_sarah.jpg
 INPUT ./images/kingui_sarah.jpg
 INPUT ./images/kingui_sarah.jpg
@@ -186,6 +194,8 @@ INPUT ./images/salty_bunch_logo.png
 INPUT images/progPic.jpg
 INPUT ./images/progPic.jpg
 INPUT ./images/progPic.jpg
+INPUT images/salty_bunch_logo.png
+INPUT ./images/salty_bunch_logo.png
 INPUT images/insidebank.jpg
 INPUT ./images/insidebank.jpg
 INPUT ./images/insidebank.jpg
@@ -221,6 +231,8 @@ INPUT ./images/salty_bunch_logo.png
 INPUT images/Ground.png
 INPUT ./images/Ground.png
 INPUT ./images/Ground.png
+INPUT images/salty_bunch_logo.png
+INPUT ./images/salty_bunch_logo.png
 INPUT images/Legend.png
 INPUT ./images/Legend.png
 INPUT ./images/Legend.png
@@ -254,6 +266,8 @@ INPUT ./images/salty_bunch_logo.png
 INPUT images/uiLayout.jpg
 INPUT ./images/uiLayout.jpg
 INPUT ./images/uiLayout.jpg
+INPUT images/salty_bunch_logo.png
+INPUT ./images/salty_bunch_logo.png
 INPUT images/keyboardlayout.jpg
 INPUT ./images/keyboardlayout.jpg
 INPUT ./images/keyboardlayout.jpg
@@ -271,6 +285,10 @@ INPUT ./images/fsm-ai.jpg
 INPUT ./images/fsm-ai.jpg
 INPUT images/salty_bunch_logo.png
 INPUT ./images/salty_bunch_logo.png
+INPUT images/salty_bunch_logo.png
+INPUT ./images/salty_bunch_logo.png
+INPUT images/salty_bunch_logo.png
+INPUT ./images/salty_bunch_logo.png
 INPUT images/bankconcept.jpg
 INPUT ./images/bankconcept.jpg
 INPUT ./images/bankconcept.jpg
@@ -280,6 +298,8 @@ INPUT ./images/floortile.jpg
 INPUT images/painting.jpg
 INPUT ./images/painting.jpg
 INPUT ./images/painting.jpg
+INPUT images/salty_bunch_logo.png
+INPUT ./images/salty_bunch_logo.png
 INPUT images/options.jpg
 INPUT ./images/options.jpg
 INPUT ./images/options.jpg
@@ -357,6 +377,8 @@ INPUT images/salty_bunch_logo.png
 INPUT ./images/salty_bunch_logo.png
 INPUT images/insidebank.jpg
 INPUT ./images/insidebank.jpg
+INPUT images/salty_bunch_logo.png
+INPUT ./images/salty_bunch_logo.png
 INPUT images/salty_bunch_logo.png
 INPUT ./images/salty_bunch_logo.png
 INPUT images/salty_bunch_logo.png
