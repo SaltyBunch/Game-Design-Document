@@ -1,9 +1,9 @@
 # Fdb version 3
-["pdflatex"] 1541727089 "c:/Users/hiros/Game-Design-Document/GameDesignDocument.tex" "GameDesignDocument.pdf" "GameDesignDocument" 1541727095
-  "GameDesignDocument.aux" 1541727093 8733 ba39a95a9cfdd0415f25bc801a83650a ""
-  "GameDesignDocument.tex" 1541727086 23068 5711dcf6f1249cea73e38a565b03d3a1 ""
-  "GameDesignDocument.toc" 1541727093 5880 fbf5de2f9deb4a037e74039f978490e8 ""
-  "c:/Users/hiros/Game-Design-Document/GameDesignDocument.tex" 1541727086 23068 5711dcf6f1249cea73e38a565b03d3a1 ""
+["pdflatex"] 1541745904 "c:/Users/hiros/Game-Design-Document/GameDesignDocument.tex" "GameDesignDocument.pdf" "GameDesignDocument" 1541745906
+  "GameDesignDocument.aux" 1541745906 9590 a79d8fff456d3e37cc09abb176b19abf ""
+  "GameDesignDocument.tex" 1541745893 30336 7fe95016b9d0e5a2b02772312ad4311b ""
+  "GameDesignDocument.toc" 1541745906 6620 65b3c217851d14a24c4d619a1791cbd6 ""
+  "c:/Users/hiros/Game-Design-Document/GameDesignDocument.tex" 1541745893 30336 7fe95016b9d0e5a2b02772312ad4311b ""
   "c:/texlive/2018/texmf-dist/fonts/map/fontname/texfonts.map" 1541092611 3332 103109f5612ad95229751940c61aada0 ""
   "c:/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1541093224 1004 54797486969f23fa377b128694d548df ""
   "c:/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1541093224 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -67,10 +67,11 @@
   "c:/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1541093984 80286 fe07205a0fd0ff1605dac947f29a5af2 ""
   "c:/texlive/2018/texmf-var/web2c/pdftex/pdflatex.fmt" 1541094061 2657030 536b4829d6f8811bfe975aed64f8c11b ""
   "c:/texlive/2018/texmf.cnf" 1541093950 673 4ae7b2f49cee444c5343a45b5d0f169c ""
+  "images/fsm-ai.jpg" 1541745177 186288 9908d3e43dea8f96ba9796ffc3101848 ""
   "images/gameflowsummary.jpg" 1541720114 144101 8ea06ed03c44842428e484c82291de85 ""
   "images/lookandfeel.jpg" 1541720569 103397 2f698200c4109c47ad46fa7f783bec60 ""
   (generated)
-  "GameDesignDocument.log"
+  "GameDesignDocument.pdf"
   "GameDesignDocument.aux"
   "GameDesignDocument.toc"
-  "GameDesignDocument.pdf"
+  "GameDesignDocument.log"
