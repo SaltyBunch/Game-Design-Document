@@ -4,6 +4,8 @@
 
 \usepackage{amsmath}
 \usepackage{graphicx}
+\usepackage{float}
+\usepackage{subcaption}
 
 \usepackage[letterpaper,includeheadfoot,margin=2.54cm]{geometry}
 
@@ -619,10 +621,111 @@ The player will encounter various challenges. The drones will attempt to stun th
 
 \chapter{User Interface}
 
+\section{UI Layout}
+
+As seen in Figure \ref{fig:uilayout}, the UI elements will appear on the corner of each respective player's screen. The elements shown in the UI are going to be:
+
+\begin{itemize}
+\item \textbf{Player Health}: Health is represented using the red bars
+\item \textbf{Gold Score}: Score is represented above the health using numbers
+\item \textbf{Character Profile}: A picture of the selected character
+\item \textbf{Active Item}: An icon of the selected weapon/trap 
+    \begin{itemize}
+        \item This will disappear if player doesn’t switch/use weapons/traps for 10 secs
+    \end{itemize}
+\end{itemize}
+
+\begin{figure}[H]
+	\includegraphics[width=\linewidth]{images/uiLayout.jpg}
+    \caption{UI Layout}
+    \label{fig:uilayout}
+\end{figure}
 %%HERE
 
-\section{Visual System}
-\section{Control System}
+\section{Menus}
+
+The only in-game menu available is the pause menu. It will include 2 buttons:
+
+\begin{itemize}
+    \item \textbf{Resume Game}: Exits pause screen and continues game.
+    \item \textbf{Exit Game}: Exits game
+    \begin{itemize}
+        \item If a player exits a game, their controller will be disconnected. If controller is connected again, player can jump back in where they last stopped 
+    \end{itemize}
+\end{itemize}
+
+Gameplay will only pause if two or more players bring up the pause menu
+
+
+\section{Camera}
+
+%%TODO: Add this
+
+\section{Control Scheme}
+
+Players could use either Keyboard/Mouse or a controller to play Heist.
+
+\begin{figure}[H]
+	\includegraphics[width=\linewidth]{images/keyboardlayout.jpg}
+    \caption{Keyboard Control Layout}
+\end{figure}
+
+\begin{figure}[H]
+	\includegraphics[width=\linewidth]{images/controllerlayout.jpg}
+    \caption{Controller Control Layout}
+\end{figure}
+
+\section{Audio}
+
+\begin{itemize}
+    \item Audio prompts will aid the players comprehension on when key events are happening in game
+\end{itemize}
+
+\section{Music}
+
+\begin{itemize}
+    \item Three general themes will be present, and be active once a certain stage in the game has passed:
+    \begin{itemize}
+        \item Infiltration Phase
+        \item Scavenging Phase
+        \item Lockdown Phase
+    \end{itemize}
+    \item Additionally, different “jingles” will play depending on the outcome of the match for the player:
+    \begin{itemize}
+        \item Victory Jingle
+        \item Defeat Jingle
+    \end{itemize}
+\end{itemize}
+
+\section{Sound Effects}
+
+\begin{itemize}
+    \item Sound effects will play depending on the situation:
+    \begin{itemize}
+        \item Picking up an object
+        \item Placing a trap
+        \item Succeed/fail a quicktime event
+        \item Taking damage
+        \item Opening a door
+        \item Collecting/dropping gold
+        \item Attacking with weapons
+        \item Drones
+        \item Activating a trap
+        \item Lockdown Siren
+    \end{itemize}
+\end{itemize}
+
+\section{Help System}
+
+\begin{itemize}
+    \item Button prompts will appear when player is:
+    \begin{itemize}
+        \item Close to a pickup
+        \item Close to an unlockable door
+        \item Close to a gold pile in the vault
+    \end{itemize}
+    \item Controls will be shown in the beginning of each match after the cutscene.
+\end{itemize}
 
 \chapter{Artificial Intelligence}
 \section{Enemy AI}
@@ -671,7 +774,79 @@ Target hardware is as follows:
     \hline
 \end{tabular}
 
+\section{Game Engine}
+
+The game engine will be Unity 2018.4 LTS once it has been released. Pre-production work will be done in the most up to date version of Unity.
+
+\section{Scripting Language}
+
+All scripts are written in C\# following the guidelines that are outlined on Microsoft C\# Coding Conventions
+
 \chapter{Game Art}
+
+\section{Concept Art}
+
+\begin{figure}[H]
+	\includegraphics[width=\linewidth]{images/bankconcept.jpg}
+    \caption{Early layout showing perspective}
+\end{figure}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=.4\linewidth]{images/floortile.jpg}
+    \includegraphics[width=.4\linewidth]{images/painting.jpg}
+    \caption{Assets for Bank interior}
+\end{figure}
+
+\begin{figure}[H]
+	\includegraphics[width=\linewidth]{images/options.jpg}
+    \caption{Logo concepts}
+\end{figure}
+
+\begin{figure}[H]
+	\includegraphics[width=\linewidth]{images/menu.jpg}
+    \caption{Main Menu}
+\end{figure}
+
+\begin{figure}[H]
+	\includegraphics[width=\linewidth]{images/ingameui.jpg}
+    \caption{Early UI Concept}
+\end{figure}
+
+\begin{figure}[H]
+	\includegraphics[width=\linewidth]{images/ingameuifinal.jpg}
+    \caption{In-game UI}
+\end{figure}
+
+\begin{figure}[H]
+    \centering
+	\includegraphics[width=.4\linewidth]{images/kingui_sarah.jpg}
+	\includegraphics[width=.4\linewidth]{images/shadowui_sarah.jpg}
+	\includegraphics[width=.4\linewidth]{images/jailbirdui_sarah.jpg}
+	\includegraphics[width=.4\linewidth]{images/raccoonui_sarah.jpg}
+    \caption{Early Character UI}
+\end{figure}
+
+\begin{figure}[H]
+    \centering
+    \begin{subfigure}[b]{0.4\linewidth}
+        \includegraphics[width=\linewidth]{images/lasertripwire.jpg}
+        \caption{Lethal Laser}
+    \end{subfigure}
+    \begin{subfigure}[b]{0.4\linewidth}
+        \includegraphics[width=\linewidth]{images/electricfield.jpg}
+        \caption{Electric Field}
+    \end{subfigure}
+    \begin{subfigure}[b]{\linewidth}
+        \centering
+        \includegraphics[width=0.4\linewidth]{images/pixil.jpg}
+        \includegraphics[width=0.4\linewidth]{images/camera.jpg}
+        \caption{Camera Sensor Early Concept}
+    \end{subfigure}
+    \caption{Concept of Hazards}
+\end{figure}
+
+
 
 \chapter{Appendices}
 
