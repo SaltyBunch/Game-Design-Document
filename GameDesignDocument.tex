@@ -7,9 +7,17 @@
 \usepackage{float}
 \usepackage{subcaption}
 
+\usepackage{fancyhdr}
+
 \usepackage[letterpaper,margin=2.54cm]{geometry}
 
-\pagestyle{headings}
+\pagestyle{fancy}
+\lhead{\leftmark}
+\rhead{\thepage}
+\lfoot{\includegraphics[height=35pt]{images/salty_bunch_logo.png}}
+\cfoot{Salty Bunch Co.}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0.4pt}
 
 
 \title{\includegraphics[width=.6\linewidth]{images/logo.jpg}}
