@@ -6,6 +6,7 @@
 \usepackage{graphicx}
 \usepackage{float}
 \usepackage{subcaption}
+\usepackage{datetime}
 
 \usepackage{fancyhdr}
 
@@ -15,7 +16,7 @@
 \lhead{\leftmark}
 \rhead{\thepage}
 \lfoot{\includegraphics[height=35pt]{images/salty_bunch_logo.png}}
-\cfoot{Salty Bunch Co.}
+\cfoot{The Salty Bunch Co. \copyright{} \emph{\the\year{}}}
 \renewcommand{\headrulewidth}{0pt}
 \renewcommand{\footrulewidth}{0pt}
 
@@ -441,7 +442,7 @@ Game Progression split into 3 parts
 \subsection{Physics}
 \subsection{Movement}
 
-The player can move in all directions along the xz plane, and can also use a dash.
+The player can move in all directions along the xz plane, and can also use a dash. Their movement speed is affected by the character they have chosen. The dash moves the player in the direction they are facing.
 
 \subsection{Scoring System}
 \begin{itemize}
@@ -872,32 +873,6 @@ Uses the default Unity Navmesh Agent, setting the focused player’s as the Dron
 	\caption{Drone FSM}
 \end{figure}
 
-\chapter{Technical}
-
-\section{Target Hardware}
-
-Target hardware is as follows:
-
-\begin{center}
-    \begin{tabular}{|l|l|l|}
-        \hline
-        & Minimum & Recommended \\ \hline
-        CPU & Pentium G4500 or Equivalent & Core i3-8500 or Equivalent \\ \hline
-        GPU & AMD 7750 or Equivalent & AMD 260X or Equivalent \\ \hline
-        RAM & 2 GB & 4 GB \\ \hline
-        OS & Windows & Windows \\
-        \hline
-    \end{tabular}
-\end{center}
-
-\section{Game Engine}
-
-The game engine will be Unity 2018.4 LTS once it has been released. Pre-production work will be done in the most up to date version of Unity.
-
-\section{Scripting Language}
-
-All scripts are written in C\# following the guidelines that are outlined on Microsoft C\# Coding Conventions
-
 \chapter{Game Art}
 
 \section{Concept Art}
@@ -985,7 +960,8 @@ All scripts are written in C\# following the guidelines that are outlined on Mic
 \section{Characters}
 
 \begin{figure}[H]
-	\includegraphics[width=\linewidth]{images/charactes.jpg}
+    \centering
+	\includegraphics[width=.7\linewidth]{images/charactes.jpg}
     \caption{Heist Characters}
 \end{figure}
 
@@ -1011,6 +987,33 @@ All scripts are written in C\# following the guidelines that are outlined on Mic
 	\includegraphics[width=.8\linewidth]{images/insidebank.jpg}
     \caption{Heist Portraits}
 \end{figure}
+
+
+\chapter{Technical}
+
+\section{Target Hardware}
+
+Target hardware is as follows:
+
+\begin{center}
+    \begin{tabular}{|l|l|l|}
+        \hline
+        & Minimum & Recommended \\ \hline
+        CPU & Pentium G4500 or Equivalent & Core i3-8500 or Equivalent \\ \hline
+        GPU & AMD 7750 or Equivalent & AMD 260X or Equivalent \\ \hline
+        RAM & 2 GB & 4 GB \\ \hline
+        OS & Windows & Windows \\
+        \hline
+    \end{tabular}
+\end{center}
+
+\section{Game Engine}
+
+The game engine will be Unity 2018.4 LTS once it has been released. Pre-production work will be done in the most up to date version of Unity.
+
+\section{Scripting Language}
+
+All scripts are written in C\# following the guidelines that are outlined on Microsoft C\# Coding Conventions
 
 
 \chapter{Appendices}

@@ -108,14 +108,14 @@
 \contentsline {section}{\numberline {7.1}Enemy AI}{38}
 \contentsline {section}{\numberline {7.2}Pathfinding}{38}
 \contentsline {section}{\numberline {7.3}Drone Finite State Machine}{38}
-\contentsline {chapter}{\numberline {8}Technical}{40}
-\contentsline {section}{\numberline {8.1}Target Hardware}{40}
-\contentsline {section}{\numberline {8.2}Game Engine}{40}
-\contentsline {section}{\numberline {8.3}Scripting Language}{40}
-\contentsline {chapter}{\numberline {9}Game Art}{41}
-\contentsline {section}{\numberline {9.1}Concept Art}{41}
-\contentsline {section}{\numberline {9.2}Characters}{48}
-\contentsline {section}{\numberline {9.3}Environments}{50}
+\contentsline {chapter}{\numberline {8}Game Art}{40}
+\contentsline {section}{\numberline {8.1}Concept Art}{40}
+\contentsline {section}{\numberline {8.2}Characters}{47}
+\contentsline {section}{\numberline {8.3}Environments}{49}
+\contentsline {chapter}{\numberline {9}Technical}{50}
+\contentsline {section}{\numberline {9.1}Target Hardware}{50}
+\contentsline {section}{\numberline {9.2}Game Engine}{50}
+\contentsline {section}{\numberline {9.3}Scripting Language}{50}
 \contentsline {chapter}{\numberline {10}Appendices}{51}
 \contentsline {section}{\numberline {10.1}Asset List}{51}
 \contentsline {subsection}{\numberline {10.1.1}Art}{51}

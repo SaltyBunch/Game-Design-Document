@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2018.9.5)  10 NOV 2018 21:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2018.9.5)  13 NOV 2018 14:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -138,6 +138,63 @@ Package caption Info: float package is loaded.
 )
 \c@subfigure=\count105
 \c@subtable=\count106
+) (c:/texlive/2018/texmf-dist/tex/latex/datetime/datetime.sty
+Package: datetime 2015/03/20 v2.60 Date Time Package
+ (c:/texlive/2018/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2018/08/19 v2.5f e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count107
+) (c:/texlive/2018/texmf-dist/tex/latex/fmtcount/fmtcount.sty
+Package: fmtcount 2017/12/24 v3.05
+ (c:/texlive/2018/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+) (c:/texlive/2018/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+ (c:/texlive/2018/texmf-dist/tex/generic/xkeyval/xkeyval.tex (c:/texlive/2018/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks22
+\XKV@tempa@toks=\toks23
+)
+\XKV@depth=\count108
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)) (c:/texlive/2018/texmf-dist/tex/latex/fmtcount/fcprefix.sty
+Package: fcprefix 2012/09/28
+ (c:/texlive/2018/texmf-dist/tex/latex/fmtcount/fcnumparser.sty
+Package: fcnumparser 2017/06/15
+\fc@digit@counter=\count109
+))
+\c@padzeroesN=\count110
+\fc@tmpcatcode=\count111
+ (c:/texlive/2018/texmf-dist/tex/latex/fmtcount/fc-english.def
+File: fc-english.def 2016/01/12
+)
+\@DT@modctr=\count112
+\@ordinalctr=\count113
+\@orgargctr=\count114
+\@strctr=\count115
+\@tmpstrctr=\count116
+\@DT@loopN=\count117
+\@DT@X=\count118
+) (c:/texlive/2018/texmf-dist/tex/latex/datetime/datetime-defaults.sty
+Package: datetime-defaults 2013/09/10
+)
+\@day=\count119
+\@month=\count120
+\@year=\count121
+\c@HOUR=\count122
+\c@HOURXII=\count123
+\c@MINUTE=\count124
+\c@TOHOUR=\count125
+\c@TOMINUTE=\count126
+\c@SECOND=\count127
+\currenthour=\count128
+\currentminute=\count129
+\currentsecond=\count130
+Package datetime Info: No datetime.cfg file found, using default settings on input line 308.
+\@dtctr=\count131
+\dayofyear=\count132
+\dayofweek=\count133
+LaTeX Info: Redefining \today on input line 736.
+\dt@a=\toks24
+\dt@b=\toks25
 ) (c:/texlive/2018/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footers
 \f@nch@headwidth=\skip46
@@ -159,9 +216,9 @@ Package ifvtex Info: VTeX not detected.
 ) (c:/texlive/2018/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-\Gm@cnth=\count107
-\Gm@cntv=\count108
-\c@Gm@tempcnt=\count109
+\Gm@cnth=\count134
+\Gm@cntv=\count135
+\c@Gm@tempcnt=\count136
 \Gm@bindingoffset=\dimen122
 \Gm@wd@mp=\dimen123
 \Gm@odd@mp=\dimen124
@@ -170,35 +227,35 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutheight=\dimen127
 \Gm@layouthoffset=\dimen128
 \Gm@layoutvoffset=\dimen129
-\Gm@dimlist=\toks22
+\Gm@dimlist=\toks26
 ) (./GameDesignDocument.aux)
 \openout1 = `GameDesignDocument.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
  (c:/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count110
+\scratchcounter=\count137
 \scratchdimen=\dimen130
 \scratchbox=\box30
-\nofMPsegments=\count111
-\nofMParguments=\count112
-\everyMPshowfont=\toks23
-\MPscratchCnt=\count113
+\nofMPsegments=\count138
+\nofMParguments=\count139
+\everyMPshowfont=\toks27
+\MPscratchCnt=\count140
 \MPscratchDim=\dimen131
-\MPnumerator=\count114
-\makeMPintoPDFobject=\count115
-\everyMPtoPDFconversion=\toks24
+\MPnumerator=\count141
+\makeMPintoPDFobject=\count142
+\everyMPtoPDFconversion=\toks28
 ) (c:/texlive/2018/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
  (c:/texlive/2018/texmf-dist/tex/generic/oberdiek/infwarerr.sty
@@ -277,7 +334,7 @@ Package caption Info: End \AtBeginDocument code.
 <images/logo.jpg, id=1, 1003.75pt x 1003.75pt>
 File: images/logo.jpg Graphic file (type jpg)
 <use images/logo.jpg>
-Package pdftex.def Info: images/logo.jpg  used on input line 29.
+Package pdftex.def Info: images/logo.jpg  used on input line 30.
 (pdftex.def)             Requested size: 281.8561pt x 281.85983pt.
 [1
 
@@ -288,11 +345,18 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-<images/salty_bunch_logo.png, id=10, 612.2875pt x 612.2875pt>
+<images/salty_bunch_logo.png, id=11, 612.2875pt x 612.2875pt>
 File: images/salty_bunch_logo.png Graphic file (type png)
 <use images/salty_bunch_logo.png>
 Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 42.
 (pdftex.def)             Requested size: 34.99791pt x 35.0pt.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 42.
+(c:/texlive/2018/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 42.
+
 
 Package Fancyhdr Warning: \footskip is too small (30.0pt): 
  Make it at least 35.0pt.
@@ -312,188 +376,182 @@ Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 91.
 
 File: images/salty_bunch_logo.png Graphic file (type png)
 <use images/salty_bunch_logo.png>
-Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 32.
+Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 33.
 (pdftex.def)             Requested size: 34.99791pt x 35.0pt.
  [3]
 Chapter 1.
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 37.
-(c:/texlive/2018/texmf-dist/tex/latex/base/omscmr.fd
-File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 37.
-<images/cinquebank.jpg, id=24, 1927.2pt x 1084.05pt>
+<images/cinquebank.jpg, id=27, 1927.2pt x 1084.05pt>
 File: images/cinquebank.jpg Graphic file (type jpg)
 <use images/cinquebank.jpg>
-Package pdftex.def Info: images/cinquebank.jpg  used on input line 51.
+Package pdftex.def Info: images/cinquebank.jpg  used on input line 52.
 (pdftex.def)             Requested size: 469.75539pt x 264.22992pt.
 File: images/salty_bunch_logo.png Graphic file (type png)
 <use images/salty_bunch_logo.png>
-Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 54.
+Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 55.
 (pdftex.def)             Requested size: 34.99791pt x 35.0pt.
- [4
+[4
 
 ]
-<images/gameflowsummary.jpg, id=29, 1204.5pt x 903.375pt>
+<images/gameflowsummary.jpg, id=31, 1204.5pt x 903.375pt>
 File: images/gameflowsummary.jpg Graphic file (type jpg)
 <use images/gameflowsummary.jpg>
-Package pdftex.def Info: images/gameflowsummary.jpg  used on input line 82.
+Package pdftex.def Info: images/gameflowsummary.jpg  used on input line 83.
 (pdftex.def)             Requested size: 469.75539pt x 352.31483pt.
 File: images/salty_bunch_logo.png Graphic file (type png)
 <use images/salty_bunch_logo.png>
-Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 85.
+Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 86.
 (pdftex.def)             Requested size: 34.99791pt x 35.0pt.
  [5 <./images/cinquebank.jpg>]
-<images/lookandfeel.jpg, id=33, 515.9275pt x 290.58563pt>
+<images/lookandfeel.jpg, id=35, 515.9275pt x 290.58563pt>
 File: images/lookandfeel.jpg Graphic file (type jpg)
 <use images/lookandfeel.jpg>
-Package pdftex.def Info: images/lookandfeel.jpg  used on input line 91.
+Package pdftex.def Info: images/lookandfeel.jpg  used on input line 92.
 (pdftex.def)             Requested size: 469.75539pt x 264.58852pt.
 File: images/salty_bunch_logo.png Graphic file (type png)
 <use images/salty_bunch_logo.png>
-Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 94.
+Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 95.
 (pdftex.def)             Requested size: 34.99791pt x 35.0pt.
  [6 <./images/gameflowsummary.jpg>]
 File: images/salty_bunch_logo.png Graphic file (type png)
 <use images/salty_bunch_logo.png>
-Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 95.
+Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 96.
 (pdftex.def)             Requested size: 34.99791pt x 35.0pt.
  [7 <./images/lookandfeel.jpg>]
 Chapter 2.
 File: images/salty_bunch_logo.png Graphic file (type png)
 <use images/salty_bunch_logo.png>
-Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 117.
+Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 118.
 (pdftex.def)             Requested size: 34.99791pt x 35.0pt.
 [8
 
 ]
 File: images/salty_bunch_logo.png Graphic file (type png)
 <use images/salty_bunch_logo.png>
-Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 145.
+Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 146.
 (pdftex.def)             Requested size: 34.99791pt x 35.0pt.
  [9]
 Chapter 3.
-<images/TheBig.jpg, id=47, 361.35pt x 505.89pt>
+<images/TheBig.jpg, id=49, 361.35pt x 505.89pt>
 File: images/TheBig.jpg Graphic file (type jpg)
 <use images/TheBig.jpg>
-Package pdftex.def Info: images/TheBig.jpg  used on input line 151.
+Package pdftex.def Info: images/TheBig.jpg  used on input line 152.
 (pdftex.def)             Requested size: 234.87769pt x 328.8323pt.
 File: images/salty_bunch_logo.png Graphic file (type png)
 <use images/salty_bunch_logo.png>
-Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 158.
+Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 159.
 (pdftex.def)             Requested size: 34.99791pt x 35.0pt.
 [10
 
  <./images/TheBig.jpg (PNG copy)>]
-Overfull \hbox (2.40314pt too wide) in paragraph at lines 165--166
+Overfull \hbox (2.40314pt too wide) in paragraph at lines 166--167
 \OT1/cmr/m/n/10.95 sleeves (top color vari-a-tions for how many play-ers choose King) dark bot-toms and heavy boots/shoes. 
  []
 
-<images/kingui_sarah.jpg, id=51, 796.9775pt x 233.87375pt>
+<images/kingui_sarah.jpg, id=53, 796.9775pt x 233.87375pt>
 File: images/kingui_sarah.jpg Graphic file (type jpg)
 <use images/kingui_sarah.jpg>
-Package pdftex.def Info: images/kingui_sarah.jpg  used on input line 185.
+Package pdftex.def Info: images/kingui_sarah.jpg  used on input line 186.
 (pdftex.def)             Requested size: 234.87769pt x 68.92435pt.
-<images/TheJailbird.jpg, id=52, 361.35pt x 505.89pt>
+<images/TheJailbird.jpg, id=54, 361.35pt x 505.89pt>
 File: images/TheJailbird.jpg Graphic file (type jpg)
 <use images/TheJailbird.jpg>
-Package pdftex.def Info: images/TheJailbird.jpg  used on input line 192.
+Package pdftex.def Info: images/TheJailbird.jpg  used on input line 193.
 (pdftex.def)             Requested size: 234.87769pt x 328.8323pt.
 File: images/salty_bunch_logo.png Graphic file (type png)
 <use images/salty_bunch_logo.png>
-Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 195.
+Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 196.
 (pdftex.def)             Requested size: 34.99791pt x 35.0pt.
 [11 <./images/kingui_sarah.jpg>]
 File: images/salty_bunch_logo.png Graphic file (type png)
 <use images/salty_bunch_logo.png>
-Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 212.
+Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 213.
 (pdftex.def)             Requested size: 34.99791pt x 35.0pt.
  [12 <./images/TheJailbird.jpg (PNG copy)>]
-<images/jailbirdui_sarah.jpg, id=61, 796.9775pt x 233.87375pt>
+<images/jailbirdui_sarah.jpg, id=63, 796.9775pt x 233.87375pt>
 File: images/jailbirdui_sarah.jpg Graphic file (type jpg)
 <use images/jailbirdui_sarah.jpg>
-Package pdftex.def Info: images/jailbirdui_sarah.jpg  used on input line 226.
+Package pdftex.def Info: images/jailbirdui_sarah.jpg  used on input line 227.
 (pdftex.def)             Requested size: 234.87769pt x 68.92435pt.
-<images/TheShadow.jpg, id=62, 361.35pt x 505.89pt>
+<images/TheShadow.jpg, id=64, 361.35pt x 505.89pt>
 File: images/TheShadow.jpg Graphic file (type jpg)
 <use images/TheShadow.jpg>
-Package pdftex.def Info: images/TheShadow.jpg  used on input line 234.
+Package pdftex.def Info: images/TheShadow.jpg  used on input line 235.
 (pdftex.def)             Requested size: 234.87769pt x 328.8323pt.
 File: images/salty_bunch_logo.png Graphic file (type png)
 <use images/salty_bunch_logo.png>
-Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 237.
+Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 238.
 (pdftex.def)             Requested size: 34.99791pt x 35.0pt.
  [13 <./images/jailbirdui_sarah.jpg>]
 File: images/salty_bunch_logo.png Graphic file (type png)
 <use images/salty_bunch_logo.png>
-Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 254.
+Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 255.
 (pdftex.def)             Requested size: 34.99791pt x 35.0pt.
  [14 <./images/TheShadow.jpg (PNG copy)>]
-<images/shadowui_sarah.jpg, id=70, 797.98125pt x 233.87375pt>
+<images/shadowui_sarah.jpg, id=72, 797.98125pt x 233.87375pt>
 File: images/shadowui_sarah.jpg Graphic file (type jpg)
 <use images/shadowui_sarah.jpg>
-Package pdftex.def Info: images/shadowui_sarah.jpg  used on input line 268.
+Package pdftex.def Info: images/shadowui_sarah.jpg  used on input line 269.
 (pdftex.def)             Requested size: 234.87769pt x 68.8387pt.
-<images/TheRaccoon.jpg, id=71, 361.35pt x 505.89pt>
+<images/TheRaccoon.jpg, id=73, 361.35pt x 505.89pt>
 File: images/TheRaccoon.jpg Graphic file (type jpg)
 <use images/TheRaccoon.jpg>
-Package pdftex.def Info: images/TheRaccoon.jpg  used on input line 276.
+Package pdftex.def Info: images/TheRaccoon.jpg  used on input line 277.
 (pdftex.def)             Requested size: 234.87769pt x 328.8323pt.
 File: images/salty_bunch_logo.png Graphic file (type png)
 <use images/salty_bunch_logo.png>
-Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 279.
+Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 280.
 (pdftex.def)             Requested size: 34.99791pt x 35.0pt.
  [15 <./images/shadowui_sarah.jpg>]
 File: images/salty_bunch_logo.png Graphic file (type png)
 <use images/salty_bunch_logo.png>
-Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 296.
+Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 297.
 (pdftex.def)             Requested size: 34.99791pt x 35.0pt.
  [16 <./images/TheRaccoon.jpg (PNG copy)>]
-<images/raccoonui_sarah.jpg, id=79, 797.98125pt x 233.87375pt>
+<images/raccoonui_sarah.jpg, id=81, 797.98125pt x 233.87375pt>
 File: images/raccoonui_sarah.jpg Graphic file (type jpg)
 <use images/raccoonui_sarah.jpg>
-Package pdftex.def Info: images/raccoonui_sarah.jpg  used on input line 309.
+Package pdftex.def Info: images/raccoonui_sarah.jpg  used on input line 310.
 (pdftex.def)             Requested size: 234.87769pt x 68.8387pt.
-<images/drone_face.jpg, id=80, 136.5903pt x 70.3428pt>
-File: images/drone_face.jpg Graphic file (type jpg)
-<use images/drone_face.jpg>
-Package pdftex.def Info: images/drone_face.jpg  used on input line 317.
-(pdftex.def)             Requested size: 140.92804pt x 72.58269pt.
+<images/drone_face.jpg, id=82, 136.5903pt x 70.3428pt>
 File: images/drone_face.jpg Graphic file (type jpg)
 <use images/drone_face.jpg>
 Package pdftex.def Info: images/drone_face.jpg  used on input line 318.
 (pdftex.def)             Requested size: 140.92804pt x 72.58269pt.
+File: images/drone_face.jpg Graphic file (type jpg)
+<use images/drone_face.jpg>
+Package pdftex.def Info: images/drone_face.jpg  used on input line 319.
+(pdftex.def)             Requested size: 140.92804pt x 72.58269pt.
 File: images/salty_bunch_logo.png Graphic file (type png)
 <use images/salty_bunch_logo.png>
-Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 331.
+Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 332.
 (pdftex.def)             Requested size: 34.99791pt x 35.0pt.
  [17 <./images/raccoonui_sarah.jpg> <./images/drone_face.jpg>]
 Chapter 4.
-<images/progPic.jpg, id=86, 1204.5pt x 903.375pt>
+<images/progPic.jpg, id=88, 1204.5pt x 903.375pt>
 File: images/progPic.jpg Graphic file (type jpg)
 <use images/progPic.jpg>
-Package pdftex.def Info: images/progPic.jpg  used on input line 362.
+Package pdftex.def Info: images/progPic.jpg  used on input line 363.
 (pdftex.def)             Requested size: 469.75539pt x 352.31483pt.
 File: images/salty_bunch_logo.png Graphic file (type png)
 <use images/salty_bunch_logo.png>
-Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 365.
+Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 366.
 (pdftex.def)             Requested size: 34.99791pt x 35.0pt.
 [18
 
 ]
-<images/insidebank.jpg, id=91, 1927.2pt x 1084.05pt>
+<images/insidebank.jpg, id=93, 1927.2pt x 1084.05pt>
 File: images/insidebank.jpg Graphic file (type jpg)
 <use images/insidebank.jpg>
-Package pdftex.def Info: images/insidebank.jpg  used on input line 375.
+Package pdftex.def Info: images/insidebank.jpg  used on input line 376.
 (pdftex.def)             Requested size: 469.75539pt x 264.22992pt.
 File: images/salty_bunch_logo.png Graphic file (type png)
 <use images/salty_bunch_logo.png>
-Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 378.
+Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 379.
 (pdftex.def)             Requested size: 34.99791pt x 35.0pt.
  [19 <./images/progPic.jpg>]
 File: images/salty_bunch_logo.png Graphic file (type png)
 <use images/salty_bunch_logo.png>
-Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 403.
+Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 404.
 (pdftex.def)             Requested size: 34.99791pt x 35.0pt.
  [20 <./images/insidebank.jpg>]
 File: images/salty_bunch_logo.png Graphic file (type png)
@@ -503,440 +561,438 @@ Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 450.
  [21]
 File: images/salty_bunch_logo.png Graphic file (type png)
 <use images/salty_bunch_logo.png>
-Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 496.
+Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 497.
 (pdftex.def)             Requested size: 34.99791pt x 35.0pt.
  [22]
-<images/zappy_gun.jpg, id=104, 225.35806pt x 194.2742pt>
+<images/zappy_gun.jpg, id=106, 225.35806pt x 194.2742pt>
 File: images/zappy_gun.jpg Graphic file (type jpg)
 <use images/zappy_gun.jpg>
-Package pdftex.def Info: images/zappy_gun.jpg  used on input line 519.
+Package pdftex.def Info: images/zappy_gun.jpg  used on input line 520.
 (pdftex.def)             Requested size: 93.94963pt x 80.99283pt.
-<images/zappy_stick.jpg, id=105, 202.04517pt x 205.93065pt>
+<images/zappy_stick.jpg, id=107, 202.04517pt x 205.93065pt>
 File: images/zappy_stick.jpg Graphic file (type jpg)
 <use images/zappy_stick.jpg>
-Package pdftex.def Info: images/zappy_stick.jpg  used on input line 536.
+Package pdftex.def Info: images/zappy_stick.jpg  used on input line 537.
 (pdftex.def)             Requested size: 93.94963pt x 95.75674pt.
 File: images/salty_bunch_logo.png Graphic file (type png)
 <use images/salty_bunch_logo.png>
-Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 545.
+Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 546.
 (pdftex.def)             Requested size: 34.99791pt x 35.0pt.
  [23 <./images/zappy_gun.jpg> <./images/zappy_stick.jpg>]
-<images/screenFlow.jpg, id=110, 1204.5pt x 903.375pt>
+<images/screenFlow.jpg, id=111, 1204.5pt x 903.375pt>
 File: images/screenFlow.jpg Graphic file (type jpg)
 <use images/screenFlow.jpg>
-Package pdftex.def Info: images/screenFlow.jpg  used on input line 603.
+Package pdftex.def Info: images/screenFlow.jpg  used on input line 604.
 (pdftex.def)             Requested size: 469.75539pt x 352.31483pt.
 File: images/salty_bunch_logo.png Graphic file (type png)
 <use images/salty_bunch_logo.png>
-Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 606.
+Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 607.
 (pdftex.def)             Requested size: 34.99791pt x 35.0pt.
  [24]
-<images/menu.jpg, id=115, 1927.2pt x 1084.05pt>
+<images/menu.jpg, id=116, 1927.2pt x 1084.05pt>
 File: images/menu.jpg Graphic file (type jpg)
 <use images/menu.jpg>
-Package pdftex.def Info: images/menu.jpg  used on input line 613.
+Package pdftex.def Info: images/menu.jpg  used on input line 614.
 (pdftex.def)             Requested size: 469.75539pt x 264.22992pt.
 File: images/salty_bunch_logo.png Graphic file (type png)
 <use images/salty_bunch_logo.png>
-Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 616.
+Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 617.
 (pdftex.def)             Requested size: 34.99791pt x 35.0pt.
  [25 <./images/screenFlow.jpg>]
 File: images/salty_bunch_logo.png Graphic file (type png)
 <use images/salty_bunch_logo.png>
-Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 639.
+Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 640.
 (pdftex.def)             Requested size: 34.99791pt x 35.0pt.
  [26 <./images/menu.jpg>]
 Chapter 5.
-<images/Ground.png, id=122, 1109.5854pt x 768.2301pt>
+<images/Ground.png, id=123, 1109.5854pt x 768.2301pt>
 File: images/Ground.png Graphic file (type png)
 <use images/Ground.png>
-Package pdftex.def Info: images/Ground.png  used on input line 655.
+Package pdftex.def Info: images/Ground.png  used on input line 656.
 (pdftex.def)             Requested size: 375.80574pt x 260.18666pt.
 File: images/salty_bunch_logo.png Graphic file (type png)
 <use images/salty_bunch_logo.png>
-Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 658.
+Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 659.
 (pdftex.def)             Requested size: 34.99791pt x 35.0pt.
 [27
 
 ]
-<images/Legend.png, id=126, 455.301pt x 341.3553pt>
+<images/Legend.png, id=127, 455.301pt x 341.3553pt>
 File: images/Legend.png Graphic file (type png)
 <use images/Legend.png>
-Package pdftex.def Info: images/Legend.png  used on input line 661.
+Package pdftex.def Info: images/Legend.png  used on input line 662.
 (pdftex.def)             Requested size: 234.87769pt x 176.09422pt.
 File: images/salty_bunch_logo.png Graphic file (type png)
 <use images/salty_bunch_logo.png>
-Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 672.
+Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 673.
 (pdftex.def)             Requested size: 34.99791pt x 35.0pt.
  [28 <./images/Ground.png> <./images/Legend.png>]
-<images/GroundPathing.png, id=130, 1109.5854pt x 768.2301pt>
+<images/GroundPathing.png, id=131, 1109.5854pt x 768.2301pt>
 File: images/GroundPathing.png Graphic file (type png)
 <use images/GroundPathing.png>
-Package pdftex.def Info: images/GroundPathing.png  used on input line 675.
+Package pdftex.def Info: images/GroundPathing.png  used on input line 676.
 (pdftex.def)             Requested size: 375.80574pt x 260.18666pt.
-<images/GroundDrone.png, id=131, 1109.5854pt x 768.2301pt>
+<images/GroundDrone.png, id=132, 1109.5854pt x 768.2301pt>
 File: images/GroundDrone.png Graphic file (type png)
 <use images/GroundDrone.png>
-Package pdftex.def Info: images/GroundDrone.png  used on input line 685.
+Package pdftex.def Info: images/GroundDrone.png  used on input line 686.
 (pdftex.def)             Requested size: 375.80574pt x 260.18666pt.
 File: images/salty_bunch_logo.png Graphic file (type png)
 <use images/salty_bunch_logo.png>
-Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 688.
+Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 689.
 (pdftex.def)             Requested size: 34.99791pt x 35.0pt.
  [29 <./images/GroundPathing.png>]
-<images/Basement.png, id=135, 1109.5854pt x 768.2301pt>
+<images/Basement.png, id=136, 1109.5854pt x 768.2301pt>
 File: images/Basement.png Graphic file (type png)
 <use images/Basement.png>
-Package pdftex.def Info: images/Basement.png  used on input line 707.
+Package pdftex.def Info: images/Basement.png  used on input line 708.
 (pdftex.def)             Requested size: 375.80574pt x 260.18666pt.
 File: images/salty_bunch_logo.png Graphic file (type png)
 <use images/salty_bunch_logo.png>
-Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 710.
+Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 711.
 (pdftex.def)             Requested size: 34.99791pt x 35.0pt.
  [30 <./images/GroundDrone.png>]
-<images/BasementPathing.png, id=140, 1109.5854pt x 768.2301pt>
+<images/BasementPathing.png, id=141, 1109.5854pt x 768.2301pt>
 File: images/BasementPathing.png Graphic file (type png)
 <use images/BasementPathing.png>
-Package pdftex.def Info: images/BasementPathing.png  used on input line 722.
+Package pdftex.def Info: images/BasementPathing.png  used on input line 723.
 (pdftex.def)             Requested size: 375.80574pt x 260.18666pt.
 File: images/salty_bunch_logo.png Graphic file (type png)
 <use images/salty_bunch_logo.png>
-Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 725.
+Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 726.
 (pdftex.def)             Requested size: 34.99791pt x 35.0pt.
  [31 <./images/Basement.png>]
-<images/BasementDrone.png, id=144, 1109.5854pt x 768.2301pt>
+<images/BasementDrone.png, id=145, 1109.5854pt x 768.2301pt>
 File: images/BasementDrone.png Graphic file (type png)
 <use images/BasementDrone.png>
-Package pdftex.def Info: images/BasementDrone.png  used on input line 733.
+Package pdftex.def Info: images/BasementDrone.png  used on input line 734.
 (pdftex.def)             Requested size: 375.80574pt x 260.18666pt.
-File: images/salty_bunch_logo.png Graphic file (type png)
-<use images/salty_bunch_logo.png>
-Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 736.
-(pdftex.def)             Requested size: 34.99791pt x 35.0pt.
- [32 <./images/BasementPathing.png>]
 File: images/salty_bunch_logo.png Graphic file (type png)
 <use images/salty_bunch_logo.png>
 Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 737.
 (pdftex.def)             Requested size: 34.99791pt x 35.0pt.
+ [32 <./images/BasementPathing.png>]
+File: images/salty_bunch_logo.png Graphic file (type png)
+<use images/salty_bunch_logo.png>
+Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 738.
+(pdftex.def)             Requested size: 34.99791pt x 35.0pt.
  [33 <./images/BasementDrone.png>]
 Chapter 6.
-<images/uiLayout.jpg, id=151, 3854.4pt x 2168.1pt>
+<images/uiLayout.jpg, id=152, 3854.4pt x 2168.1pt>
 File: images/uiLayout.jpg Graphic file (type jpg)
 <use images/uiLayout.jpg>
-Package pdftex.def Info: images/uiLayout.jpg  used on input line 754.
+Package pdftex.def Info: images/uiLayout.jpg  used on input line 755.
 (pdftex.def)             Requested size: 469.75539pt x 264.22992pt.
 File: images/salty_bunch_logo.png Graphic file (type png)
 <use images/salty_bunch_logo.png>
-Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 764.
+Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 765.
 (pdftex.def)             Requested size: 34.99791pt x 35.0pt.
 [34
 
  <./images/uiLayout.jpg>]
-<images/keyboardlayout.jpg, id=155, 1927.2pt x 1084.05pt>
+<images/keyboardlayout.jpg, id=156, 1927.2pt x 1084.05pt>
 File: images/keyboardlayout.jpg Graphic file (type jpg)
 <use images/keyboardlayout.jpg>
-Package pdftex.def Info: images/keyboardlayout.jpg  used on input line 783.
+Package pdftex.def Info: images/keyboardlayout.jpg  used on input line 784.
 (pdftex.def)             Requested size: 469.75539pt x 264.22992pt.
-<images/controllerlayout.jpg, id=156, 1027.84pt x 770.88pt>
+<images/controllerlayout.jpg, id=157, 1027.84pt x 770.88pt>
 File: images/controllerlayout.jpg Graphic file (type jpg)
 <use images/controllerlayout.jpg>
-Package pdftex.def Info: images/controllerlayout.jpg  used on input line 788.
+Package pdftex.def Info: images/controllerlayout.jpg  used on input line 789.
 (pdftex.def)             Requested size: 469.75539pt x 352.31538pt.
 File: images/salty_bunch_logo.png Graphic file (type png)
 <use images/salty_bunch_logo.png>
-Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 791.
+Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 792.
 (pdftex.def)             Requested size: 34.99791pt x 35.0pt.
  [35 <./images/keyboardlayout.jpg>]
 File: images/salty_bunch_logo.png Graphic file (type png)
 <use images/salty_bunch_logo.png>
-Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 819.
+Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 820.
 (pdftex.def)             Requested size: 34.99791pt x 35.0pt.
  [36 <./images/controllerlayout.jpg>]
 File: images/salty_bunch_logo.png Graphic file (type png)
 <use images/salty_bunch_logo.png>
-Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 844.
+Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 845.
 (pdftex.def)             Requested size: 34.99791pt x 35.0pt.
  [37]
 Chapter 7.
-<images/fsm-ai.jpg, id=167, 661.97313pt x 540.0175pt>
+<images/fsm-ai.jpg, id=168, 661.97313pt x 540.0175pt>
 File: images/fsm-ai.jpg Graphic file (type jpg)
 <use images/fsm-ai.jpg>
-Package pdftex.def Info: images/fsm-ai.jpg  used on input line 871.
+Package pdftex.def Info: images/fsm-ai.jpg  used on input line 872.
 (pdftex.def)             Requested size: 469.75539pt x 383.2091pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 File: images/salty_bunch_logo.png Graphic file (type png)
 <use images/salty_bunch_logo.png>
-Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 875.
+Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 876.
 (pdftex.def)             Requested size: 34.99791pt x 35.0pt.
 [38
 
 ]
 File: images/salty_bunch_logo.png Graphic file (type png)
 <use images/salty_bunch_logo.png>
-Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 875.
+Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 876.
 (pdftex.def)             Requested size: 34.99791pt x 35.0pt.
  [39 <./images/fsm-ai.jpg>]
 Chapter 8.
+<images/bankconcept.jpg, id=175, 1927.2pt x 1084.05pt>
+File: images/bankconcept.jpg Graphic file (type jpg)
+<use images/bankconcept.jpg>
+Package pdftex.def Info: images/bankconcept.jpg  used on input line 881.
+(pdftex.def)             Requested size: 469.75539pt x 264.22992pt.
+<images/floortile.jpg, id=176, 96.36pt x 96.36pt>
+File: images/floortile.jpg Graphic file (type jpg)
+<use images/floortile.jpg>
+Package pdftex.def Info: images/floortile.jpg  used on input line 887.
+(pdftex.def)             Requested size: 187.89928pt x 187.89972pt.
+<images/painting.jpg, id=177, 150.5625pt x 135.50626pt>
+File: images/painting.jpg Graphic file (type jpg)
+<use images/painting.jpg>
+Package pdftex.def Info: images/painting.jpg  used on input line 888.
+(pdftex.def)             Requested size: 187.89928pt x 169.12599pt.
+File: images/salty_bunch_logo.png Graphic file (type png)
+<use images/salty_bunch_logo.png>
+Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 891.
+(pdftex.def)             Requested size: 34.99791pt x 35.0pt.
+[40
+
+ <./images/bankconcept.jpg>]
+<images/options.jpg, id=181, 3011.25pt x 1003.75pt>
+File: images/options.jpg Graphic file (type jpg)
+<use images/options.jpg>
+Package pdftex.def Info: images/options.jpg  used on input line 893.
+(pdftex.def)             Requested size: 469.75539pt x 156.57518pt.
+File: images/menu.jpg Graphic file (type jpg)
+<use images/menu.jpg>
+Package pdftex.def Info: images/menu.jpg  used on input line 898.
+(pdftex.def)             Requested size: 469.75539pt x 264.22992pt.
 File: images/salty_bunch_logo.png Graphic file (type png)
 <use images/salty_bunch_logo.png>
 Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 901.
 (pdftex.def)             Requested size: 34.99791pt x 35.0pt.
-[40
-
-]
-Chapter 9.
-<images/bankconcept.jpg, id=177, 1927.2pt x 1084.05pt>
-File: images/bankconcept.jpg Graphic file (type jpg)
-<use images/bankconcept.jpg>
-Package pdftex.def Info: images/bankconcept.jpg  used on input line 906.
-(pdftex.def)             Requested size: 469.75539pt x 264.22992pt.
-<images/floortile.jpg, id=178, 96.36pt x 96.36pt>
-File: images/floortile.jpg Graphic file (type jpg)
-<use images/floortile.jpg>
-Package pdftex.def Info: images/floortile.jpg  used on input line 912.
-(pdftex.def)             Requested size: 187.89928pt x 187.89972pt.
-<images/painting.jpg, id=179, 150.5625pt x 135.50626pt>
-File: images/painting.jpg Graphic file (type jpg)
-<use images/painting.jpg>
-Package pdftex.def Info: images/painting.jpg  used on input line 913.
-(pdftex.def)             Requested size: 187.89928pt x 169.12599pt.
-File: images/salty_bunch_logo.png Graphic file (type png)
-<use images/salty_bunch_logo.png>
-Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 916.
-(pdftex.def)             Requested size: 34.99791pt x 35.0pt.
-[41
-
- <./images/bankconcept.jpg>]
-<images/options.jpg, id=183, 3011.25pt x 1003.75pt>
-File: images/options.jpg Graphic file (type jpg)
-<use images/options.jpg>
-Package pdftex.def Info: images/options.jpg  used on input line 918.
-(pdftex.def)             Requested size: 469.75539pt x 156.57518pt.
-File: images/menu.jpg Graphic file (type jpg)
-<use images/menu.jpg>
-Package pdftex.def Info: images/menu.jpg  used on input line 923.
-(pdftex.def)             Requested size: 469.75539pt x 264.22992pt.
-File: images/salty_bunch_logo.png Graphic file (type png)
-<use images/salty_bunch_logo.png>
-Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 926.
-(pdftex.def)             Requested size: 34.99791pt x 35.0pt.
- [42 <./images/floortile.jpg> <./images/painting.jpg> <./images/options.jpg>]
-<images/ingameui.jpg, id=189, 1927.2pt x 1084.05pt>
+ [41 <./images/floortile.jpg> <./images/painting.jpg> <./images/options.jpg>]
+<images/ingameui.jpg, id=186, 1927.2pt x 1084.05pt>
 File: images/ingameui.jpg Graphic file (type jpg)
 <use images/ingameui.jpg>
-Package pdftex.def Info: images/ingameui.jpg  used on input line 928.
+Package pdftex.def Info: images/ingameui.jpg  used on input line 903.
 (pdftex.def)             Requested size: 469.75539pt x 264.22992pt.
-<images/ingameuifinal.jpg, id=190, 3854.4pt x 2168.1pt>
+<images/ingameuifinal.jpg, id=187, 3854.4pt x 2168.1pt>
 File: images/ingameuifinal.jpg Graphic file (type jpg)
 <use images/ingameuifinal.jpg>
-Package pdftex.def Info: images/ingameuifinal.jpg  used on input line 933.
+Package pdftex.def Info: images/ingameuifinal.jpg  used on input line 908.
 (pdftex.def)             Requested size: 469.75539pt x 264.22992pt.
 File: images/salty_bunch_logo.png Graphic file (type png)
 <use images/salty_bunch_logo.png>
-Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 936.
+Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 911.
 (pdftex.def)             Requested size: 34.99791pt x 35.0pt.
- [43 <./images/ingameui.jpg>]
+ [42 <./images/ingameui.jpg>]
 File: images/kingui_sarah.jpg Graphic file (type jpg)
 <use images/kingui_sarah.jpg>
-Package pdftex.def Info: images/kingui_sarah.jpg  used on input line 939.
+Package pdftex.def Info: images/kingui_sarah.jpg  used on input line 914.
 (pdftex.def)             Requested size: 187.89928pt x 55.13876pt.
 File: images/shadowui_sarah.jpg Graphic file (type jpg)
 <use images/shadowui_sarah.jpg>
-Package pdftex.def Info: images/shadowui_sarah.jpg  used on input line 940.
+Package pdftex.def Info: images/shadowui_sarah.jpg  used on input line 915.
 (pdftex.def)             Requested size: 187.89928pt x 55.06738pt.
 File: images/jailbirdui_sarah.jpg Graphic file (type jpg)
 <use images/jailbirdui_sarah.jpg>
-Package pdftex.def Info: images/jailbirdui_sarah.jpg  used on input line 941.
+Package pdftex.def Info: images/jailbirdui_sarah.jpg  used on input line 916.
 (pdftex.def)             Requested size: 187.89928pt x 55.13876pt.
 File: images/raccoonui_sarah.jpg Graphic file (type jpg)
 <use images/raccoonui_sarah.jpg>
-Package pdftex.def Info: images/raccoonui_sarah.jpg  used on input line 942.
+Package pdftex.def Info: images/raccoonui_sarah.jpg  used on input line 917.
 (pdftex.def)             Requested size: 187.89928pt x 55.06738pt.
-<images/lasertripwire.jpg, id=194, 653.44125pt x 588.1975pt>
+<images/lasertripwire.jpg, id=192, 653.44125pt x 588.1975pt>
 File: images/lasertripwire.jpg Graphic file (type jpg)
 <use images/lasertripwire.jpg>
-Package pdftex.def Info: images/lasertripwire.jpg  used on input line 949.
+Package pdftex.def Info: images/lasertripwire.jpg  used on input line 924.
 (pdftex.def)             Requested size: 187.89928pt x 169.13687pt.
-<images/electricfield.jpg, id=195, 759.83875pt x 757.83125pt>
+<images/electricfield.jpg, id=193, 759.83875pt x 757.83125pt>
 File: images/electricfield.jpg Graphic file (type jpg)
 <use images/electricfield.jpg>
-Package pdftex.def Info: images/electricfield.jpg  used on input line 953.
+Package pdftex.def Info: images/electricfield.jpg  used on input line 928.
 (pdftex.def)             Requested size: 187.89928pt x 187.39903pt.
-<images/pixil.jpg, id=196, 127.22531pt x 121.20282pt>
+<images/pixil.jpg, id=194, 127.22531pt x 121.20282pt>
 File: images/pixil.jpg Graphic file (type jpg)
 <use images/pixil.jpg>
-Package pdftex.def Info: images/pixil.jpg  used on input line 958.
+Package pdftex.def Info: images/pixil.jpg  used on input line 933.
 (pdftex.def)             Requested size: 187.89928pt x 179.01302pt.
-<images/camera.jpg, id=197, 526.09451pt x 493.45645pt>
+<images/camera.jpg, id=195, 526.09451pt x 493.45645pt>
 File: images/camera.jpg Graphic file (type jpg)
 <use images/camera.jpg>
-Package pdftex.def Info: images/camera.jpg  used on input line 959.
+Package pdftex.def Info: images/camera.jpg  used on input line 934.
 (pdftex.def)             Requested size: 187.89928pt x 176.24368pt.
 File: images/salty_bunch_logo.png Graphic file (type png)
 <use images/salty_bunch_logo.png>
-Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 964.
+Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 939.
 (pdftex.def)             Requested size: 34.99791pt x 35.0pt.
- [44 <./images/ingameuifinal.jpg>]
-<images/electricfield1.jpg, id=201, 1272.755pt x 909.3975pt>
+ [43 <./images/ingameuifinal.jpg>]
+<images/electricfield1.jpg, id=199, 1272.755pt x 909.3975pt>
 File: images/electricfield1.jpg Graphic file (type jpg)
 <use images/electricfield1.jpg>
-Package pdftex.def Info: images/electricfield1.jpg  used on input line 966.
+Package pdftex.def Info: images/electricfield1.jpg  used on input line 941.
 (pdftex.def)             Requested size: 469.75539pt x 335.63924pt.
 File: images/salty_bunch_logo.png Graphic file (type png)
 <use images/salty_bunch_logo.png>
-Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 969.
+Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 944.
 (pdftex.def)             Requested size: 34.99791pt x 35.0pt.
- [45 <./images/lasertripwire.jpg> <./images/electricfield.jpg> <./images/pixil.jpg> <./images/camera.jpg>]
-<images/taser.jpg, id=205, 250.9375pt x 261.47687pt>
+ [44 <./images/lasertripwire.jpg> <./images/electricfield.jpg> <./images/pixil.jpg> <./images/camera.jpg>]
+<images/taser.jpg, id=203, 250.9375pt x 261.47687pt>
 File: images/taser.jpg Graphic file (type jpg)
 <use images/taser.jpg>
-Package pdftex.def Info: images/taser.jpg  used on input line 972.
+Package pdftex.def Info: images/taser.jpg  used on input line 947.
 (pdftex.def)             Requested size: 140.92804pt x 146.85295pt.
 File: images/zappy_gun.jpg Graphic file (type jpg)
 <use images/zappy_gun.jpg>
-Package pdftex.def Info: images/zappy_gun.jpg  used on input line 973.
+Package pdftex.def Info: images/zappy_gun.jpg  used on input line 948.
 (pdftex.def)             Requested size: 140.92804pt x 121.49518pt.
 File: images/zappy_stick.jpg Graphic file (type jpg)
 <use images/zappy_stick.jpg>
-Package pdftex.def Info: images/zappy_stick.jpg  used on input line 974.
+Package pdftex.def Info: images/zappy_stick.jpg  used on input line 949.
 (pdftex.def)             Requested size: 140.92804pt x 143.64769pt.
 File: images/drone_face.jpg Graphic file (type jpg)
 <use images/drone_face.jpg>
-Package pdftex.def Info: images/drone_face.jpg  used on input line 980.
+Package pdftex.def Info: images/drone_face.jpg  used on input line 955.
 (pdftex.def)             Requested size: 187.89928pt x 96.77477pt.
-<images/drone_fac2e.jpg, id=206, 135.1449pt x 70.3428pt>
+<images/drone_fac2e.jpg, id=204, 135.1449pt x 70.3428pt>
 File: images/drone_fac2e.jpg Graphic file (type jpg)
 <use images/drone_fac2e.jpg>
-Package pdftex.def Info: images/drone_fac2e.jpg  used on input line 981.
+Package pdftex.def Info: images/drone_fac2e.jpg  used on input line 956.
 (pdftex.def)             Requested size: 187.89928pt x 97.8041pt.
+File: images/salty_bunch_logo.png Graphic file (type png)
+<use images/salty_bunch_logo.png>
+Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 959.
+(pdftex.def)             Requested size: 34.99791pt x 35.0pt.
+ [45 <./images/electricfield1.jpg> <./images/taser.jpg>]
+<images/charactes.jpg, id=208, 698.61pt x 977.6525pt>
+File: images/charactes.jpg Graphic file (type jpg)
+<use images/charactes.jpg>
+Package pdftex.def Info: images/charactes.jpg  used on input line 964.
+(pdftex.def)             Requested size: 328.82733pt x 460.16805pt.
+File: images/salty_bunch_logo.png Graphic file (type png)
+<use images/salty_bunch_logo.png>
+Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 967.
+(pdftex.def)             Requested size: 34.99791pt x 35.0pt.
+ [46 <./images/drone_fac2e.jpg>]
+File: images/TheBig.jpg Graphic file (type jpg)
+<use images/TheBig.jpg>
+Package pdftex.def Info: images/TheBig.jpg  used on input line 970.
+(pdftex.def)             Requested size: 187.89928pt x 263.05658pt.
+File: images/TheShadow.jpg Graphic file (type jpg)
+<use images/TheShadow.jpg>
+Package pdftex.def Info: images/TheShadow.jpg  used on input line 971.
+(pdftex.def)             Requested size: 187.89928pt x 263.05658pt.
+File: images/TheJailbird.jpg Graphic file (type jpg)
+<use images/TheJailbird.jpg>
+Package pdftex.def Info: images/TheJailbird.jpg  used on input line 972.
+(pdftex.def)             Requested size: 187.89928pt x 263.05658pt.
+File: images/TheRaccoon.jpg Graphic file (type jpg)
+<use images/TheRaccoon.jpg>
+Package pdftex.def Info: images/TheRaccoon.jpg  used on input line 973.
+(pdftex.def)             Requested size: 187.89928pt x 263.05658pt.
+File: images/salty_bunch_logo.png Graphic file (type png)
+<use images/salty_bunch_logo.png>
+Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 976.
+(pdftex.def)             Requested size: 34.99791pt x 35.0pt.
+ [47 <./images/charactes.jpg>]
+File: images/cinquebank.jpg Graphic file (type jpg)
+<use images/cinquebank.jpg>
+Package pdftex.def Info: images/cinquebank.jpg  used on input line 981.
+(pdftex.def)             Requested size: 375.80574pt x 211.38063pt.
 File: images/salty_bunch_logo.png Graphic file (type png)
 <use images/salty_bunch_logo.png>
 Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 984.
 (pdftex.def)             Requested size: 34.99791pt x 35.0pt.
- [46 <./images/electricfield1.jpg> <./images/taser.jpg>]
-<images/charactes.jpg, id=210, 698.61pt x 977.6525pt>
-File: images/charactes.jpg Graphic file (type jpg)
-<use images/charactes.jpg>
-Package pdftex.def Info: images/charactes.jpg  used on input line 988.
-(pdftex.def)             Requested size: 469.75539pt x 657.3957pt.
-File: images/salty_bunch_logo.png Graphic file (type png)
-<use images/salty_bunch_logo.png>
-Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 991.
-(pdftex.def)             Requested size: 34.99791pt x 35.0pt.
- [47 <./images/drone_fac2e.jpg>]
-Overfull \vbox (63.40884pt too high) has occurred while \output is active []
-
-File: images/salty_bunch_logo.png Graphic file (type png)
-<use images/salty_bunch_logo.png>
-Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 991.
-(pdftex.def)             Requested size: 34.99791pt x 35.0pt.
- [48 <./images/charactes.jpg>]
-File: images/TheBig.jpg Graphic file (type jpg)
-<use images/TheBig.jpg>
-Package pdftex.def Info: images/TheBig.jpg  used on input line 994.
-(pdftex.def)             Requested size: 187.89928pt x 263.05658pt.
-File: images/TheShadow.jpg Graphic file (type jpg)
-<use images/TheShadow.jpg>
-Package pdftex.def Info: images/TheShadow.jpg  used on input line 995.
-(pdftex.def)             Requested size: 187.89928pt x 263.05658pt.
-File: images/TheJailbird.jpg Graphic file (type jpg)
-<use images/TheJailbird.jpg>
-Package pdftex.def Info: images/TheJailbird.jpg  used on input line 996.
-(pdftex.def)             Requested size: 187.89928pt x 263.05658pt.
-File: images/TheRaccoon.jpg Graphic file (type jpg)
-<use images/TheRaccoon.jpg>
-Package pdftex.def Info: images/TheRaccoon.jpg  used on input line 997.
-(pdftex.def)             Requested size: 187.89928pt x 263.05658pt.
-File: images/cinquebank.jpg Graphic file (type jpg)
-<use images/cinquebank.jpg>
-Package pdftex.def Info: images/cinquebank.jpg  used on input line 1005.
-(pdftex.def)             Requested size: 375.80574pt x 211.38063pt.
-File: images/salty_bunch_logo.png Graphic file (type png)
-<use images/salty_bunch_logo.png>
-Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 1008.
-(pdftex.def)             Requested size: 34.99791pt x 35.0pt.
- [49]
+ [48]
 File: images/insidebank.jpg Graphic file (type jpg)
 <use images/insidebank.jpg>
-Package pdftex.def Info: images/insidebank.jpg  used on input line 1011.
+Package pdftex.def Info: images/insidebank.jpg  used on input line 987.
 (pdftex.def)             Requested size: 375.80574pt x 211.38063pt.
 File: images/salty_bunch_logo.png Graphic file (type png)
 <use images/salty_bunch_logo.png>
-Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 1016.
+Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 992.
 (pdftex.def)             Requested size: 34.99791pt x 35.0pt.
- [50]
+ [49]
+Chapter 9.
+File: images/salty_bunch_logo.png Graphic file (type png)
+<use images/salty_bunch_logo.png>
+Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 1019.
+(pdftex.def)             Requested size: 34.99791pt x 35.0pt.
+[50
+
+]
 Chapter 10.
 
-Underfull \hbox (badness 1163) in paragraph at lines 1030--1030
+Underfull \hbox (badness 1163) in paragraph at lines 1033--1033
 []\OT1/cmr/m/n/10.95 Female, slen-der, Cau-casian, brown eyes,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1043--1043
+Underfull \hbox (badness 10000) in paragraph at lines 1046--1046
 []\OT1/cmr/m/n/10.95 A.S.I.A. (Ar-ti-fi-cial, Se-cu-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1080--1081
+Underfull \hbox (badness 10000) in paragraph at lines 1083--1084
 []\OT1/cmr/m/n/10.95 Assorted styles of wall.
  []
 
 File: images/salty_bunch_logo.png Graphic file (type png)
 <use images/salty_bunch_logo.png>
-Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 1083.
+Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 1086.
 (pdftex.def)             Requested size: 34.99791pt x 35.0pt.
 [51
 
 ]
 File: images/salty_bunch_logo.png Graphic file (type png)
 <use images/salty_bunch_logo.png>
-Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 1101.
+Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 1104.
 (pdftex.def)             Requested size: 34.99791pt x 35.0pt.
  [52]
-Underfull \hbox (badness 10000) in paragraph at lines 1122--1122
+Underfull \hbox (badness 10000) in paragraph at lines 1125--1125
 []\OT1/cmr/m/n/10.95 Character does vic-tory cheer for
  []
 
 File: images/salty_bunch_logo.png Graphic file (type png)
 <use images/salty_bunch_logo.png>
-Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 1128.
+Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 1131.
 (pdftex.def)             Requested size: 34.99791pt x 35.0pt.
 [53]
 File: images/salty_bunch_logo.png Graphic file (type png)
 <use images/salty_bunch_logo.png>
-Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 1147.
+Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 1150.
 (pdftex.def)             Requested size: 34.99791pt x 35.0pt.
  [54]
 File: images/salty_bunch_logo.png Graphic file (type png)
 <use images/salty_bunch_logo.png>
-Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 1189.
+Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 1192.
 (pdftex.def)             Requested size: 34.99791pt x 35.0pt.
  [55]
 File: images/salty_bunch_logo.png Graphic file (type png)
 <use images/salty_bunch_logo.png>
-Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 1244.
+Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 1247.
 (pdftex.def)             Requested size: 34.99791pt x 35.0pt.
  [56]
 File: images/salty_bunch_logo.png Graphic file (type png)
 <use images/salty_bunch_logo.png>
-Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 1246.
+Package pdftex.def Info: images/salty_bunch_logo.png  used on input line 1249.
 (pdftex.def)             Requested size: 34.99791pt x 35.0pt.
  [57] (./GameDesignDocument.aux) ) 
 Here is how much of TeX's memory you used:
- 4656 strings out of 492642
- 70446 string characters out of 6133178
- 158410 words of memory out of 5000000
- 8434 multiletter control sequences out of 15000+600000
+ 5850 strings out of 492642
+ 87164 string characters out of 6133178
+ 194745 words of memory out of 5000000
+ 9591 multiletter control sequences out of 15000+600000
  11267 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 42i,14n,43p,808b,446s stack positions out of 5000i,500n,10000p,200000b,80000s
-<c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on GameDesignDocument.pdf (58 pages, 29938821 bytes).
+ 42i,14n,77p,1031b,528s stack positions out of 5000i,500n,10000p,200000b,80000s
+<c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on GameDesignDocument.pdf (58 pages, 29950111 bytes).
 PDF statistics:
- 272 PDF objects out of 1000 (max. 8388607)
- 149 compressed objects within 2 object streams
+ 276 PDF objects out of 1000 (max. 8388607)
+ 152 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  226 words of extra memory for PDF output out of 10000 (max. 10000000)
 
