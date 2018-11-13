@@ -1,4 +1,4 @@
-\documentclass[11pt]{report}
+\documentclass[10pt]{report}
 
 \usepackage[english]{babel}
 
@@ -10,9 +10,16 @@
 
 \usepackage{fancyhdr}
 
+\usepackage{titlesec}
+
+\titleformat{\chapter}{\normalfont\huge}{\thechapter.}{20pt}{\huge\it}
+
 \usepackage[letterpaper,margin=2.54cm]{geometry}
 
 \pagestyle{fancyplain}
+
+\renewcommand{\chaptermark}[1]{\markboth{#1}{}}
+
 \lhead{\leftmark}
 \rhead{\thepage}
 \lfoot{\includegraphics[height=35pt]{images/salty_bunch_logo.png}}
