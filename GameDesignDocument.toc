@@ -9,13 +9,15 @@
 \contentsline {chapter}{\numberline {2}Story and Setting}{8}
 \contentsline {section}{\numberline {2.1}Story and Narrative}{8}
 \contentsline {subsection}{\numberline {2.1.1}Game Progression Summary}{8}
-\contentsline {section}{\numberline {2.2}Cut Scenes}{8}
-\contentsline {subsection}{\numberline {2.2.1}(Introduction)}{8}
+\contentsline {subsection}{\numberline {2.1.2}Cut Scenes}{8}
+\contentsline {subsubsection}{Introduction}{8}
 \contentsline {subsubsection}{Description}{8}
+\contentsline {paragraph}{EXT. Outside of Bank -- NIGHT}{8}
+\contentsline {paragraph}{INT. Inside of Bank -- NIGHT}{8}
 \contentsline {subsubsection}{Storyboard}{9}
 \contentsline {subsubsection}{Victory Screen}{9}
-\contentsline {section}{\numberline {2.3}Game World}{9}
-\contentsline {subsection}{\numberline {2.3.1}General Look and Feel of the World}{9}
+\contentsline {section}{\numberline {2.2}Game World}{9}
+\contentsline {subsection}{\numberline {2.2.1}General Look and Feel of the World}{9}
 \contentsline {subsubsection}{Ground Floor}{9}
 \contentsline {subsubsection}{Basement}{9}
 \contentsline {chapter}{\numberline {3}Characters}{10}
@@ -70,7 +72,7 @@
 \contentsline {subsection}{\numberline {4.4.5}Pick Up System}{19}
 \contentsline {subsection}{\numberline {4.4.6}Interactions}{19}
 \contentsline {section}{\numberline {4.5}Combat}{19}
-\contentsline {subsection}{\numberline {4.5.1}Player Weapons}{19}
+\contentsline {subsection}{\numberline {4.5.1}Player Weapons}{20}
 \contentsline {subsection}{\numberline {4.5.2}Player Traps}{20}
 \contentsline {subsection}{\numberline {4.5.3}Inventory System}{21}
 \contentsline {subsection}{\numberline {4.5.4}Inventory System}{21}

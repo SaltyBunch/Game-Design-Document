@@ -1,8 +1,8 @@
-PWD d:/source/Game-Design-Document
+PWD c:/Users/kg15nd/Game-Design-Document
 INPUT c:/texlive/2018/texmf.cnf
 INPUT c:/texlive/2018/texmf-dist/web2c/texmf.cnf
 INPUT c:/texlive/2018/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT d:/source/Game-Design-Document/GameDesignDocument.tex
+INPUT c:/Users/kg15nd/Game-Design-Document/GameDesignDocument.tex
 OUTPUT GameDesignDocument.log
 INPUT c:/texlive/2018/texmf-dist/tex/latex/base/report.cls
 INPUT c:/texlive/2018/texmf-dist/tex/latex/base/report.cls
@@ -65,6 +65,8 @@ INPUT c:/texlive/2018/texmf-dist/tex/latex/fmtcount/fc-english.def
 INPUT c:/texlive/2018/texmf-dist/tex/latex/fmtcount/fc-english.def
 INPUT c:/texlive/2018/texmf-dist/tex/latex/datetime/datetime-defaults.sty
 INPUT c:/texlive/2018/texmf-dist/tex/latex/datetime/datetime-defaults.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/tools/multicol.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/tools/multicol.sty
 INPUT c:/texlive/2018/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 INPUT c:/texlive/2018/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 INPUT c:/texlive/2018/texmf-dist/tex/latex/titlesec/titlesec.sty
@@ -104,7 +106,6 @@ INPUT c:/texlive/2018/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 INPUT c:/texlive/2018/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 INPUT c:/texlive/2018/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT c:/texlive/2018/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-INPUT c:/texlive/2018/texmf-dist/fonts/map/fontname/texfonts.map
 INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
 INPUT images/logo.jpg
 INPUT ./images/logo.jpg
@@ -207,11 +208,11 @@ INPUT images/salty_bunch_logo.png
 INPUT ./images/salty_bunch_logo.png
 INPUT images/salty_bunch_logo.png
 INPUT ./images/salty_bunch_logo.png
+INPUT images/salty_bunch_logo.png
+INPUT ./images/salty_bunch_logo.png
 INPUT images/zappy_gun.jpg
 INPUT ./images/zappy_gun.jpg
 INPUT ./images/zappy_gun.jpg
-INPUT images/salty_bunch_logo.png
-INPUT ./images/salty_bunch_logo.png
 INPUT images/zappy_stick.jpg
 INPUT ./images/zappy_stick.jpg
 INPUT ./images/zappy_stick.jpg
