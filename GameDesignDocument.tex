@@ -1,21 +1,20 @@
 \documentclass[10pt]{report}
 
 \usepackage[english]{babel}
-
 \usepackage{amsmath}
 \usepackage{graphicx}
 \usepackage{float}
 \usepackage{subcaption}
 \usepackage{datetime}
 \usepackage{multicol}
-
+\usepackage{xcolor}
 \usepackage{fancyhdr}
-
 \usepackage{titlesec}
+\usepackage[default]{sourceserifpro}
+\usepackage[T1]{fontenc}
+\usepackage[letterpaper,margin=2.5cm]{geometry}
 
 \titleformat{\chapter}{\normalfont\huge}{\thechapter.~}{0pt}{\huge\it}
-
-\usepackage[letterpaper,margin=2.5cm]{geometry}
 
 \pagestyle{fancyplain}
 
@@ -23,15 +22,16 @@
 
 \lhead{\leftmark}
 \rhead{\thepage}
-\lfoot{\includegraphics[height=30pt]{images/salty_bunch_logo.png}}
-\cfoot{The Salty Bunch Co. \copyright{} \emph{\the\year{}}}
+\lfoot{\vspace*{-15pt}\includegraphics[height=30pt]{images/salty_bunch_logo.png}}
+\cfoot{The Salty Bunch Co. \emph{\the\year{}}}
+
 \renewcommand{\headrulewidth}{0pt}
 \renewcommand{\footrulewidth}{0pt}
 
 
 \title{\includegraphics[width=.6\linewidth]{images/logo.jpg}}
-\author{The Salty Bunch}
-
+\author{\textbf{\textit{The Salty Bunch Co.}}\\\\\includegraphics[height=100pt]{images/salty_bunch_logo.png}}
+\date{}
 
 \begin{document}
 
@@ -83,6 +83,7 @@ The game is set in the near future at the Cinque National Bank. The CNB is the b
 \end{itemize}
 
 \section{Genre \& Target Audience}
+
 Heist is a multiplayer action party game, targeted at players ages 13 and above.
 
 \section{Game Flow Summary}
@@ -109,8 +110,7 @@ Our setting is the Cinque National Bank (CNB), it is a prestigious and sophistic
 
 \subsection{Game Progression Summary}
 
-Four thieves spawn at random at one of the four points of entry. In the first stage, their objective is to infiltrate the bank by getting past quicktime events to bypass traps and hazards. Secondly, they must now move through the bank to not get spotted by other players or security drones. 
-
+Four thieves spawn at random at one of the four points of entry. In the first stage, their objective is to infiltrate the bank by getting past quicktime events to bypass traps and hazards. Secondly, they must now move through the bank to not get spotted by other players or security drones.\\
 Their next objective is to get to the vault and obtain as much gold as possible and more then the next player to win. After they need to obtain as much gold as possible from the bank, they have to escape through the bank from a randomly chosen escape point in the bank before the lockdown timer expires and they get stuck in the bank.
 
 \subsection{Cut Scenes}
@@ -145,17 +145,15 @@ All four characters are introduced to the player through a slanted comic book st
 
 \subsubsection{Ground Floor}
 
-The ground floor will contain, office spaces, board/conference rooms, teller stations, restrooms, information booths used by the employees of the CNB.
-
-The environment will remain clean and modern with simple geometric shapes i.e. chairs, tables, ATM’s and etc that are found throughout the bank.
+The ground floor will contain, office spaces, board/conference rooms, teller stations, restrooms, information booths used by the employees of the CNB.\\
+The environment will remain clean and modern with simple geometric shapes i.e. chairs, tables, ATM’s and etc. that are found throughout the bank.
 
 \subsubsection{Basement}
-The basement contains the vault, smaller rooms that used for storage and maintenance offices for janitorial staff.
 
+The basement contains the vault, smaller rooms that used for storage and maintenance offices for janitorial staff.\\
 In the basement will be contrasting from the ground floor where the colors of the wall are bare concrete and appear monochromatic.
 
 \chapter{Characters}
-
 
 \section{Marshal``King''}
 
@@ -236,6 +234,7 @@ In the basement will be contrasting from the ground floor where the colors of th
 \end{multicols}
 
 \pagebreak
+
 \section{Olivia ``Shadow''}
 
 \begin{multicols}{2}
@@ -275,6 +274,7 @@ In the basement will be contrasting from the ground floor where the colors of th
 \end{multicols}
 
 \pagebreak
+
 \section{Rocco ``Racoon''}
 
 \begin{multicols}{2}    
@@ -312,6 +312,7 @@ In the basement will be contrasting from the ground floor where the colors of th
 \end{multicols}
 
 \pagebreak
+
 \section{A.S.I.A (NPC)}
 
 \begin{figure}[H]
@@ -329,13 +330,27 @@ A.S.I.A stands for Artificial Security Intelligence Administrator, and is the na
 
 A.S.I.A was developed to be a sassy, pretentious, and cocky character to destroy any potential intruder’s confidence and lead them to more errors. She looks down upon any intruder, and believes her security mechanisms are impenetrable.
 
+\section{Player Statistics}
+
+\begin{center}
+    \begin{tabular}{|l|c|c|c|c|c|}
+        \hline
+                    & `King'        & `Jailbird'    & `Shadow'      & `Racoon'      & `A.S.I.A' \\ \hline
+        Health      &  2            & 4             & 4             & 4             & 3         \\ \hline
+        Speed       &  5            & 5             & 4             & 4             & 3         \\ \hline
+        Dexterity   &  2            & 3             & 5             & 4             & N/A       \\ \hline
+    \end{tabular}
+\end{center}
+
 
 \chapter{Gameplay and Mechanics}
 
 \section{Game Progression}
-Game Progression split into 3 parts
+
+Game Progression split into 3 parts, Infiltration, Gathering, and Lockdown.
 
 \subsection{Infiltration}
+
 \begin{itemize}
     \item Infiltration stage implies that the players must sneak in to the bank and make their way towards the basement.
     \item Infiltration stage will require players to be more stealthy
@@ -343,6 +358,7 @@ Game Progression split into 3 parts
     \item Players will familiarize themselves with the environment and its challenges in this stage
 \end{itemize}
 \subsection{Gathering}
+
 \begin{itemize}
     \item This stage of the game blends between the other two stages
     \item Players will collect weapons and traps
@@ -350,6 +366,7 @@ Game Progression split into 3 parts
     \item They will explore rooms and hallways for loot 
 \end{itemize}
 \subsection{Lockdown}
+
 \begin{itemize}
     \item This stage will be the most chaotic stage of the game
     \item As soon as a player accesses the vault, a lockdown timer initiates
@@ -366,7 +383,9 @@ Game Progression split into 3 parts
 \end{figure}
 
 \section{Objectives}
+
 \subsection{Main Objectives}
+
 \begin{itemize}
     \item Achieve the highest score possible by collecting gold from the vault
     \item Escape before lockdown
@@ -379,6 +398,7 @@ Game Progression split into 3 parts
 \end{figure}
 
 \subsection{Secondary Objectives}
+
 \begin{itemize}
     \item Dodge and disable traps and hazards
     \item Collect weapons and traps
@@ -388,7 +408,9 @@ Game Progression split into 3 parts
 \end{itemize}
 
 \section{Challenges}    
+
 \subsection{Level Layout}
+
 \begin{itemize}
     \item Levels are not going to be straightforward paths towards the vault
     \item Levels will contain multiple paths, each with their own pros and cons
@@ -408,6 +430,7 @@ Game Progression split into 3 parts
 \end{itemize}
 
 \subsection{Security Drones}
+
 \begin{itemize}
     \item Drones are the primary enemy for the players
     \item They patrol the bank, and will detect players in their vision radius
@@ -422,6 +445,7 @@ Game Progression split into 3 parts
 \end{itemize}
 
 \subsection{Combat}
+
 \begin{itemize}
     \item Players can engage in combat with other players and/or drones.
     \item Players will have a default melee weapon unique to each character.
@@ -440,12 +464,15 @@ Game Progression split into 3 parts
 
 
 \section{Mechanics}
+
 \subsection{Physics}
+
 \subsection{Movement}
 
 The player can move in all directions along the xz plane, and can also use a dash. Their movement speed is affected by the character they have chosen. The dash moves the player in the direction they are facing.
 
 \subsection{Scoring System}
+
 \begin{itemize}
     \item Score will be calculated according to how much gold is collected
     \item Player with the highest score (that manages to escape) will win
@@ -455,6 +482,7 @@ The player can move in all directions along the xz plane, and can also use a das
 \end{itemize}
 
 \subsection{Health System}
+
 \begin{itemize}
     \item Players and drones will share the same health system
     \item Health system will be a 4-hit system
@@ -469,6 +497,7 @@ The player can move in all directions along the xz plane, and can also use a das
 \end{itemize}
 
 \subsection{Pick Up System}
+
 \begin{itemize}
     \item Pickups are available in designated areas in the map
     \item Pickups respawn every 45 secs
@@ -476,6 +505,7 @@ The player can move in all directions along the xz plane, and can also use a das
 \end{itemize}
 
 \subsection{Interactions}
+
 \begin{itemize}
     \item Players can interact with pickups to add to their inventory
     \item Players can also interact with traps and locked doors to disable/unlock them
@@ -503,7 +533,6 @@ The player can move in all directions along the xz plane, and can also use a das
 \end{itemize}
 
 \subsection{Player Weapons}
-
 
 \begin{itemize}
     \item \textbf{Stun Gun}:
@@ -598,6 +627,7 @@ The player can move in all directions along the xz plane, and can also use a das
 \end{itemize}
 
 \section{Screen Flow}
+
 \subsection{Screen Flow Chart}
 
 \begin{figure}[H]
@@ -640,7 +670,7 @@ First Screen that the player has access to. Contains Start Game, Options, and Ex
 
 \chapter{Levels}
 
-\section{Floor \#1}
+\section{Floor \#1 --- Ground Floor}
 
 \subsection{Synopsis}
 
@@ -666,11 +696,11 @@ The map contains many shades of grey and dark colours such as azure blue and sea
 
 \subsubsection{Primary Path}
 
-(Shown in Blue) The player spawns and makes their way directly down the stairs to the vault. This way is the fastest, but the players miss out on valuable pickups.
+\textcolor{blue}{(Shown in Blue)} The player spawns and makes their way directly down the stairs to the vault. This way is the fastest, but the players miss out on valuable pickups.
 
 \subsubsection{Secondary Path}
 
-(Shown in Magenta) The player spawns and looks around the bank for pickups. This way they gain an advantage against other players and drones, but it is not as fast as just going to the ground floor.
+\textcolor{magenta}{(Shown in Magenta)} The player spawns and looks around the bank for pickups. This way they gain an advantage against other players and drones, but it is not as fast as just going to the ground floor.
 
 \begin{figure}[H]
     \centering
@@ -692,7 +722,7 @@ The player will encounter various challenges. The drones will attempt to stun th
 
 At the end of the game, the players will view a victory screen. The screen will show all four players as well as how much gold each player acquired. The players will be ranked in the order of how much gold they stole
 
-\section{Floor \#2}
+\section{Floor \#2 --- Basement Floor}
 
 \subsection{Synopsis}
 
@@ -743,10 +773,10 @@ The player will encounter various challenges. The drones will attempt to stun th
 As seen in Figure~\ref{fig:uilayout}, the UI elements will appear on the corner of each respective player's screen. The elements shown in the UI are going to be:
 
 \begin{itemize}
-\item \textbf{Player Health}: Health is represented using the red bars
-\item \textbf{Gold Score}: Score is represented above the health using numbers
-\item \textbf{Character Profile}: A picture of the selected character
-\item \textbf{Active Item}: An icon of the selected weapon/trap 
+    \item \textbf{Player Health}: Health is represented using the red bars
+    \item \textbf{Gold Score}: Score is represented above the health using numbers
+    \item \textbf{Character Profile}: A picture of the selected character
+    \item \textbf{Active Item}: An icon of the selected weapon/trap 
     \begin{itemize}
         \item This will disappear if player doesn’t switch/use weapons/traps for 10 secs
     \end{itemize}
@@ -844,6 +874,7 @@ Players could use either Keyboard/Mouse or a controller to play Heist.
 \end{itemize}
 
 \chapter{Artificial Intelligence}
+
 \section{Enemy AI}
 
 Drones
@@ -1242,8 +1273,7 @@ All scripts are written in C\# following the guidelines that are outlined on Mic
         Joke(4) &   \\ \hline
         Victory(4)  &   \\ \hline
         Defeat(4)   &   \\ \hline
-        Capture(4)  &   \\
-        \hline
+        Capture(4)  &   \\ \hline
     \end{tabular}
 \end{center}
 
