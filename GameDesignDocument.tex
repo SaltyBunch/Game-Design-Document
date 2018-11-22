@@ -10,8 +10,8 @@
 \usepackage{xcolor}
 \usepackage{fancyhdr}
 \usepackage{titlesec}
-\usepackage[default]{sourceserifpro}
-\usepackage[T1]{fontenc}
+%\usepackage[default]{sourceserifpro}
+%\usepackage[T1]{fontenc}
 \usepackage[letterpaper,margin=2.5cm]{geometry}
 
 \titleformat{\chapter}{\normalfont\huge}{\thechapter~~}{0pt}{\huge\it}
@@ -29,7 +29,7 @@
 \renewcommand{\footrulewidth}{0pt}
 
 
-\title{\includegraphics[width=.6\linewidth]{images/logo.jpg}}
+\title{\includegraphics[width=.6\linewidth]{images/logo.jpg}\\\textbf{Game Design Document}}
 \author{\textbf{\textit{Salty Bunch Co.}}\\\\\includegraphics[height=100pt]{images/salty_bunch_logo.png}}
 \date{}
 
@@ -46,6 +46,7 @@
 \section{Game Concept}
 
 \begin{figure}[H]
+    \centering
     \includegraphics[width=.3\linewidth]{images/aebanks_ColorCharacterConcepts_Heist.png}
     \caption{}
 \end{figure}
@@ -77,6 +78,7 @@ Heist is a multiplayer action party game, targeted at players ages 13 and above.
 \section{Look and Feel}
 
 \begin{figure}[H]
+    \centering
     \includegraphics[width=\linewidth]{images/lookandfeel.jpg}
     \caption{Look and Feel}
 \end{figure}
@@ -106,6 +108,7 @@ The main floor of the bank is going to clearly represent the prestige through it
 The basement will be a contrasting environment to the main floor, as it will have bare concrete walls, visible pipes and valves, and exposed lights. It will contain the vault, maintenance offices, and pump rooms. 
 
 \begin{figure}
+    \centering
     \includegraphics[width=.5\linewidth]{images/frontLobbyTest.png}
     \caption{}
 \end{figure}
@@ -389,6 +392,7 @@ At the end of the game, the players will view a victory screen. The screen will 
 \section{Game Progression}
 
 \begin{figure}
+    \centering
     \includegraphics[width=.8\linewidth]{images/progPic.jpg}
     \caption{}
 \end{figure}
@@ -439,7 +443,7 @@ Game Progression split into 3 parts, Infiltration, Gathering, and Lockdown.
         \item Security Camera: will inform enemy drones to your position and send them to the player’s area
         \item Electric Field: Damages (1 DMG/2secs)  and slows players.
         \begin{itemize}
-            \item Lasts for 10 secs after damaging player
+            \item Lasts for 10 seconds after damaging player
         \end{itemize}
         \item Lethal Lasers: Damages players (2 DMG)
         \begin{itemize}
@@ -471,10 +475,12 @@ Game Progression split into 3 parts, Infiltration, Gathering, and Lockdown.
     \begin{itemize}
         \item Stun Gun: ranged weapon that charges up before firing (dodgeable) does 1 DMG
         \begin{figure}[H]
+            \centering
             \includegraphics[width=0.5\linewidth]{images/Drone-StunGun.png}
         \end{figure}
         \item Electric Field: AoE weapon that drones can deploy for short bursts, it deploys an electric field under them, that will damage  players (1DMG/2secs) that step in it. Drones will be faster and chase players around
         \begin{figure}[H]
+            \centering
             \includegraphics[width=.5\linewidth]{images/Drone-ElectricField.png}
         \end{figure}
     \end{itemize}
@@ -487,7 +493,8 @@ Game Progression split into 3 parts, Infiltration, Gathering, and Lockdown.
     \end{itemize}
 \end{itemize}
 
-\begin{figure}[H]
+\begin{figure}[H]\
+    \centering
     \includegraphics[width=\linewidth]{images/tellerscolourDRONE.jpg}
 \end{figure}
 
@@ -501,13 +508,19 @@ Players will be able to walk, crouch and dash. Each of the movement states will 
 
 \begin{itemize}
     \item Quick time events are going to be presented to the player in certain situations
-    \begin{figure}
-        \includegraphics{}
+    \begin{figure}[H]
+        \centering
+        \includegraphics[width=.8\linewidth]{images/buttonprompt.jpg}
     \end{figure}
     \item There are two types of quick time events
     \begin{itemize}
         \item Players must press a button to stop the slider in the green area of the bar to  succeed in this quick time event 
         \item Players must quickly press the series of buttons presented to them to succeed in this quick time event
+        \begin{figure}[H]
+            \centering
+            \includegraphics[width=.3\linewidth]{images/quicktime_bar.png}
+            \includegraphics[width=.3\linewidth]{images/quicktime_lock.png}
+        \end{figure}
     \end{itemize}
     \item Players can interact with safes to unlock them
     \begin{itemize}
@@ -541,6 +554,10 @@ Players will be able to walk, crouch and dash. Each of the movement states will 
         \item Players will gain 100 Gold/Sec
     \end{itemize}
     \item While inside the vault
+    \begin{figure}[H]
+        \centering
+        \includegraphics[width=.6\linewidth]{images/insidebank.jpg}
+    \end{figure}
     \begin{itemize}
         \item Players will not be able to use weapons or traps
         \item Drones will not be able to enter vault
@@ -570,7 +587,7 @@ Players will be able to walk, crouch and dash. Each of the movement states will 
         \item 1 Damage point will reduce a Health Point on the player/drone
         \item Health Points will regain after 15 seconds for the first point and 5 seconds for the following points, if player/drone is not damaged
         \item If player/drone loses all their health, they will be stunned for 5 seconds
-        \item If player is attacked while stunned or up to 3 secs after stun, no health points will be lost and no gold will be dropped.    
+        \item If player is attacked while stunned or up to 3 seconds after stun, no health points will be lost and no gold will be dropped.    
     \end{itemize}
 \end{itemize}
 
@@ -604,7 +621,7 @@ Players will be able to walk, crouch and dash. Each of the movement states will 
     \item Players drop gold when they take damage
 \end{itemize}
 
-\subsection{Safes}
+\subsection{Safes (Pickups)}
 
 \begin{itemize}
     \item Safes are available in designated areas in the bank
@@ -654,7 +671,7 @@ Players will be able to walk, crouch and dash. Each of the movement states will 
             \item Does 1 DMG per hit
             \item Pushes enemies away
             \item Melee weapon that increases player movement speed by 30\%
-            \item Lasts for 8 secs (Active)
+            \item Lasts for 8 seconds (Active)
         \end{itemize}
     \end{itemize}
 \end{minipage} \hfill
@@ -678,7 +695,7 @@ Players will be able to walk, crouch and dash. Each of the movement states will 
             \item Does 1 Damage/2secs
             \item Slows Players Movement Speed by 25\%
             \item Lasts for 2 Minutes if untriggered
-            \item Lasts for 30 secs after triggered
+            \item Lasts for 30 seconds after triggered
         \end{itemize}
     \end{itemize}
     \item \textbf{Lethal Lasers}:
@@ -716,6 +733,30 @@ Players will be able to walk, crouch and dash. Each of the movement states will 
 \end{figure}
 
 
+\chapter{User Interface}
+
+\section{UI Layout}
+
+As seen in Figure~\ref{fig:uilayout}, the UI elements will appear on the corner of each respective player's screen. The elements shown in the UI are going to be:
+
+\begin{itemize}
+    \item \textbf{Player Health}: Health is represented using the red bars
+    \item \textbf{Gold Score}: Score is represented above the health using numbers
+    \item \textbf{Character Profile}: A picture of the selected character
+    \item \textbf{Active Item}: An icon of the selected weapon/trap 
+    \begin{itemize}
+        \item This will disappear if player doesn’t switch/use weapons/traps for 10 secs
+    \end{itemize}
+\end{itemize}
+
+\begin{figure}[H]
+	\includegraphics[width=\linewidth]{images/uiLayout.jpg}
+    \caption{UI Layout}
+    \label{fig:uilayout}
+\end{figure}
+
+\section{Menus}
+
 \section{Screen Flow}
 
 \subsection{Screen Flow Chart}
@@ -723,7 +764,7 @@ Players will be able to walk, crouch and dash. Each of the movement states will 
 \begin{figure}[H]
     \centering
     \includegraphics[width=\linewidth]{images/screenFlow.jpg}
-    \caption{Screen Flow Chart}
+    \caption{Menu Flow Chart}
 \end{figure}
 
 \subsubsection{Main Menu Screen}
@@ -749,6 +790,12 @@ First Screen that the player has access to. Contains Start Game, Options, and Ex
 \end{itemize}
 
 \subsection{Options Menu Screen}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=.8\linewidth]{images/options_menu.jpg}
+\end{figure}
+
 \begin{itemize}
     \item This screen can be access through the \textbf{Main Menu} by selecting the \textbf{Options} button. It contains multiple other screens.
     \begin{itemize}
@@ -758,31 +805,14 @@ First Screen that the player has access to. Contains Start Game, Options, and Ex
     \end{itemize}
 \end{itemize}
 
-\chapter{User Interface}
-
-\section{UI Layout}
-
-As seen in Figure~\ref{fig:uilayout}, the UI elements will appear on the corner of each respective player's screen. The elements shown in the UI are going to be:
-
-\begin{itemize}
-    \item \textbf{Player Health}: Health is represented using the red bars
-    \item \textbf{Gold Score}: Score is represented above the health using numbers
-    \item \textbf{Character Profile}: A picture of the selected character
-    \item \textbf{Active Item}: An icon of the selected weapon/trap 
-    \begin{itemize}
-        \item This will disappear if player doesn’t switch/use weapons/traps for 10 secs
-    \end{itemize}
-\end{itemize}
-
-\begin{figure}[H]
-	\includegraphics[width=\linewidth]{images/uiLayout.jpg}
-    \caption{UI Layout}
-\label{fig:uilayout}
-\end{figure}
-
-\section{Menus}
 
 The only in-game menu available is the pause menu. It will include 2 buttons:
+
+\begin{figure}
+    \centering
+    \includegraphics[width=.8\linewidth]{images/thumbnail.jpg}
+    \caption{}
+\end{figure}
 
 \begin{itemize}
     \item \textbf{Resume Game}: Exits pause screen and continues game.
@@ -818,23 +848,19 @@ All four characters are introduced to the player through a slanted comic book st
 %%TODO: (Insert Later)
 
 \subsubsection{Victory Screen}
-%%TODO: (Insert Later)
 
-\section{Camera}
-
-%%TODO: Add this
+\begin{figure}
+    \centering
+    \includegraphics[width=.8\linewidth]{images/room.jpg}
+    \caption{}
+\end{figure}
 
 \section{Control Scheme}
 
-Players could use either Keyboard/Mouse or a controller to play Heist.
+Heist is played using a controller for each player.
 
 \begin{figure}[H]
-	\includegraphics[width=\linewidth]{images/keyboardlayout.jpg}
-    \caption{Keyboard Control Layout}
-\end{figure}
-
-\begin{figure}[H]
-	\includegraphics[width=\linewidth]{images/controllerlayout.jpg}
+	\includegraphics[width=\linewidth]{images/controllerlayout.jpg} %TODO: Add real control mapping
     \caption{Controller Control Layout}
 \end{figure}
 
@@ -904,139 +930,40 @@ Players could use either Keyboard/Mouse or a controller to play Heist.
     \end{itemize}
     \item If it sees a player, its threat level goes to two and attempts to follow and stun the player.
     \begin{itemize}
-        \item If it loses site of the player for 5 secs, the threat level becomes one, and it will begin to patrol the area.
-        \item If the drone successfully stuns the player, it will pick up a portion of gold (if dropped) and return it to the vault. Once the gold has been returned, the threat level returns to zero and the initial patrol is resumed.
+        \item If it loses sight of the player for 5 secs, the threat level becomes one, and it will begin to patrol the area.
+        \item If the drone successfully stuns the player, it will pick up gold till it is full, or there is none left. Then it will return back to it's original patrol.
     \end{itemize}
     \item If the drone, while following or patrolling an area, moves beyond a set distance from its original patrol, it will disengage, set its threat level to zero and return to its original patrol.
-    \item Once the lockdown has been activated, the drones will begin threat level three, where their patrol distance is increased and their speed is increased.    
+    \item Once the lockdown has been activated, the drones will begin threat level three, where their patrol distance is increased and their speed is increased.
+    \item If at any point the drone takes enough damage, it will get stunned and drop 200 gold.    
 \end{itemize}
 
-\section{Pathfinding}
+\section{Drone Indicators}
 
-Uses the default Unity Navmesh Agent, setting the focused player’s as the Drone’s target. When returning to the vault all players are swapped to obstacles with width wide enough to block the hallway, so the drone’s pathfinding will avoid them.
+Indicators on the drone's face will change based on what state it is in.
+
+\begin{figure}
+    \centering
+    \includegraphics{images/Drone-Concept.png}
+\end{figure}
+
+States
+
+\begin{itemize}
+    \item Normal --- Patrolling
+    \item Caution --- Notices a sound, and is going to investigate
+    \item Charge --- Has targeted a player and is charging up an attack
+    \item Attack --- Noticed a player and is currently following them
+    \item Stunned --- Cannot act for a few seconds and drops 200 gold
+\end{itemize}
 
 \section{Drone Finite State Machine}
 
-\begin{figure}[h!]
-	\includegraphics[width=\linewidth]{images/fsm-ai.jpg}
+\begin{figure}[H]
+    \centering
+	\includegraphics[width=\linewidth]{images/fsm.png}
 	\caption{Drone FSM}
 \end{figure}
-
-\chapter{Game Art}
-
-\section{Concept Art}
-
-\begin{figure}[H]
-	\includegraphics[width=\linewidth]{images/bankconcept.jpg}
-    \caption{Early layout showing perspective}
-\end{figure}
-
-\begin{figure}[H]
-    \centering
-    \includegraphics[width=.4\linewidth]{images/floortile.jpg}
-    \includegraphics[width=.4\linewidth]{images/painting.jpg}
-    \caption{Assets for Bank interior}
-\end{figure}
-
-\begin{figure}[H]
-	\includegraphics[width=\linewidth]{images/options.jpg}
-    \caption{Logo concepts}
-\end{figure}
-
-\begin{figure}[H]
-	\includegraphics[width=\linewidth]{images/menu.jpg}
-    \caption{Main Menu}
-\end{figure}
-
-\begin{figure}[H]
-	\includegraphics[width=\linewidth]{images/ingameui.jpg}
-    \caption{Early UI Concept}
-\end{figure}
-
-\begin{figure}[H]
-	\includegraphics[width=\linewidth]{images/ingameuifinal.jpg}
-    \caption{In-game UI}
-\end{figure}
-
-\begin{figure}[H]
-    \centering
-	\includegraphics[width=.4\linewidth]{images/kingui_sarah.jpg}
-	\includegraphics[width=.4\linewidth]{images/shadowui_sarah.jpg}
-	\includegraphics[width=.4\linewidth]{images/jailbirdui_sarah.jpg}
-	\includegraphics[width=.4\linewidth]{images/raccoonui_sarah.jpg}
-    \caption{Early Character UI}
-\end{figure}
-
-\begin{figure}[H]
-    \centering
-    \begin{subfigure}[b]{0.4\linewidth}
-        \includegraphics[width=\linewidth]{images/lasertripwire.jpg}
-        \caption{Lethal Laser}
-    \end{subfigure}
-    \begin{subfigure}[b]{0.4\linewidth}
-        \includegraphics[width=\linewidth]{images/electricfield.jpg}
-        \caption{Electric Field}
-    \end{subfigure}
-    \begin{subfigure}[b]{\linewidth}
-        \centering
-        \includegraphics[width=0.4\linewidth]{images/pixil.jpg}
-        \includegraphics[width=0.4\linewidth]{images/camera.jpg}
-        \caption{Camera Sensor Early Concept}
-    \end{subfigure}
-    \caption{Concept of Hazards}
-\end{figure}
-
-\begin{figure}[H]
-	\includegraphics[width=\linewidth]{images/electricfield1.jpg}
-    \caption{Electric Field Concept}
-\end{figure}
-
-\begin{figure}[H]
-    \centering
-	\includegraphics[width=.3\linewidth]{images/taser.jpg}
-	\includegraphics[width=.3\linewidth]{images/zappy_gun.jpg}
-	\includegraphics[width=.3\linewidth]{images/zappy_stick.jpg}
-    \caption{Stun Gun and Baton Concept Art}
-\end{figure}
-
-\begin{figure}[H]
-    \centering
-	\includegraphics[width=.4\linewidth]{images/drone_face.jpg}
-	\includegraphics[width=.4\linewidth]{images/drone_fac2e.jpg}
-    \caption{Security Drone}
-\end{figure}
-
-\section{Characters}
-
-\begin{figure}[H]
-    \centering
-	\includegraphics[width=.7\linewidth]{images/charactes.jpg}
-    \caption{Heist Characters}
-\end{figure}
-
-\begin{figure}[H]
-    \centering
-	\includegraphics[width=.4\linewidth]{images/TheBig.jpg}
-	\includegraphics[width=.4\linewidth]{images/TheShadow.jpg}
-	\includegraphics[width=.4\linewidth]{images/TheJailbird.jpg}
-	\includegraphics[width=.4\linewidth]{images/TheRaccoon.jpg}
-    \caption{Individual Heist Character Portraits}
-\end{figure}
-
-\section{Environments}
-
-\begin{figure}[H]
-    \centering
-	\includegraphics[width=.8\linewidth]{images/cinquebank.jpg}
-    \caption{Heist Portraits}
-\end{figure}
-
-\begin{figure}[H]
-    \centering
-	\includegraphics[width=.8\linewidth]{images/insidebank.jpg}
-    \caption{Heist Portraits}
-\end{figure}
-
 
 \chapter{Technical}
 
@@ -1063,7 +990,6 @@ The game engine will be Unity 2018.4 LTS once it has been released. Pre-producti
 \section{Scripting Language}
 
 All scripts are written in C\# following the guidelines that are outlined on Microsoft C\# Coding Conventions
-
 
 \chapter{Appendices}
 
@@ -1154,7 +1080,7 @@ All scripts are written in C\# following the guidelines that are outlined on Mic
     
 \subsubsection{Animation List}
 
-\begin{center}
+\begin{center} %TODO: get updated list
     \begin{tabular}{| p{.45\linewidth} | p{.45\linewidth} |}
         \hline
         Animation List      &   Description     \\ \hline
@@ -1293,5 +1219,121 @@ All scripts are written in C\# following the guidelines that are outlined on Mic
         Capture(4)  &   \\ \hline
     \end{tabular}
 \end{center}
+
+\chapter{Game Art}
+
+\section{Concept Art}
+
+\begin{figure}[H]
+	\includegraphics[width=\linewidth]{images/bankconcept.jpg}
+    \caption{Early layout showing perspective}
+\end{figure}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=.4\linewidth]{images/floortile.jpg}
+    \includegraphics[width=.4\linewidth]{images/painting.jpg}
+    \caption{Assets for Bank interior}
+\end{figure}
+
+\begin{figure}[H]
+	\includegraphics[width=\linewidth]{images/options.jpg}
+    \caption{Logo concepts}
+\end{figure}
+
+\begin{figure}[H]
+	\includegraphics[width=\linewidth]{images/menu.jpg}
+    \caption{Main Menu}
+\end{figure}
+
+\begin{figure}[H]
+	\includegraphics[width=\linewidth]{images/ingameui.jpg}
+    \caption{Early UI Concept}
+\end{figure}
+
+\begin{figure}[H]
+	\includegraphics[width=\linewidth]{images/ingameuifinal.jpg}
+    \caption{In-game UI}
+\end{figure}
+
+\begin{figure}[H]
+    \centering
+	\includegraphics[width=.4\linewidth]{images/kingui_sarah.jpg}
+	\includegraphics[width=.4\linewidth]{images/shadowui_sarah.jpg}
+	\includegraphics[width=.4\linewidth]{images/jailbirdui_sarah.jpg}
+	\includegraphics[width=.4\linewidth]{images/raccoonui_sarah.jpg}
+    \caption{Early Character UI}
+\end{figure}
+
+\begin{figure}[H]
+    \centering
+    \begin{subfigure}[b]{0.4\linewidth}
+        \includegraphics[width=\linewidth]{images/lasertripwire.jpg}
+        \caption{Lethal Laser}
+    \end{subfigure}
+    \begin{subfigure}[b]{0.4\linewidth}
+        \includegraphics[width=\linewidth]{images/electricfield.jpg}
+        \caption{Electric Field}
+    \end{subfigure}
+    \begin{subfigure}[b]{\linewidth}
+        \centering
+        \includegraphics[width=0.4\linewidth]{images/pixil.jpg}
+        \includegraphics[width=0.4\linewidth]{images/camera.jpg}
+        \caption{Camera Sensor Early Concept}
+    \end{subfigure}
+    \caption{Concept of Hazards}
+\end{figure}
+
+\begin{figure}[H]
+	\includegraphics[width=\linewidth]{images/electricfield1.jpg}
+    \caption{Electric Field Concept}
+\end{figure}
+
+\begin{figure}[H]
+    \centering
+	\includegraphics[width=.3\linewidth]{images/taser.jpg}
+	\includegraphics[width=.3\linewidth]{images/zappy_gun.jpg}
+	\includegraphics[width=.3\linewidth]{images/zappy_stick.jpg}
+    \caption{Stun Gun and Baton Concept Art}
+\end{figure}
+
+\begin{figure}[H]
+    \centering
+	\includegraphics[width=.4\linewidth]{images/drone_face.jpg}
+	\includegraphics[width=.4\linewidth]{images/drone_fac2e.jpg}
+    \caption{Security Drone}
+\end{figure}
+
+\section{Characters}
+
+\begin{figure}[H]
+    \centering
+	\includegraphics[width=.7\linewidth]{images/charactes.jpg}
+    \caption{Heist Characters}
+\end{figure}
+
+\begin{figure}[H]
+    \centering
+	\includegraphics[width=.4\linewidth]{images/TheBig.jpg}
+	\includegraphics[width=.4\linewidth]{images/TheShadow.jpg}
+	\includegraphics[width=.4\linewidth]{images/TheJailbird.jpg}
+	\includegraphics[width=.4\linewidth]{images/TheRaccoon.jpg}
+    \caption{Individual Heist Character Portraits}
+\end{figure}
+
+\section{Environments}
+
+\begin{figure}[H]
+    \centering
+	\includegraphics[width=.8\linewidth]{images/cinquebank.jpg}
+    \caption{Heist Portraits}
+\end{figure}
+
+\begin{figure}[H]
+    \centering
+	\includegraphics[width=.8\linewidth]{images/insidebank.jpg}
+    \caption{Heist Portraits}
+\end{figure}
+
 
 \end{document}
