@@ -13,6 +13,8 @@
 %\usepackage[default]{sourceserifpro}
 %\usepackage[T1]{fontenc}
 \usepackage[letterpaper,margin=2.5cm]{geometry}
+\usepackage{array}
+\usepackage{hyperref}
 
 \titleformat{\chapter}{\normalfont\huge}{\thechapter~~}{0pt}{\huge\it}
 
@@ -40,6 +42,7 @@
 
 \maketitle
 \tableofcontents
+\listoffigures
 
 \chapter{Game Overview}
 
@@ -48,7 +51,7 @@
 \begin{figure}[H]
     \centering
     \includegraphics[width=.3\linewidth]{images/aebanks_ColorCharacterConcepts_Heist.png}
-    \caption{}
+    \caption{The Four Thieves}
 \end{figure}
 
 Play as one of the four thieves attempting the biggest heist in history on the Cinque National Bank. Players must infiltrate the bank which is rigged with state-of-the art defense systems to challenge the player. Security Drones will be patrolling the bank looking for any intruders.\\
@@ -104,7 +107,7 @@ The basement will be a contrasting environment to the main floor, as it will hav
 \begin{figure}
     \centering
     \includegraphics[width=.5\linewidth]{images/frontLobbyTest.png}
-    \caption{}
+    \caption{Front Lobby of the Bank}
 \end{figure}
 
 \chapter{Characters}
@@ -393,7 +396,7 @@ At the end of the game, the players will view a victory screen. The screen will 
 \begin{figure}[H]
     \centering
     \includegraphics[width=.8\linewidth]{images/progPic.jpg}
-    \caption{}
+    \caption{Game Progression}
 \end{figure}
 
 Game Progression split into 3 parts:
@@ -476,7 +479,7 @@ Game Progression split into 3 parts:
     \begin{figure}[H]
         \centering
         \includegraphics[width=\linewidth]{images/drone_fac2e.jpg}
-        \caption{}
+        \caption{Drone}
     \end{figure}
 \end{minipage}
 \begin{itemize}
@@ -487,11 +490,13 @@ Game Progression split into 3 parts:
         \begin{figure}[H]
             \centering
             \includegraphics[width=0.5\linewidth]{images/Drone-StunGun.png}
+            \caption{Drone --- Stun Gun}
         \end{figure}
         \item Electric Field: AoE weapon that drones can deploy for short bursts, it deploys an electric field under them, that will damage  players (1DMG/2secs) that step in it. Drones will be faster and chase players around
         \begin{figure}[H]
             \centering
             \includegraphics[width=.5\linewidth]{images/Drone-ElectricField.png}
+            \caption{Drone --- Electric Field}
         \end{figure}
     \end{itemize}
     \item Drones will drop gold when they are damaged or stunned.
@@ -506,7 +511,7 @@ Game Progression split into 3 parts:
 \begin{figure}[H]\
     \centering
     \includegraphics[width=\linewidth]{images/tellerscolourDRONE.jpg}
-    \caption{}
+    \caption{Drone --- Pathing in Lobby}
 \end{figure}
 
 \section{Mechanics}
@@ -522,6 +527,7 @@ Players will be able to walk, crouch and dash. Each of the movement states will 
     \begin{figure}[H]
         \centering
         \includegraphics[width=.8\linewidth]{images/buttonprompt.jpg}
+        \caption{Interaction --- Inside Vault}
     \end{figure}
     \item There are two types of quick time events
     \begin{itemize}
@@ -569,7 +575,7 @@ Players will be able to walk, crouch and dash. Each of the movement states will 
     \begin{figure}[H]
         \centering
         \includegraphics[width=.6\linewidth]{images/insidebank.jpg}
-        \caption{}
+        \caption{Inside the Vault}
     \end{figure}
     \begin{itemize}
         \item Players will not be able to use weapons or traps
@@ -609,7 +615,7 @@ Players will be able to walk, crouch and dash. Each of the movement states will 
     \begin{figure}[H]
         \centering
         \includegraphics[width=\linewidth]{images/HeartUI.png}
-        \caption{}
+        \caption{Health Point}
     \end{figure}
 \end{minipage}
 
@@ -681,7 +687,7 @@ Players will be able to walk, crouch and dash. Each of the movement states will 
     \begin{figure}[H]
         \centering
         \includegraphics[width=\linewidth]{images/zappy_gun.jpg}
-        \caption{}
+        \caption{Stun Gun}
     \end{figure}
 \end{minipage}
 
@@ -701,7 +707,7 @@ Players will be able to walk, crouch and dash. Each of the movement states will 
     \begin{figure}[H]
         \centering
         \includegraphics[width=\linewidth]{images/zappy_stick.jpg}
-        \caption{}
+        \caption{Electric Baton}
     \end{figure}
 \end{minipage}
     
@@ -746,7 +752,7 @@ Players will be able to walk, crouch and dash. Each of the movement states will 
 \begin{minipage}{.18\linewidth}
     \begin{figure}[H]
         \includegraphics[width=\linewidth]{images/invStunGun.png}
-        \caption{}
+        \caption{Weapon Select}
     \end{figure}
 \end{minipage}
 
@@ -755,7 +761,7 @@ Players will be able to walk, crouch and dash. Each of the movement states will 
 \begin{figure}[H]
     \centering
     \includegraphics[width=.7\linewidth]{images/gameflowsummary.jpg}
-    \caption{}
+    \caption{Game Flow}
 \end{figure}
 
 
@@ -798,7 +804,7 @@ First Screen that the player has access to. Contains Start Game, Options, and Ex
 \begin{figure}[H]
     \centering
     \includegraphics[width=\linewidth]{images/menu.jpg}
-    \caption{}
+    \caption{Main Menu}
 \end{figure}
 
 \subsection{Game Screen}
@@ -818,6 +824,7 @@ First Screen that the player has access to. Contains Start Game, Options, and Ex
 \begin{figure}[H]
     \centering
     \includegraphics[width=.8\linewidth]{images/options_menu.jpg}
+    \caption{Options Menu}
 \end{figure}
 
 \begin{itemize}
@@ -832,10 +839,10 @@ First Screen that the player has access to. Contains Start Game, Options, and Ex
 
 The only in-game menu available is the pause menu. It will include 2 buttons:
 
-\begin{figure}][H]
+\begin{figure}[H]
     \centering
     \includegraphics[width=.8\linewidth]{images/thumbnail.jpg}
-    \caption{}
+    \caption{Pause Menu}
 \end{figure}
 
 \begin{itemize}
@@ -873,7 +880,7 @@ All four characters are introduced to the player through a slanted comic book st
 \begin{figure}[H]
     \centering
     \includegraphics[width=.8\linewidth]{images/CutScene.jpg}
-    \caption{}
+    \caption{Opening Cutscene}
     \label{fig:storyboard}
 \end{figure}
 
@@ -882,7 +889,7 @@ All four characters are introduced to the player through a slanted comic book st
 \begin{figure}[H]
     \centering
     \includegraphics[width=.8\linewidth]{images/room.jpg}
-    \caption{}
+    \caption{Victory Screen}
     \label{fig:victory}
 \end{figure}
 
@@ -894,7 +901,7 @@ All four characters are introduced to the player through a slanted comic book st
     \includegraphics[width=.4\linewidth]{images/CharacterSelection2.JPG}
     \includegraphics[width=.4\linewidth]{images/CharacterSelection3.JPG}
     \includegraphics[width=.4\linewidth]{images/CharacterSelection4.JPG}
-    \caption{}
+    \caption{Character Selection Screens}
 \end{figure}
 
 \section{Control Scheme}
@@ -988,7 +995,7 @@ Indicators on the drone's face will change based on what state it is in.
 \begin{figure}[H]
     \centering
     \includegraphics[width=.5\linewidth]{images/Drone-Concept.png}
-    \caption{}
+    \caption{Drone States}
 \end{figure}
 
 States
@@ -1368,25 +1375,31 @@ All scripts are written in C\# following the guidelines that are outlined on Mic
 \begin{figure}[H]
     \centering
 	\includegraphics[width=.8\linewidth]{images/cinquebank.jpg}
-    \caption{}
+    \caption{Bank Exterior}
 \end{figure}
 
 \begin{figure}[H]
     \centering
 	\includegraphics[width=.8\linewidth]{images/insidebank.jpg}
-    \caption{}
+    \caption{Vault Interior}
 \end{figure}
 
 \begin{figure}[H]
     \centering
 	\includegraphics[width=.8\linewidth]{images/tellerscolour.jpg}
-    \caption{}
+    \caption{Bank --- Main Lobby}
 \end{figure}
 
 \begin{figure}[H]
     \centering
 	\includegraphics[width=.8\linewidth]{images/tellerscolourDRONE.jpg}
-    \caption{}
+    \caption{Drone Pathing within Main Lobby}
+\end{figure}
+
+\begin{figure}[H]
+    \centering
+	\includegraphics[width=.8\linewidth]{images/tripWireVault.png}
+    \caption{Trip Wires Outside Vault}
 \end{figure}
 
 \end{document}
