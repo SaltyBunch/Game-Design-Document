@@ -633,20 +633,38 @@ Players will be able to walk, crouch and dash. Each of the movement states will 
 
 \subsubsection{Dexterity}
 
-\begin{itemize}
-    \item Each Thief will have their own dexterity stat
-    \item Dexterity dictates how difficult the quicktime events are
+\begin{minipage}{.85\linewidth}
     \begin{itemize}
-        \item The higher the Dexterity stat is, the faster it is to succeed.    
+        \item Each Thief will have their own dexterity stat
+        \item Dexterity dictates how difficult the quicktime events are
+        \begin{itemize}
+            \item The higher the Dexterity stat is, the faster it is to succeed.    
+        \end{itemize}
     \end{itemize}
-\end{itemize}
+\end{minipage} \hfill
+\begin{minipage}{.13\linewidth}
+    \begin{figure}[H]
+        \centering
+        \includegraphics[width=\linewidth]{images/DextUI.png}
+        \caption{Dexterity Icon}
+    \end{figure}
+\end{minipage}
 
 \subsubsection{Movement Speed}
 
-\begin{itemize}
-    \item Players and Drones will have different speed stats
-    \item Speed can be affected by certain weapons or defenses
-\end{itemize}
+\begin{minipage}{.85\linewidth}
+    \begin{itemize}
+        \item Players and Drones will have different speed stats
+        \item Speed can be affected by certain weapons or defenses
+    \end{itemize}
+\end{minipage} \hfill
+\begin{minipage}{.13\linewidth}
+    \begin{figure}[H]
+        \centering
+        \includegraphics[width=\linewidth]{images/SpeedUI.png}
+        \caption{Speed Icon}
+    \end{figure}
+\end{minipage}
 
 \section{Combat}
 
@@ -824,8 +842,8 @@ First Screen that the player has access to. Contains Start Game, Options, and Ex
 \begin{itemize}
     \item This screen starts after player selects Start Game, and includes multiple other screens.
     \begin{itemize}    
-        \item \textbf{Character Selection}: In this menu, players select their characters before the match starts
-        \item \textbf{Intro Cutscene}: This cutscene plays before the match starts, giving context for the game and explains the setting.
+        \item \textbf{Character Selection}: In this menu, players select their characters before the match starts (See Figure~\ref{fig:charSelect})
+        \item \textbf{Intro Cutscene}: This cutscene plays before the match starts, giving context for the game and explains the setting (See Figure~\ref{fig:storyboard})
         \item \textbf{Play State}: This screen includes everything in the actual game, from UI to the Characters. It is the main screen the players are going to be on.
         \item \textbf{End Game Screen}: This screen shows the winner’s character splash art then all of the players ranked in order of score in front of the vault (Figure~\ref{fig:uilayout}). This screen contains Main Menu and Exit Game buttons
     \end{itemize}
@@ -914,6 +932,7 @@ All four characters are introduced to the player through a slanted comic book st
     \includegraphics[width=.4\linewidth]{images/CharacterSelection3.JPG}
     \includegraphics[width=.4\linewidth]{images/CharacterSelection4.JPG}
     \caption{Character Selection Screens}
+    \label{fig:charSelect}
 \end{figure}
 
 \section{Control Scheme}
